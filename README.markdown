@@ -47,3 +47,12 @@ The String form uses the default Summize behavior, which in this example finds t
     
 		<tr><td><a href="/search?q=hilarious+filter%3Alinks">hilarious <b>filter:links</b></a></td><td>containing "hilarious" and linking to URLs.</td></tr>
 </table>
+
+## License
+
+MIT License, same terms as Ruby.
+
+## Authors
+
+Written by Dustin Sallings (dustin@spy.net) and Dan Croak (dcroak@thoughtbot.com).
+
