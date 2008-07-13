@@ -1,33 +1,25 @@
-require File.expand_path('../lib/summize', File.dirname(__FILE__))
-require 'test/unit'
-require 'rubygems'
-require 'shoulda'
-require 'factory_girl'
-require 'yaml'
+require File.join File.dirname(__FILE__), 'test_helper'
 
 class SummizeTest < Test::Unit::TestCase # :nodoc:
 
-  context 'A Summize search' do
-    context 'for Obama' do
-      setup do
-        @tweets = read_yaml :file => 'obama'
-      end
-
-      should 'return tweets' do
-        assert @tweets.any?
-      end
-
-      should 'have text for each tweet' do
-        assert @tweets.all? { |tweet| !tweet.blank? }
-      end
-      
-      should 'return page one' do
-        assert_equal 1, @tweets.page
-      end
-      
-      should 'return 15 results per page' do
-        assert_equal 15, @tweets.results_per_page
-      end
+  context "@client.query('Obama')" do
+    setup do
+      @tweets = read_yaml :file => 'obama'
+    end
+    
+    should_find_tweets
+    should_have_text_for_all_tweets
+    
+    should 'return page one' do
+      assert_equal 1, @tweets.page
+    end
+    
+    should 'return 15 results per page' do
+      assert_equal 15, @tweets.results_per_page
+    end
+    
+    should 'have text containing the word "Obama"' do
+      assert @tweets.all? { |tweet| tweet.text.include? 'Obama' }
     end
   end
   

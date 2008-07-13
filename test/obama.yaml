@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857419464
-next_page: ?page=2&max_id=857419464&q=Obama
+max_id: 857457684
+next_page: ?page=2&max_id=857457684&q=Obama
 page: 1
 query: Obama
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:35:59 +0000
+  created_at: Sun, 13 Jul 2008 20:48:14 +0000
+  from_user: MyFoxNY
+  id: 857457684
+  language: en
+  text: "Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed up to a 50-percent ta.. http://tinyurl.com/58kkja"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:48:07 +0000
+  from_user: Reuters_Biz
+  id: 857457628
+  language: en
+  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/kaq6"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:47:56 +0000
+  from_user: cnn
+  id: 857457504
+  language: en
+  text: "CNN exclusive: Obama on foreign policy http://tinyurl.com/65bs5r"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:47:24 +0000
+  from_user: MyFoxKC
+  id: 857457201
+  language: en
+  text: "Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed up to a 50-percent ta.. http://tinyurl.com/6m8pg5"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:47:06 +0000
+  from_user: financialtimes
+  id: 857457017
+  language: en
+  text: "US allies to press Obama over Iran: Israel and the US's European allies intend privately to make c.. http://tinyurl.com/6hmdz6"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:46:43 +0000
+  from_user: plasticbasket
+  id: 857456795
+  language: en
+  text: "AlterNet.org: Obama Gets on Topic with Women - http://tinyurl.com/57q8t7"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:46:43 +0000
+  from_user: plasticbasket
+  id: 857456794
+  language: en
+  text: "AlterNet.org: Obama Gets on Topic with Women - http://tinyurl.com/6q2jtw"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:46:42 +0000
+  from_user: twaboutMCCAIN
+  id: 857456781
+  language: en
+  text: "twaboutMCCAIN> Obama, McCain And Their Awkward Hispanic Outreach: Like eager but a.. http://tinyurl.com/5glymh"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:45:18 +0000
+  from_user: reuters
+  id: 857455994
+  language: en
+  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/faq6"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:45:18 +0000
+  from_user: Reuters_TopNews
+  id: 857455987
+  language: en
+  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/haq6"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:45:16 +0000
+  from_user: Reuters_US
+  id: 857455969
+  language: en
+  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/faq6"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:42:03 +0000
+  from_user: foxchicago
+  id: 857454350
+  language: en
+  text: "Obama, McCain And Their Awkward Hispanic Outreach: Like eager but awkward suitors, Barack Obama and Jo.. http://tinyurl.com/6zjgh6"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:41:03 +0000
+  from_user: c4chaos
+  id: 857453846
+  language: en
+  text: "reading the transcript of Obama's interview on Fareed Zakaria GPS: http://bit.ly/3S20iz"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:37:33 +0000
   from_user: toss_garbage
-  id: 857419464
+  id: 857452055
   language: en
-  text: McCain making play at NAACP for votes Obama should win http://tinyurl.com/66d92e
+  text: "'Masters of the Universe' @ Bohemian Grove: Obama & Mac, GWB http://tinyurl.com/5s3fxv"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:34:28 +0000
-  from_user: headlinenews
-  id: 857418612
+  created_at: Sun, 13 Jul 2008 20:37:25 +0000
+  from_user: KatyDidSays
+  id: 857451989
   language: en
-  text: "CNN: CNN exclusive: Obama on foreign policy: Sen. Barack Obama discussed his vision for the worl.. http://tinyurl.com/6xam93"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:33:34 +0000
-  from_user: xavierla
-  id: 857418155
-  language: en
-  text: "@roadkillrefugee love this from obama'as speech to nclr http://twitpic.com/3xuk"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:32:42 +0000
-  from_user: HeadingtonMedia
-  id: 857417690
-  language: en
-  text: in San Diego for the National Councile of La Raza 40th Annual Conference.  Obama speaks in a few minutes.
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:30:57 +0000
-  from_user: cocofeather
-  id: 857416879
-  language: en
-  text: "Logan Square bum to me: \"but you got a Obama shirt on--you gotta have some change!\""
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:30:14 +0000
-  from_user: denverposttalk
-  id: 857416512
-  language: en
-  text: "Comment: Rev. Jesse Jackson gets right to apology: Jesse is mad because Obama wants everyone to r.. http://tinyurl.com/585x9n"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:29:33 +0000
-  from_user: nyquildotorg
-  id: 857416147
-  language: en
-  text: has anyone played the 'Barack Obama has a black baby!' card yet?
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:28:18 +0000
-  from_user: shuyaohno
-  id: 857415555
-  language: en
-  text: about to see Obama bring it to La Raza
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:28:15 +0000
-  from_user: montanaBNN
-  id: 857415529
-  language: en
-  text: "Billings Blog: Stupid or dishonest?: The silly debate over Barack Obama's comments about learning a se.. http://tinyurl.com/6eno5a"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:27:19 +0000
-  from_user: missouriBNN
-  id: 857415066
-  language: en
-  text: "Show Me Progress: Michelle Obama in Kansas City - Q and A: \"...And when you have to pay for justice, .. http://tinyurl.com/5ptd28"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:25:42 +0000
-  from_user: twOBAMA
-  id: 857414217
-  language: en
-  text: twOBAMA> (photo via Paper Cuts @ NYTimes) Just finished watching Barack Obama's interview on F.. http://tinyurl.com/5qz97h
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:25:41 +0000
-  from_user: twOBAMA
-  id: 857414203
-  language: en
-  text: "twOBAMA> Obama Slams McCain for Voting Against Education Funding | Politicususa: Speaking by s.. http://tinyurl.com/5cde5y"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:25:40 +0000
-  from_user: twOBAMA
-  id: 857414196
-  language: en
-  text: twOBAMA> [Interesting] So Obama was all like, "Biden, you're my BFF." But then Obama picked Ha.. http://tinyurl.com/55bx3q
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:25:39 +0000
-  from_user: twOBAMA
-  id: 857414185
-  language: en
-  text: twOBAMA> Obama says recession is real - International Herald Tribune http://tinyurl.com/5zpjtz http://tinyurl.com/5z52so
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:25:39 +0000
-  from_user: californiaBNN
-  id: 857414183
-  language: nl
-  text: "Total Buzz: Schwarzenegger open to serving in Obama administration: I\xE2\x80\x99m in San Diego waiting .. http://tinyurl.com/6kh7yv"
+  text: My Grandma just told @AmyJustine that she could pass as a relative of Barak Obama.
 results_per_page: 15
 since_id: 0

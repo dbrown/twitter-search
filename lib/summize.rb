@@ -21,7 +21,7 @@ module Summize
     include Enumerable
 
     def initialize(h)
-      @results = h['results'].map {|r| Tweet.new r }
+      @results = h['results'].map { |tweet| Tweet.new tweet }
       VARS.each { |v| instance_variable_set "@#{v}", h[v.to_s] }
     end
 
@@ -41,13 +41,21 @@ module Summize
 
     def query(opts = {})
       url = URI.parse 'http://summize.com/search.json'
-      url.query = sanitize_url(opts)
+      url.query = sanitize_query opts
       Tweets.new JSON.parse(Net::HTTP.get(url))
     end
 
     private
 
-      def sanitize_url(query_hash)
+      def sanitize_query(opts)
+        if opts.is_a? String
+          "q=#{URI.escape(opts)}" 
+        elsif opts.is? Hash
+          sanitize_query_hash(opts)
+        end
+      end
+
+      def sanitize_query_hash(query_hash)
         query_hash.map{ |k,v| "#{URI.escape(k.to_s)}=#{URI.escape(v.to_s)}" }.join('&')
       end
   end
