@@ -51,7 +51,7 @@ module Summize
       def sanitize_query(opts)
         if opts.is_a? String
           "q=#{URI.escape(opts)}" 
-        elsif opts.is? Hash
+        elsif opts.is_a? Hash
           sanitize_query_hash(opts)
         end
       end

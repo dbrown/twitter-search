@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857467896
-next_page: ?page=2&max_id=857467896&q=Obama
+max_id: 857493519
+next_page: ?page=2&max_id=857493519&q=Obama
 page: 1
 query: Obama
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:07:30 +0000
-  from_user: Cooperativa
-  id: 857467896
-  language: es
-  text: "Obama pidi\xC3\xB3 apoyo a latinos y prometi\xC3\xB3 no abandonarlos tras los comicios http://tinyurl.com/5v5egb"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:06:28 +0000
-  from_user: bullmancuso
-  id: 857467355
-  language: es
-  text: "[Politico]: Arnold may consider Obama energy post - Mike Allen - Politico.com. http://x.newsjunk.com/0UK"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:06:01 +0000
-  from_user: newsjunkies
-  id: 857467135
-  language: es
-  text: "[Politico]: Arnold may consider Obama energy post - Mike Allen - Politico.com. http://x.newsjunk.com/0UK"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:00:11 +0000
-  from_user: BTRrightpolitic
-  id: 857463988
+  created_at: Sun, 13 Jul 2008 21:55:46 +0000
+  from_user: huffingtonpost
+  id: 857493519
   language: en
-  text: Snooper just did a great show. Listen to the Pelosi and Obama - wow podcast at BlogTalkRadio http://tobtr.com/227965
+  text: "Frank Schaeffer: \"Real Americans\" Are Stupid! Obama vs. Mitt Romney and Jesse Jackson: So now we h.. http://tinyurl.com/6627uv"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:59:10 +0000
-  from_user: financebcdc
-  id: 857463351
+  created_at: Sun, 13 Jul 2008 21:55:27 +0000
+  from_user: ddeddfbeefa
+  id: 857493353
   language: en
-  text: Obama suggests credit for business health care - The Associated Press.. www.downloading4hookinformation.com
+  text: Barack Obama's flip-flopping his way to the presidency Sun-Sentinel.com Is John McCain too old to be President?
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:56:35 +0000
-  from_user: twOBAMA
-  id: 857462076
+  created_at: Sun, 13 Jul 2008 21:55:26 +0000
+  from_user: cfdbcffcad
+  id: 857493341
   language: en
-  text: "twOBAMA> Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed u.. http://tinyurl.com/5658yp"
+  text: "Washington Post Hair apparent: Obama shows toll of campaign The Age, Australia - 7 hours ago So has Senator Obama been colouring his hair?"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:56:34 +0000
-  from_user: twOBAMA
-  id: 857462066
+  created_at: Sun, 13 Jul 2008 21:55:24 +0000
+  from_user: daffbfbd
+  id: 857493326
   language: en
-  text: "twOBAMA> Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/kaq6 http://tinyurl.com/6r33nk"
+  text: "Hair apparent: Obama shows toll of campaign - The Age. ..."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:56:33 +0000
-  from_user: twOBAMA
-  id: 857462056
+  created_at: Sun, 13 Jul 2008 21:54:23 +0000
+  from_user: gossipbot
+  id: 857492738
   language: en
-  text: "twOBAMA> CNN exclusive: Obama on foreign policy http://tinyurl.com/65bs5r http://tinyurl.com/5onwhd"
+  text: "From CNNnews - CNN exclusive: Obama on foreign policy, http://tinyurl.com/65bs5r"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:56:32 +0000
-  from_user: twOBAMA
-  id: 857462043
-  language: en
-  text: "twOBAMA> Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed u.. http://tinyurl.com/6nzd6g"
+  created_at: Sun, 13 Jul 2008 21:53:03 +0000
+  from_user: berlingske
+  id: 857492052
+  language: da
+  text: "Obama forspring mindsker: Demokraternes pr\xC3\xA6sidentkandidat, Barack Obamas, forspring i meningsm\xC3\xA5linger .. http://tinyurl.com/6dnqsz"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:56:31 +0000
-  from_user: twOBAMA
-  id: 857462039
+  created_at: Sun, 13 Jul 2008 21:49:16 +0000
+  from_user: tnr
+  id: 857489979
   language: en
-  text: "twOBAMA> US allies to press Obama over Iran: Israel and the US's European allies intend privat.. http://tinyurl.com/5s8nyh"
+  text: "THE STUMP: Obama and Trinity Revisited http://tinyurl.com/6cpqqj"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:48:14 +0000
-  from_user: MyFoxNY
-  id: 857457684
-  language: en
-  text: "Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed up to a 50-percent ta.. http://tinyurl.com/58kkja"
+  created_at: Sun, 13 Jul 2008 21:48:38 +0000
+  from_user: sir_pepe
+  id: 857489634
+  language: de
+  text: "Obama ist \xC3\xBCberall: http://img.waffleimages.com/58333154cffb33cdada2ab7ad1cb3f846ac27073/2dl1zlk.jpg"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:48:07 +0000
-  from_user: Reuters_Biz
-  id: 857457628
+  created_at: Sun, 13 Jul 2008 21:47:47 +0000
+  from_user: arpecop
+  id: 857489157
   language: en
-  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/kaq6"
+  text: "Fannie/Freddie support must help homeowners: Obama http://twurl.nl/de8r1l"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:47:56 +0000
-  from_user: cnn
-  id: 857457504
+  created_at: Sun, 13 Jul 2008 21:47:46 +0000
+  from_user: arpecop
+  id: 857489150
   language: en
-  text: "CNN exclusive: Obama on foreign policy http://tinyurl.com/65bs5r"
+  text: Fannie/Freddie support must help homeowners-Obama http://twurl.nl/bgh78s
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:47:24 +0000
-  from_user: MyFoxKC
-  id: 857457201
+  created_at: Sun, 13 Jul 2008 21:46:28 +0000
+  from_user: twaboutMCCAIN
+  id: 857488371
   language: en
-  text: "Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed up to a 50-percent ta.. http://tinyurl.com/6m8pg5"
+  text: twaboutMCCAIN> @Karoli The Obama/Jackson flap tends to disrupt use of the full Nix.. http://tinyurl.com/6dvzkq
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:47:06 +0000
-  from_user: financialtimes
-  id: 857457017
+  created_at: Sun, 13 Jul 2008 21:46:03 +0000
+  from_user: MikeChapman
+  id: 857488173
   language: en
-  text: "US allies to press Obama over Iran: Israel and the US's European allies intend privately to make c.. http://tinyurl.com/6hmdz6"
+  text: "@petersantilli Hello, Peter. Thanks for making the connection. I glanced at your blog. Good stuff. I'm supporting Obama, let's chat some."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:45:20 +0000
+  from_user: asprettyasasong
+  id: 857487766
+  language: en
+  text: KJS votes in favor of NM and Team Obama!
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:42:25 +0000
+  from_user: vaxen_var
+  id: 857486215
+  language: en
+  text: "@jennycool In other words Winer is both a winer and a weiner! Hey, so is Obama. King of shades."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:41:33 +0000
+  from_user: vaxen_var
+  id: 857485781
+  language: en
+  text: "@jennycool you really meant that Obama Rama won't be getting anymore free Pizza, right?"
 results_per_page: 15
 since_id: 0

@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857485843
+next_page: ?page=2&max_id=857485843&q=%22happy+hour%22
+page: 1
+query: "\"happy hour\""
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:41:41 +0000
+  from_user: snb
+  id: 857485843
+  language: en
+  text: Estonians are serious about drinking. instead of happy hour, you get happy *day*. buy a beer and they just hand you two for the same price.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:22:04 +0000
+  from_user: a_trish
+  id: 857443808
+  language: en
+  text: "@johnrhopkins are you going to re:fresh happy hour?"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:14:14 +0000
+  from_user: danielhadaway
+  id: 857439403
+  language: en
+  text: It truly is a happy hour when I can get a vanilla dr pepper for less than a dollar!
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:08:14 +0000
+  from_user: nullsession
+  id: 857436218
+  language: en
+  text: Heading to Sonic for --cold-- Happy Hour drinks!
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:06:59 +0000
+  from_user: NicoPisani
+  id: 857435482
+  language: en
+  text: "Agent Insider Travel Tip: WEDNESDAYS are happy hour secret airfare rates. Sometimes airlines open seats at great rates for a few hours;)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:55:05 +0000
+  from_user: smt65
+  id: 857429455
+  language: en
+  text: "@jcstille foshing?  It's happy hour somewhere, right John?"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:44:47 +0000
+  from_user: urbannerd
+  id: 857391514
+  language: en
+  text: "@DirtyWhoreleb have a champagne brunch, and kill 3 birds (breakfast, lunch & happy hour) w/ 1 stone."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 17:49:37 +0000
+  from_user: smartinez
+  id: 857361012
+  language: en
+  text: "@vdub144 oh, go ahead, make the coffee. it's like happy hour - it's 9AM somewhere..."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 14:56:44 +0000
+  from_user: andylee
+  id: 857256310
+  language: en
+  text: mississippi is now my fav of month restaurant. good value meals and happy hour specials until 11pm. best part, walkable from the dip com
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 13:16:57 +0000
+  from_user: ffckp
+  id: 857202555
+  language: en
+  text: "Transfer Talk: Happy Hour at Havana's - Yahoo! Eurosport: Yahoo! EurosportTransfer Talk: Happy Hour at .. http://tinyurl.com/5scjsm"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 06:58:11 +0000
+  from_user: SuperPat1972
+  id: 857060469
+  language: en
+  text: Happy Hour is LONG over.  :(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 06:55:24 +0000
+  from_user: jayv
+  id: 857059030
+  language: en
+  text: Happy hour is almost over!! :(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 06:42:52 +0000
+  from_user: demonbane
+  id: 857052479
+  language: en
+  text: Just ran up an $80  happy hour drink tab with @herichon & friend from out of town. Now heading to Rachel's bday party to *really* drink. :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 06:29:18 +0000
+  from_user: Homas
+  id: 857045345
+  language: en
+  text: Boulder cafe for happy hour.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 06:07:48 +0000
+  from_user: ryansnyder
+  id: 857036555
+  language: en
+  text: "@kveton You still need to try the Kobe burger at Masu. $6 happy hour. Best in town."
+results_per_page: 15
+since_id: 0

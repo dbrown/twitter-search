@@ -10,8 +10,17 @@ namespace :yaml do
     
     @client = Summize::Client.new 'ruby-summize'
     
-    write_yaml :tweets => @client.query('Obama'), :file => 'obama'
-    write_yaml :tweets => @client.query('twitter search'), :file => 'twitter_search'
+    write_yaml :tweets => @client.query('Obama'), 
+               :file   => 'obama'
+    
+    write_yaml :tweets => @client.query('twitter search'), 
+               :file   => 'twitter_search'
+    
+    write_yaml :tweets => @client.query(:q => 'twitter search'), 
+               :file   => 'twitter_search_and'
+    
+    write_yaml :tweets => @client.query(:q => '"happy hour"'), 
+               :file   => 'happy_hour_exact'
   end
 end
 

@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857449843
+next_page: ?page=2&max_id=857449843&q=twitter+search
+page: 1
+query: twitter search
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:33:30 +0000
+  from_user: lvdjgarcia
+  id: 857449843
+  language: en
+  text: "@leolaporte check out   http://summize.com/search?q=cnet+woz  lots of reactions on Twitter"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:15:06 +0000
+  from_user: nechmads
+  id: 857408257
+  language: en
+  text: "@loiclemeur @orli, I actually agree. I use FriendFeed and Twitter as RSS reader replacement and spend with them much more time than search"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 17:16:03 +0000
+  from_user: Mis_feeds
+  id: 857341385
+  language: en
+  text: "Summize Conversational Search: Twitter Twitter search engine.\n \n \xC2\xA0bookmark\xC2\xA0this\xC2\xA0on\xC2\xA0del.icio.us\n -\n posted by .. http://summize.com/"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:55:24 +0000
+  from_user: roessler
+  id: 857329280
+  language: en
+  text: Contemplating twitter-feeding screen-scraper for Lux real estate search site.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 14:35:38 +0000
+  from_user: takkaw
+  id: 857244110
+  language: nl
+  text: "[\xE3\x83\xA1\xE3\x83\xA2]twitter\xE6\xA4\x9C\xE7\xB4\xA2 : http://twitter.1x1.jp/search/"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 14:24:41 +0000
+  from_user: bact
+  id: 857237928
+  language: en
+  text: Green Bangkok Wi-Fi speed is ok. 64 kbps is enough for e-mail, rss, news, search engine, google docs, and twitter. what else do we need ?
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 13:35:19 +0000
+  from_user: pascalvanhecke
+  id: 857212030
+  language: en
+  text: "Twitter @reply note: don't add a colon \":\" directly after \"@username\" or it won't show up in replies tab nor in summize search (@bartclaeys)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 13:30:17 +0000
+  from_user: blackfonzie
+  id: 857209387
+  language: en
+  text: "@gdwscott Yes, the more you post the more you get hit. Also I think they search Twitter for words you use  (I'll test: iPhone iPhone iPhone)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 09:23:43 +0000
+  from_user: key_
+  id: 857112439
+  language: ja
+  text: "\xE3\x81\x84\xE3\x81\xBE\xE3\x81\x95\xE3\x82\x89\xE9\x81\x8E\xE3\x81\x8E\xE3\x82\x8B\xE3\x81\x91\xE3\x81\xA9Twitter\xE6\xA4\x9C\xE7\xB4\xA2\xE3\x82\x84\xE3\x81\xB0\xE3\x81\x99\xE3\x81\x8E\xE3\x81\xA0\xE3\x82\x8D http://twitter.1x1.jp/search/ \xE3\x81\x93\xE3\x81\x86\xE3\x82\x84\xE3\x81\xA3\xE3\x81\xA6follow\xE3\x81\x97\xE3\x81\x9F\xE3\x81\x84\xE4\xBA\xBA\xE5\xA2\x97\xE3\x82\x84\xE3\x81\x99\xE3\x81\xAE\xE3\x81\xA0\xE3\x81\xAA\xE3\x81\x82"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 06:26:48 +0000
+  from_user: Orli
+  id: 857044197
+  language: en
+  text: "@mdjensen, find your Twitter friends on FriendFeed; http://url.ie/isk  is not working well - big letter shouldn't impact the search."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 06:07:39 +0000
+  from_user: pixel_juice
+  id: 857036519
+  language: en
+  text: "@windrixville, @mrbnatural, @dalekspkeaton you may also want to try out http://summize.com/ to search twitter."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 05:47:18 +0000
+  from_user: maggiev
+  id: 857028638
+  language: en
+  text: "@emerge2008: picked up another great tool from Nancy.. http://summize.com/ search twitter realtime for topics"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 05:46:07 +0000
+  from_user: Sethran
+  id: 857028147
+  language: en
+  text: "Question: How do you decide who to follow on Twitter? Do you use the public timeline, follow friends follows, search?"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 03:28:44 +0000
+  from_user: MrJDB
+  id: 856964863
+  language: en
+  text: "@jkbps3 there really isnt a way to find a person if you dont know their twitter handle,you can try to put their real name n search box"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 02:26:04 +0000
+  from_user: mmossman
+  id: 856933337
+  language: en
+  text: "@teach42 Re: your Twitter poll.  I go back 3-4 pages, then do a Summize search to see if I missed any replies to me."
+results_per_page: 15
+since_id: 0

@@ -16,18 +16,17 @@ Request tweets by calling the query method of your client. It takes either a Str
 
     @tweets = @client.query 'twitter search'
 
-The String form uses the default Summize behavior, which in this example finds tweets containing both "twitter" and "search".
+The String form uses the default Summize behavior, which in this example finds tweets containing both "twitter" and "search". It is identical to:
 
-    @tweets = @client.query :inclusive => 'twitter search'
+    @tweets = @client.query :q => 'twitter search'
     
-
-    @tweets.each { |tweet| puts tweet.text }
+Use Summize's query operators with the :q key to access the following behavior:
 
 <table>
 		<tr><th>Operator</th><th>Finds tweets...</th></tr>
     
-		<tr><td><a href="/search?q=twitter+search">twitter search</a></td><td>containing both "twitter" and "search". This is the default operator.</td></tr>
-		<tr><td><a href="/search?q=%22happy+hour%22"><b>"</b>happy hour<b>"</b></a></td><td>containing the exact phrase "happy hour".</td></tr>
+		<tr><td><a href="/search?q=twitter+search">:q => 'twitter search'</a></td><td>containing both "twitter" and "search". This is the default operator.</td></tr>
+		<tr><td><a href="/search?q=%22happy+hour%22">:q => '"happy hour"'</a></td><td>containing the exact phrase "happy hour".</td></tr>
 		<tr><td><a href="/search?q=obama+OR+hillary">obama <b>OR</b> hillary</a></td><td>containing either "obama" or "hillary" (or both).</td></tr>
     
 		<tr><td><a href="/search?q=beer+-root">beer <b>-</b>root</a></td><td>containing "beer" but not "root".</td></tr>
