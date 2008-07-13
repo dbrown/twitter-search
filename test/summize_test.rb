@@ -122,6 +122,17 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
+  # TODO: :q => '"happy hour" <b>near:</b>"san francisco"' containing the exact phrase "happy hour" and sent near "san francisco"
+  # TODO: :q => '<b>near:</b>NYC <b>within:</b>15mi</a>'</td><td>sent within 15 miles of "NYC"
+  # TODO: :q => 'superhero <b>since:</b>2008-05-01'</a></td><td>containing "superhero" and sent since date "2008-05-01" (year-month-day)
+  # TODO: :q => 'ftw <b>until:</b>2008-05-03'</a></td><td>containing "ftw" and sent up to date "2008-05-03"
+  # TODO: :q => 'movie -scary <b>:)</b>'</a></td><td>containing "movie", but not "scary", and with a positive attitude
+  # TODO: :q => 'flight <b>:(</b>'</a></td><td>containing "flight" and with a negative attitude.
+  # TODO: :q => 'traffic <b>?</b>'</a></td><td>containing "traffic" and asking a question
+  # TODO: :q => 'hilarious <b>filter:links</b>'</a></td><td>containing "hilarious" and linking to URLs
+  
+  # TODO: pagination
+  
   protected
   
     def read_yaml(opts = {})
