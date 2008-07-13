@@ -1,0 +1,100 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857513888
+next_page: ?page=2&max_id=857513888&q=hilarious+filter%3Alinks
+page: 1
+query: hilarious filter:links
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:32:49 +0000
+  from_user: danielbru
+  id: 857513888
+  language: en
+  text: I think this is hilarious! http://www.flickr.com/photos/dbrusilovsky/2662855754/ It was on the huge iPhone displays :P
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:43:07 +0000
+  from_user: sanfranmash
+  id: 857486541
+  language: en
+  text: "via @infinitelymeta: Hilarious to think that some are moving from micro/blogging to listserv style emails. Yet ... http://tinyurl.com/5tjv3r"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:43:06 +0000
+  from_user: seattlemash
+  id: 857486532
+  language: en
+  text: "via @infinitelymeta: Hilarious to think that some are moving from micro/blogging to listserv style emails. Yet ... http://tinyurl.com/5tjv3r"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:38:36 +0000
+  from_user: jackdeuce
+  id: 857484318
+  language: en
+  text: just saw http://thewebsiteisdown.com/ for the first time. HILARIOUS! ...does this mean i'm a geek? guess i am. :-)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:30:22 +0000
+  from_user: mjrinella
+  id: 857479919
+  language: en
+  text: Listening to wierd al. Mainly, polkarama and drive thru. Hilarious! http://youtube.com/watch?v=FT060JGp9sQ
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:17:37 +0000
+  from_user: DreamR
+  id: 857473341
+  language: en
+  text: "@caseymckinnon Your dream series are always hilarious http://tinyurl.com/5b4r9q"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:18:56 +0000
+  from_user: brianrobinson
+  id: 857441993
+  language: en
+  text: |-
+    Found a hilarious Karate Kid music video at http://tinyurl.com/6lrl34
+    the ending is funny.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:59:22 +0000
+  from_user: tjshirey
+  id: 857431502
+  language: en
+  text: "for some reason i find this absolutely hilarious: http://tinyurl.com/57ropq"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:39:44 +0000
+  from_user: ohithere
+  id: 857421300
+  language: en
+  text: "Hahahahaha! what a hilarious tradition. I wish us losers in Phoenix had class like this: http://www.moonamtrak.org"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:36:30 +0000
+  from_user: toss_garbage
+  id: 857419718
+  language: en
+  text: Top 10 Hilarious Geek Pranks http://tinyurl.com/554kgx
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:18:23 +0000
+  from_user: RenoPassport
+  id: 857377060
+  language: en
+  text: Check out new hilarious blog posts on http://renopassport.blogspot.com/ courtesy of @TommyGuns
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:07:03 +0000
+  from_user: MParekh
+  id: 857370753
+  language: en
+  text: "Hilarious kerfuffle over Congressional use of services like Twitter, Qik, et al: http://tinyurl.com/64jnbj More things change..."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 17:42:50 +0000
+  from_user: fbbdefebedfc
+  id: 857356991
+  language: en
+  text: Tonight will feature the hilarious home videos of dogs, cats and other pets. http://www.dogstroller.info/dogstroller/cheapdogstrollers
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:51:19 +0000
+  from_user: trendy85
+  id: 857326885
+  language: en
+  text: hilarious! shaq attempts to jump over an escalade with a surprise ending!   http://tinyurl.com/6k23mt
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:50:47 +0000
+  from_user: trendy85
+  id: 857326512
+  language: en
+  text: hilarious! shaq attempts to jump over an escalade with a surprise ending! http://tinyurl.com/6k23mt
+results_per_page: 15
+since_id: 851521114

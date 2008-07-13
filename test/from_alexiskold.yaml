@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857463792
+next_page: ?page=2&max_id=857463792&q=from%3Aalexiskold
+page: 1
+query: from:alexiskold
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:26:39 +0000
+  from_user: alexiskold
+  id: 857414716
+  language: de
+  text: "@joshk There is Wegmans in Bethlehem: http://tinyurl.com/6rquqv"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:07:21 +0000
+  from_user: alexiskold
+  id: 857370932
+  language: en
+  text: Testing new AdaptiveBlue iPhone App ;)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 17:23:18 +0000
+  from_user: alexiskold
+  id: 857345759
+  language: en
+  text: "@Emre Sokullu  exactly, thats the added value and a way for them to win the users back. They should exploit it."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:22:41 +0000
+  from_user: alexiskold
+  id: 857309238
+  language: en
+  text: Borders just does not get it. To compete with Amazon it should sell stuff cheaper in the store than Amazon sells online.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 13:48:11 +0000
+  from_user: alexiskold
+  id: 857218686
+  language: en
+  text: Back at home in NJ. Up early playing with Sofia - she is such a cutie!
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 13:41:42 +0000
+  from_user: alexiskold
+  id: 857215251
+  language: en
+  text: "@Fraser welcome back, hope you had a blast!"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 02:17:31 +0000
+  from_user: alexiskold
+  id: 856928886
+  language: en
+  text: Productive plane ride - 2 blog posts, one about iPhone another one about future software. That's 3 posts total for today.
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 22:23:21 +0000
+  from_user: alexiskold
+  id: 856813382
+  language: sv
+  text: FLL => EWR
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 19:06:27 +0000
+  from_user: alexiskold
+  id: 856711222
+  language: en
+  text: "@dom yes, it really is frustrating. After I upgraded to iPhone 2.0 os, things are far from snappy. Seems like thread scheduler issues."
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 18:39:37 +0000
+  from_user: alexiskold
+  id: 856695832
+  language: en
+  text: Tropicana pomergranade/blueberry juice rocks.
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 16:55:37 +0000
+  from_user: alexiskold
+  id: 856632387
+  language: en
+  text: Just wrote a post about Facebook platform. This was one of the toughest posts to write in a while - lots of good and bad mixed in.
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 14:16:01 +0000
+  from_user: alexiskold
+  id: 856529110
+  language: en
+  text: Last day at the beach wishing I was at foocamp instead.
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 14:14:55 +0000
+  from_user: alexiskold
+  id: 856528457
+  language: en
+  text: Picked 5 random people to follow on Twitter just for fun last night. Will see how it goes.
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 03:36:45 +0000
+  from_user: alexiskold
+  id: 856249167
+  language: en
+  text: "@DuckBrown   I think Twiterrific tips were nice, but they should not have been showing them over and over on each screen. Once is enough."
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 03:35:51 +0000
+  from_user: alexiskold
+  id: 856248686
+  language: en
+  text: Watching Lars and the Real Girl. Its sort of good but not great, I dunno, can't put my finger on it. Will see how it ends.
+results_per_page: 15
+since_id: 0

@@ -1,9 +1,33 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857449843
-next_page: ?page=2&max_id=857449843&q=twitter+search
+max_id: 857510300
+next_page: ?page=2&max_id=857510300&q=twitter+search
 page: 1
 query: twitter search
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:26 +0000
+  from_user: dkottke
+  id: 857510300
+  language: en
+  text: coaching Barry Brilliant thru creating his twitter account... hey, how come my own name won't come up in a search, what's with that???!
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:20 +0000
+  from_user: jasonboucher
+  id: 857510251
+  language: en
+  text: "@samluce just search \"twitter\" on facebook and you are good to go."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:23:25 +0000
+  from_user: benmarvin
+  id: 857508637
+  language: en
+  text: Wow, those live pics of the thunder exploded all over Twitter. http://summize.com/search?q=Blackberry
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:19:19 +0000
+  from_user: jasonboucher
+  id: 857506317
+  language: en
+  text: "@garethgilpin just search \"twitter\" in facebook and it walks you through it."
 - !ruby/object:Summize::Tweet 
   created_at: Sun, 13 Jul 2008 20:33:30 +0000
   from_user: lvdjgarcia
@@ -70,29 +94,5 @@ results:
   id: 857036519
   language: en
   text: "@windrixville, @mrbnatural, @dalekspkeaton you may also want to try out http://summize.com/ to search twitter."
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 05:47:18 +0000
-  from_user: maggiev
-  id: 857028638
-  language: en
-  text: "@emerge2008: picked up another great tool from Nancy.. http://summize.com/ search twitter realtime for topics"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 05:46:07 +0000
-  from_user: Sethran
-  id: 857028147
-  language: en
-  text: "Question: How do you decide who to follow on Twitter? Do you use the public timeline, follow friends follows, search?"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 03:28:44 +0000
-  from_user: MrJDB
-  id: 856964863
-  language: en
-  text: "@jkbps3 there really isnt a way to find a person if you dont know their twitter handle,you can try to put their real name n search box"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 02:26:04 +0000
-  from_user: mmossman
-  id: 856933337
-  language: en
-  text: "@teach42 Re: your Twitter poll.  I go back 3-4 pages, then do a Summize search to see if I missed any replies to me."
 results_per_page: 15
 since_id: 0

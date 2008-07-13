@@ -6,6 +6,13 @@ require 'yaml'
 
 class Test::Unit::TestCase
   
+  def self.should_have_default_search_behaviors
+    should_find_tweets
+    should_have_text_for_all_tweets
+    should_return_page 1
+    should_return_tweets_in_sets_of 15
+  end
+  
   def self.should_find_tweets
     should 'find tweets' do
       assert @tweets.any?

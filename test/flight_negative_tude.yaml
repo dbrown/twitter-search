@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857492822
+next_page: ?page=2&max_id=857492822&q=flight+%3A%28
+page: 1
+query: flight :(
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:54:32 +0000
+  from_user: mirven
+  id: 857492822
+  language: en
+  text: Sitting on an airplane in austin, flight delayed 1 hour :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:20:29 +0000
+  from_user: Knightfourteen
+  id: 857474941
+  language: en
+  text: Breakfast was awesome. Now time to pack and get back on teh plane. 5 hour flight :P
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:24:02 +0000
+  from_user: idalreadypls
+  id: 857444875
+  language: en
+  text: should have brought my computer charger. flight delayed. 25% remaining charge :(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:22:12 +0000
+  from_user: tevetorbes
+  id: 857443863
+  language: en
+  text: Mom's flight canceled- she'll be 8 HOURS late :(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:33:11 +0000
+  from_user: yjoshi
+  id: 857385168
+  language: en
+  text: reached Egypt today.. after a long long (and delayed) flight... got robbed thanks to india calling rates (i should have checked) :(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:23:24 +0000
+  from_user: missrogue
+  id: 857379938
+  language: en
+  text: Rebooked my flight to leave tonight. :(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:18:32 +0000
+  from_user: Hibippytea
+  id: 857377156
+  language: en
+  text: On plane now but flight is delayed :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 14:41:44 +0000
+  from_user: qualityfrog
+  id: 857247617
+  language: en
+  text: At the airport in Denver. Flight is delayed. :(  Hope to be headed to Toronto for CAST soon.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 13:01:53 +0000
+  from_user: charmedleo
+  id: 857194808
+  language: en
+  text: Leaving tampa :( but first some flight delays
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 07:47:07 +0000
+  from_user: yjoshi
+  id: 857079568
+  language: en
+  text: had a horrible first leg of flight :( started at midnight from pune. came to mumbai at 2 am.. waited for 5 hrs for flight to baharin
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 03:59:07 +0000
+  from_user: robinyang
+  id: 856979996
+  language: en
+  text: "@russ_fischer haha. awesome. have a safe flight! thank god you're not piloting! :P"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 02:39:47 +0000
+  from_user: malcolmt
+  id: 856940414
+  language: en
+  text: Normal 15 minute checkin process took about 2 hours due to flight cancellation, rebooking, general cluelessness by other travellers, &c. :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 20:34:13 +0000
+  from_user: rachelgab
+  id: 856758355
+  language: en
+  text: Flight's delayed :(
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 19:40:28 +0000
+  from_user: BillNienhuis
+  id: 856729533
+  language: en
+  text: Up at 4 AM tomorrow to catch a 5:30 AM flight. :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 19:10:47 +0000
+  from_user: alexbuga
+  id: 856713471
+  language: en
+  text: Waiting for a pizza at Iancu's. I'm trying to surprise my parents after their flight back to Romania :P
+results_per_page: 15
+since_id: 0

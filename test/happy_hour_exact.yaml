@@ -1,9 +1,33 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857485843
-next_page: ?page=2&max_id=857485843&q=%22happy+hour%22
+max_id: 857510532
+next_page: ?page=2&max_id=857510532&q=%22happy+hour%22
 page: 1
 query: "\"happy hour\""
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:51 +0000
+  from_user: twincy
+  id: 857510532
+  language: en
+  text: (WAS happy hour!)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:28 +0000
+  from_user: shinylib
+  id: 857510309
+  language: en
+  text: happy hour at laurelwood...
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:05:26 +0000
+  from_user: fightginwars
+  id: 857498796
+  language: nl
+  text: Happy Hour.  Or night.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:56:52 +0000
+  from_user: preed
+  id: 857494119
+  language: en
+  text: "@bgertzfield Ooh, nice; Happy Hour starts down in the 'hood at 6 for me; gonna try and be productive for... oh... the next 3 hours. :-p"
 - !ruby/object:Summize::Tweet 
   created_at: Sun, 13 Jul 2008 21:41:41 +0000
   from_user: snb
@@ -70,29 +94,5 @@ results:
   id: 857060469
   language: en
   text: Happy Hour is LONG over.  :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 06:55:24 +0000
-  from_user: jayv
-  id: 857059030
-  language: en
-  text: Happy hour is almost over!! :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 06:42:52 +0000
-  from_user: demonbane
-  id: 857052479
-  language: en
-  text: Just ran up an $80  happy hour drink tab with @herichon & friend from out of town. Now heading to Rachel's bday party to *really* drink. :)
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 06:29:18 +0000
-  from_user: Homas
-  id: 857045345
-  language: en
-  text: Boulder cafe for happy hour.
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 06:07:48 +0000
-  from_user: ryansnyder
-  id: 857036555
-  language: en
-  text: "@kveton You still need to try the Kobe burger at Masu. $6 happy hour. Best in town."
 results_per_page: 15
 since_id: 0

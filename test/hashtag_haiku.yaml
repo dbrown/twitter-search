@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857463792
+next_page: ?page=2&max_id=857463792&q=%23haiku
+page: 1
+query: "#haiku"
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 17:23:51 +0000
+  from_user: haikutwaiku
+  id: 857346063
+  language: en
+  text: "Houseful of monkeys - Would be easier to have - Than one ex-husband. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 17:23:51 +0000
+  from_user: haikutwaiku
+  id: 857346058
+  language: en
+  text: "This must be over - Surfing the web endlessly - Listening to them. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 17:04:13 +0000
+  from_user: KristaReck
+  id: 857334476
+  language: en
+  text: "Houseful of monkeys - Would be easier to have - Than one ex-husband. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:55:42 +0000
+  from_user: KristaReck
+  id: 857329458
+  language: en
+  text: "This must be over - Surfing the web endlessly - Listening to them. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:52:35 +0000
+  from_user: haikutwaiku
+  id: 857327645
+  language: en
+  text: "Ache of the body - reel of the mind, when combined - a car crash of you. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:52:34 +0000
+  from_user: haikutwaiku
+  id: 857327636
+  language: en
+  text: "Dirt, dung, muck, mud, dreck - salsa of the earth between toes - walk hellish shoreline. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:40:46 +0000
+  from_user: zenchine
+  id: 857320168
+  language: en
+  text: "Ache of the body - reel of the mind, when combined - a car crash of you. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 16:36:47 +0000
+  from_user: zenchine
+  id: 857317695
+  language: en
+  text: "Dirt, dung, muck, mud, dreck - salsa of the earth between toes - walk hellish shoreline. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 12:58:09 +0000
+  from_user: haikutwaiku
+  id: 857192539
+  language: en
+  text: "#Haiku #42: Beguiling the mind/The virtue of the haiku/ Is simplicity"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 12:02:07 +0000
+  from_user: robinbloor
+  id: 857168338
+  language: en
+  text: "#Haiku #42:  Beguiling the mind/The virtue of the haiku/ Is simplicity"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 03:48:50 +0000
+  from_user: haikutwaiku
+  id: 856974854
+  language: en
+  text: "stumbling through dark house / stop! at vision's edge light streaks -- / outside, fireflies dance #twaiku #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 03:20:11 +0000
+  from_user: haikutwaiku
+  id: 856960955
+  language: en
+  text: "stumbling through dark house / stop! at vision's edge light streaks -- / outside, fireflies dance #twaiku #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 03:19:17 +0000
+  from_user: pfanderson
+  id: 856960494
+  language: en
+  text: "stumbling through dark house / stop! at vision's edge light streaks -- / outside, fireflies dance   #twaiku #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 18:57:01 +0000
+  from_user: haikutwaiku
+  id: 856705905
+  language: en
+  text: "retweeting @haikutwaiku: My breath smells like poo. I could really use a drink. Wednesday, Hope takes takes flight. #haiku"
+- !ruby/object:Summize::Tweet 
+  created_at: Sat, 12 Jul 2008 16:04:05 +0000
+  from_user: jeffsonstein
+  id: 856598338
+  language: en
+  text: "retweeting @haikutwaiku: My breath smells like poo. I could really use a drink. Wednesday, Hope takes takes flight. #haiku"
+results_per_page: 15
+since_id: 0

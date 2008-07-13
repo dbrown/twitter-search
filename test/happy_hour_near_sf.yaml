@@ -1,0 +1,9 @@
+--- !ruby/object:Summize::Tweets 
+max_id: -1
+next_page: 
+page: 1
+query: "\"happy hour\" near:\"san francisco\""
+results: []
+
+results_per_page: 15
+since_id: 0

@@ -1,8 +1,8 @@
 --- !ruby/object:Summize::Tweets 
 max_id: 857516729
-next_page: ?page=2&max_id=857516729&q=Obama
+next_page: ?page=2&max_id=857516729&q=obama+OR+hillary
 page: 1
-query: Obama
+query: obama OR hillary
 results: 
 - !ruby/object:Summize::Tweet 
   created_at: Sun, 13 Jul 2008 22:38:00 +0000

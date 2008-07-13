@@ -1,0 +1,100 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857506221
+next_page: ?page=2&max_id=857506221&q=movie+-scary+%3A%29
+page: 1
+query: movie -scary :)
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:19:10 +0000
+  from_user: icedsoul
+  id: 857506221
+  language: en
+  text: beerfest must be the dumbest movie ever... but not so bad... :-)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:13:37 +0000
+  from_user: reimeikei
+  id: 857503036
+  language: en
+  text: I uploaded the movie on YouTube" iPhone 3G 16GB white" http://tinyurl.com/5kofoq Enjoy!! :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:12:55 +0000
+  from_user: reimeikei
+  id: 857502704
+  language: en
+  text: I uploaded the movie on YouTube" iPhone 16GB white" http://tinyurl.com/5kofoq Enjoy!! :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:11:13 +0000
+  from_user: reimeikei
+  id: 857501828
+  language: en
+  text: |-
+    I uploaded the movie unboxing on YouTube" iPhone 16GB white" http://tinyurl.com/5kofoq
+    Enjoy!! :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:10:23 +0000
+  from_user: socalnat
+  id: 857501348
+  language: en
+  text: Starbucks yay! Anybody want some? Hehe. I totally want to relax and watch a movie. :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:04:59 +0000
+  from_user: bean2
+  id: 857498526
+  language: en
+  text: ": watched a movie with his wife, grilled some burguers, and is now wishing tomorrow was a holiday :-)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:54:22 +0000
+  from_user: aeshi
+  id: 857492737
+  language: en
+  text: "@bandey i saw the trailer of the new bond movie today! it was kool..waiting fo nov 6th for its release :) never heard of max payne!"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:44:40 +0000
+  from_user: ButternutSquash
+  id: 857487355
+  language: en
+  text: "@jazzmodeus Ooh, new Futurama movie! Excellent! :D I still have a pile of frisbees leftover.. sad, huh?"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:40:16 +0000
+  from_user: Khyri
+  id: 857485158
+  language: en
+  text: "@riftgirl Working on a Sunday? When you could be having fun with \"The 'T' Word: The Movie\" instead? Shame on you! :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:19:31 +0000
+  from_user: justmiketv
+  id: 857474368
+  language: en
+  text: I just got back from watching WALL-E. I enjoyed the movie... a solid 3.5 stars out of a possible 5 :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:13:21 +0000
+  from_user: mdotadotx
+  id: 857471033
+  language: en
+  text: "@franklazaro I hope you padded the walls for post-kung-fu-movie antics :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:10:17 +0000
+  from_user: roxburry
+  id: 857469354
+  language: en
+  text: Thinks eternal sunshine is an amazing movie so far! Thanks bri! :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:57:55 +0000
+  from_user: coreyopenmls
+  id: 857462753
+  language: en
+  text: journey to the center movie shows a psp online in an airplane googling.  ummm a bit unrealistic.  no wireless net in the air, yet :)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:49:55 +0000
+  from_user: PittGirly
+  id: 857458576
+  language: en
+  text: "@jgarber I'm not a big 007 fan but I want to go out to see Arsenic and Old Lace... LOVE that movie! :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:23:44 +0000
+  from_user: poleth
+  id: 857444688
+  language: en
+  text: WALL-E.. if you stay til the end of movie credits like I do, you'd see a pixelated WALL-E... same effect u get in paint & so cute 4 me!  :)
+results_per_page: 15
+since_id: 0

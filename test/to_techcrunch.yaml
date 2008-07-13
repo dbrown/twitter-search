@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857463792
+next_page: ?page=2&max_id=857463792&q=to%3Atechcrunch
+page: 1
+query: to:techcrunch
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:09:07 +0000
+  from_user: davemc500hats
+  id: 857404955
+  language: en
+  text: "@TechCrunch: \"If some new technology or service changes behavior, it's possible that something like Commerce could change Goog's dominance\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:01:19 +0000
+  from_user: davemc500hats
+  id: 857400840
+  language: en
+  text: "@TechCrunch (in response to Firefox defaulting to Google for search): \"We all know the power of the Default\" [setting]"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:00:22 +0000
+  from_user: davemc500hats
+  id: 857400331
+  language: en
+  text: "@TechCrunch: \"Apps are moving towards FREE... Google is setting the price\" (and thus MSFT core revenue streams under pressure)"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:53:02 +0000
+  from_user: davemc500hats
+  id: 857396256
+  language: en
+  text: "@TechCrunch: \"when you (@TimOReilly) talk about the Internet Operating System, i'm not sure what the hell you're talking about...\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:51:59 +0000
+  from_user: davemc500hats
+  id: 857395725
+  language: en
+  text: "@TechCrunch: \"Most of the money on the Internet is coming from commerce-related transactions (thru Search)\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:46:32 +0000
+  from_user: davemc500hats
+  id: 857392417
+  language: en
+  text: "@TechCrunch & @TimOReilly both agreeing that GPS is really important service that has big potential"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:43:47 +0000
+  from_user: davemc500hats
+  id: 857391047
+  language: en
+  text: "@TechCrunch: \"however, Microsoft isn't that animal anymore... they're a CAGED TIGER\"."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:43:25 +0000
+  from_user: davemc500hats
+  id: 857390831
+  language: en
+  text: "@TechCrunch reminiscing about being an attorney for Netscape, negotiating against Microsoft... how he hated them viscerally, however..."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:40:54 +0000
+  from_user: davemc500hats
+  id: 857389518
+  language: en
+  text: "@TechCrunch: \"Even if you're right, i'm still right\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:36:00 +0000
+  from_user: davemc500hats
+  id: 857386789
+  language: en
+  text: "@TechCrunch: \"has large concern that because of Google's dominant (monopoly?) position in search, no competitive M&A deals happening...\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:35:21 +0000
+  from_user: davemc500hats
+  id: 857386398
+  language: en
+  text: "@TechCrunch: \"i would guess 80% of search revenue go through Google... they can always beat any deal due to 3x+ amount of revenue\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:34:59 +0000
+  from_user: jyri
+  id: 857386164
+  language: en
+  text: "@TechCrunch \"No venture-backed company is able to do to Google today what Google did to everyone else\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:34:58 +0000
+  from_user: marshallk
+  id: 857386162
+  language: en
+  text: "@techcrunch sez indexing expense so great that startups cant challenge google, but what about yahoo boss?"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:33:45 +0000
+  from_user: davemc500hats
+  id: 857385512
+  language: en
+  text: "@TechCrunch: \"given that takes so much $$$, no VC-backed company can disrupt search\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 18:33:07 +0000
+  from_user: davemc500hats
+  id: 857385119
+  language: en
+  text: "@TechCrunch: \"indexing the web fully & regularly is expensive; only a few companies today doing it well, or at all\""
+results_per_page: 15
+since_id: 0
