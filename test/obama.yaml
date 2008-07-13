@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Results 
+max_id: 857406928
+next_page: ?page=2&max_id=857406928&q=Obama
+page: 1
+query: Obama
+results: 
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:12:43 +0000
+  from_user: andilulu
+  id: 857406928
+  language: en
+  text: The berkeley flea market is selling obama presidential fragrence oil.
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:10:09 +0000
+  from_user: jejacquot
+  id: 857405489
+  language: en
+  text: "big surprise: he and most of his staff think mccain has run a disastrous campaign so far; that and he says obama has a good shot at winning"
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:07:37 +0000
+  from_user: herrtodd
+  id: 857404243
+  language: en
+  text: Fareed Zakaria GPS has Barack Obama on. Perhaps he can spell foreign policy?
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:06:24 +0000
+  from_user: AdamKG
+  id: 857403560
+  language: en
+  text: At the airport now. Several Obama t-shirts. Even a 'We the People' one. Politics, apprently, is sexy again.
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:05:42 +0000
+  from_user: bcbfcbfde
+  id: 857403229
+  language: en
+  text: Barack Obama was coming to my hometown, Colorado Springs, Colorado. http://tinyurl.com/5n642a
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:05:38 +0000
+  from_user: efcdbecef
+  id: 857403186
+  language: en
+  text: The Day I Shook Obama's Hand.. http://tinyurl.com/5n642a
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:05:08 +0000
+  from_user: scarcrest
+  id: 857402944
+  language: en
+  text: Jazz singer Rachel Griffin could probably get me to vote for Voldemort -- http://tinyurl.com/6k99lh -- an Obama Girl I can really embrace.
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:02:36 +0000
+  from_user: NEWZOF
+  id: 857401539
+  language: en
+  text: "[Videos] http://tinyurl.com/6yued2 PREVIEW: Access Exclusive - Barack Obama"
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:02:07 +0000
+  from_user: yahoobuzz
+  id: 857401268
+  language: en
+  text: "Obama Revels In Contrasts With McCain: CHICAGO \xE2\x80\x94 Barack Obama has found something that eluded him durin.. http://tinyurl.com/5byrzk"
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:01:23 +0000
+  from_user: pennysquared
+  id: 857400873
+  language: en
+  text: Huge Obama rally going on. Never saw protesters that close before. Huh...
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 19:00:03 +0000
+  from_user: sanborn
+  id: 857400095
+  language: en
+  text: "\"Every stage of [Obama's] career has been marked by an eagerness to accomodate himself to existing institutions rather than tear them do ..."
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 18:59:32 +0000
+  from_user: CincyEnquirer
+  id: 857399794
+  language: en
+  text: "Will Ohio, Ky. vote for a black man? : Barack Obama struggled among Ohio and Kentucky's white voter.. http://snipr.com/2xz0h"
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 18:56:27 +0000
+  from_user: lindsayrees
+  id: 857398196
+  language: en
+  text: "@DannyEngesser Thanks for sharing. I love them. I didn't know they played at the Obama rally! I was around and totally missed it."
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 18:56:00 +0000
+  from_user: twOBAMA
+  id: 857397933
+  language: en
+  text: "twOBAMA> BBC News Hair apparent: Obama shows toll of campaign The Age, Australia - 4 hours ago.. http://tinyurl.com/6cuonj"
+- !ruby/object:Summize::Result 
+  created_at: Sun, 13 Jul 2008 18:55:59 +0000
+  from_user: commondreams
+  id: 857397925
+  language: en
+  text: "Obama Says He Used \xE2\x80\x98Poor Phrasing\xE2\x80\x99 on Jerusalem: WASHINGTON \xE2\x80\x94 Democratic president.. http://tinyurl.com/5onfjs"
+results_per_page: 15
+since_id: 0
