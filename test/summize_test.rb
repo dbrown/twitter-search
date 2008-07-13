@@ -110,6 +110,18 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
+  context "@client.query :q => '@mashable" do
+    setup do
+      @tweets = read_yaml :file => 'reference_mashable'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets referencing person "mashable"' do
+      assert @tweets.all?{ |t| t.text =~ /@mashable/i }
+    end
+  end
+  
   protected
   
     def read_yaml(opts = {})

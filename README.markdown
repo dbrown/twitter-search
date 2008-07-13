@@ -16,7 +16,7 @@ Request tweets by calling the query method of your client. It takes either a Str
 
     @tweets = @client.query 'twitter search'
 
-The String form uses the default Summize behavior, which in this example finds tweets containing both "twitter" and "search". It is identical to:
+The String form uses the default Summize behavior, which in this example finds tweets containing both "twitter" and "search". It is identical to the more verbose, explicit version:
 
     @tweets = @client.query :q => 'twitter search'
     
