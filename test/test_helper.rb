@@ -18,4 +18,16 @@ class Test::Unit::TestCase
     end
   end
   
+  def self.should_return_page(number)
+    should "return page #{number}" do
+      assert_equal number, @tweets.page
+    end
+  end
+  
+  def self.should_return_tweets_in_sets_of(number)
+    should "return tweets in sets of #{number}" do
+      assert_equal number, @tweets.results_per_page
+    end
+  end
+  
 end

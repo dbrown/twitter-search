@@ -1,9 +1,69 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857457684
-next_page: ?page=2&max_id=857457684&q=Obama
+max_id: 857467896
+next_page: ?page=2&max_id=857467896&q=Obama
 page: 1
 query: Obama
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:07:30 +0000
+  from_user: Cooperativa
+  id: 857467896
+  language: es
+  text: "Obama pidi\xC3\xB3 apoyo a latinos y prometi\xC3\xB3 no abandonarlos tras los comicios http://tinyurl.com/5v5egb"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:06:28 +0000
+  from_user: bullmancuso
+  id: 857467355
+  language: es
+  text: "[Politico]: Arnold may consider Obama energy post - Mike Allen - Politico.com. http://x.newsjunk.com/0UK"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:06:01 +0000
+  from_user: newsjunkies
+  id: 857467135
+  language: es
+  text: "[Politico]: Arnold may consider Obama energy post - Mike Allen - Politico.com. http://x.newsjunk.com/0UK"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:00:11 +0000
+  from_user: BTRrightpolitic
+  id: 857463988
+  language: en
+  text: Snooper just did a great show. Listen to the Pelosi and Obama - wow podcast at BlogTalkRadio http://tobtr.com/227965
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:59:10 +0000
+  from_user: financebcdc
+  id: 857463351
+  language: en
+  text: Obama suggests credit for business health care - The Associated Press.. www.downloading4hookinformation.com
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:56:35 +0000
+  from_user: twOBAMA
+  id: 857462076
+  language: en
+  text: "twOBAMA> Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed u.. http://tinyurl.com/5658yp"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:56:34 +0000
+  from_user: twOBAMA
+  id: 857462066
+  language: en
+  text: "twOBAMA> Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/kaq6 http://tinyurl.com/6r33nk"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:56:33 +0000
+  from_user: twOBAMA
+  id: 857462056
+  language: en
+  text: "twOBAMA> CNN exclusive: Obama on foreign policy http://tinyurl.com/65bs5r http://tinyurl.com/5onwhd"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:56:32 +0000
+  from_user: twOBAMA
+  id: 857462043
+  language: en
+  text: "twOBAMA> Obama Suggests Tax Credit For Business Health Care: Barack Obama on Sunday proposed u.. http://tinyurl.com/6nzd6g"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 20:56:31 +0000
+  from_user: twOBAMA
+  id: 857462039
+  language: en
+  text: "twOBAMA> US allies to press Obama over Iran: Israel and the US's European allies intend privat.. http://tinyurl.com/5s8nyh"
 - !ruby/object:Summize::Tweet 
   created_at: Sun, 13 Jul 2008 20:48:14 +0000
   from_user: MyFoxNY
@@ -34,65 +94,5 @@ results:
   id: 857457017
   language: en
   text: "US allies to press Obama over Iran: Israel and the US's European allies intend privately to make c.. http://tinyurl.com/6hmdz6"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:46:43 +0000
-  from_user: plasticbasket
-  id: 857456795
-  language: en
-  text: "AlterNet.org: Obama Gets on Topic with Women - http://tinyurl.com/57q8t7"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:46:43 +0000
-  from_user: plasticbasket
-  id: 857456794
-  language: en
-  text: "AlterNet.org: Obama Gets on Topic with Women - http://tinyurl.com/6q2jtw"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:46:42 +0000
-  from_user: twaboutMCCAIN
-  id: 857456781
-  language: en
-  text: "twaboutMCCAIN> Obama, McCain And Their Awkward Hispanic Outreach: Like eager but a.. http://tinyurl.com/5glymh"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:45:18 +0000
-  from_user: reuters
-  id: 857455994
-  language: en
-  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/faq6"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:45:18 +0000
-  from_user: Reuters_TopNews
-  id: 857455987
-  language: en
-  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/haq6"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:45:16 +0000
-  from_user: Reuters_US
-  id: 857455969
-  language: en
-  text: "Fannie/Freddie support must help homeowners: Obama http://r.reuters.com/faq6"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:42:03 +0000
-  from_user: foxchicago
-  id: 857454350
-  language: en
-  text: "Obama, McCain And Their Awkward Hispanic Outreach: Like eager but awkward suitors, Barack Obama and Jo.. http://tinyurl.com/6zjgh6"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:41:03 +0000
-  from_user: c4chaos
-  id: 857453846
-  language: en
-  text: "reading the transcript of Obama's interview on Fareed Zakaria GPS: http://bit.ly/3S20iz"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:37:33 +0000
-  from_user: toss_garbage
-  id: 857452055
-  language: en
-  text: "'Masters of the Universe' @ Bohemian Grove: Obama & Mac, GWB http://tinyurl.com/5s3fxv"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:37:25 +0000
-  from_user: KatyDidSays
-  id: 857451989
-  language: en
-  text: My Grandma just told @AmyJustine that she could pass as a relative of Barak Obama.
 results_per_page: 15
 since_id: 0
