@@ -1,9 +1,9 @@
-# A simple summize client for ruby.
+# A simple Summize client for Ruby.
 
 ## Example
 
     require 'summize'
 
-	client = Summize::Client.new 'my-user-argent'
-    r = client.query 'search query'
-    r.each { |i| puts "#{i.text}" }
+	  client = Summize::Client.new 'my-user-argent'
+    tweets = client.query :q => 'search query'
+    tweets.each { |tweet| puts tweet.text }

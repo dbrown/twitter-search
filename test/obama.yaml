@@ -1,98 +1,98 @@
---- !ruby/object:Summize::Results 
-max_id: 857406928
-next_page: ?page=2&max_id=857406928&q=Obama
+--- !ruby/object:Summize::Tweets 
+max_id: 857419464
+next_page: ?page=2&max_id=857419464&q=Obama
 page: 1
 query: Obama
 results: 
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:12:43 +0000
-  from_user: andilulu
-  id: 857406928
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:35:59 +0000
+  from_user: toss_garbage
+  id: 857419464
   language: en
-  text: The berkeley flea market is selling obama presidential fragrence oil.
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:10:09 +0000
-  from_user: jejacquot
-  id: 857405489
+  text: McCain making play at NAACP for votes Obama should win http://tinyurl.com/66d92e
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:34:28 +0000
+  from_user: headlinenews
+  id: 857418612
   language: en
-  text: "big surprise: he and most of his staff think mccain has run a disastrous campaign so far; that and he says obama has a good shot at winning"
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:07:37 +0000
-  from_user: herrtodd
-  id: 857404243
+  text: "CNN: CNN exclusive: Obama on foreign policy: Sen. Barack Obama discussed his vision for the worl.. http://tinyurl.com/6xam93"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:33:34 +0000
+  from_user: xavierla
+  id: 857418155
   language: en
-  text: Fareed Zakaria GPS has Barack Obama on. Perhaps he can spell foreign policy?
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:06:24 +0000
-  from_user: AdamKG
-  id: 857403560
+  text: "@roadkillrefugee love this from obama'as speech to nclr http://twitpic.com/3xuk"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:32:42 +0000
+  from_user: HeadingtonMedia
+  id: 857417690
   language: en
-  text: At the airport now. Several Obama t-shirts. Even a 'We the People' one. Politics, apprently, is sexy again.
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:05:42 +0000
-  from_user: bcbfcbfde
-  id: 857403229
+  text: in San Diego for the National Councile of La Raza 40th Annual Conference.  Obama speaks in a few minutes.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:30:57 +0000
+  from_user: cocofeather
+  id: 857416879
   language: en
-  text: Barack Obama was coming to my hometown, Colorado Springs, Colorado. http://tinyurl.com/5n642a
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:05:38 +0000
-  from_user: efcdbecef
-  id: 857403186
+  text: "Logan Square bum to me: \"but you got a Obama shirt on--you gotta have some change!\""
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:30:14 +0000
+  from_user: denverposttalk
+  id: 857416512
   language: en
-  text: The Day I Shook Obama's Hand.. http://tinyurl.com/5n642a
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:05:08 +0000
-  from_user: scarcrest
-  id: 857402944
+  text: "Comment: Rev. Jesse Jackson gets right to apology: Jesse is mad because Obama wants everyone to r.. http://tinyurl.com/585x9n"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:29:33 +0000
+  from_user: nyquildotorg
+  id: 857416147
   language: en
-  text: Jazz singer Rachel Griffin could probably get me to vote for Voldemort -- http://tinyurl.com/6k99lh -- an Obama Girl I can really embrace.
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:02:36 +0000
-  from_user: NEWZOF
-  id: 857401539
+  text: has anyone played the 'Barack Obama has a black baby!' card yet?
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:28:18 +0000
+  from_user: shuyaohno
+  id: 857415555
   language: en
-  text: "[Videos] http://tinyurl.com/6yued2 PREVIEW: Access Exclusive - Barack Obama"
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:02:07 +0000
-  from_user: yahoobuzz
-  id: 857401268
+  text: about to see Obama bring it to La Raza
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:28:15 +0000
+  from_user: montanaBNN
+  id: 857415529
   language: en
-  text: "Obama Revels In Contrasts With McCain: CHICAGO \xE2\x80\x94 Barack Obama has found something that eluded him durin.. http://tinyurl.com/5byrzk"
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:01:23 +0000
-  from_user: pennysquared
-  id: 857400873
+  text: "Billings Blog: Stupid or dishonest?: The silly debate over Barack Obama's comments about learning a se.. http://tinyurl.com/6eno5a"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:27:19 +0000
+  from_user: missouriBNN
+  id: 857415066
   language: en
-  text: Huge Obama rally going on. Never saw protesters that close before. Huh...
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 19:00:03 +0000
-  from_user: sanborn
-  id: 857400095
-  language: en
-  text: "\"Every stage of [Obama's] career has been marked by an eagerness to accomodate himself to existing institutions rather than tear them do ..."
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 18:59:32 +0000
-  from_user: CincyEnquirer
-  id: 857399794
-  language: en
-  text: "Will Ohio, Ky. vote for a black man? : Barack Obama struggled among Ohio and Kentucky's white voter.. http://snipr.com/2xz0h"
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 18:56:27 +0000
-  from_user: lindsayrees
-  id: 857398196
-  language: en
-  text: "@DannyEngesser Thanks for sharing. I love them. I didn't know they played at the Obama rally! I was around and totally missed it."
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 18:56:00 +0000
+  text: "Show Me Progress: Michelle Obama in Kansas City - Q and A: \"...And when you have to pay for justice, .. http://tinyurl.com/5ptd28"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:25:42 +0000
   from_user: twOBAMA
-  id: 857397933
+  id: 857414217
   language: en
-  text: "twOBAMA> BBC News Hair apparent: Obama shows toll of campaign The Age, Australia - 4 hours ago.. http://tinyurl.com/6cuonj"
-- !ruby/object:Summize::Result 
-  created_at: Sun, 13 Jul 2008 18:55:59 +0000
-  from_user: commondreams
-  id: 857397925
+  text: twOBAMA> (photo via Paper Cuts @ NYTimes) Just finished watching Barack Obama's interview on F.. http://tinyurl.com/5qz97h
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:25:41 +0000
+  from_user: twOBAMA
+  id: 857414203
   language: en
-  text: "Obama Says He Used \xE2\x80\x98Poor Phrasing\xE2\x80\x99 on Jerusalem: WASHINGTON \xE2\x80\x94 Democratic president.. http://tinyurl.com/5onfjs"
+  text: "twOBAMA> Obama Slams McCain for Voting Against Education Funding | Politicususa: Speaking by s.. http://tinyurl.com/5cde5y"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:25:40 +0000
+  from_user: twOBAMA
+  id: 857414196
+  language: en
+  text: twOBAMA> [Interesting] So Obama was all like, "Biden, you're my BFF." But then Obama picked Ha.. http://tinyurl.com/55bx3q
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:25:39 +0000
+  from_user: twOBAMA
+  id: 857414185
+  language: en
+  text: twOBAMA> Obama says recession is real - International Herald Tribune http://tinyurl.com/5zpjtz http://tinyurl.com/5z52so
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 19:25:39 +0000
+  from_user: californiaBNN
+  id: 857414183
+  language: nl
+  text: "Total Buzz: Schwarzenegger open to serving in Obama administration: I\xE2\x80\x99m in San Diego waiting .. http://tinyurl.com/6kh7yv"
 results_per_page: 15
 since_id: 0
