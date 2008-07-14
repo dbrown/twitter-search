@@ -57,11 +57,14 @@ The Summize API supports foreign languages, accessible via the :lang key. Use th
 * The "near" operator available in the Summize web interface is not available via the API. You must geocode before making your Summize API call.
 * Searching for a positive attitude :) returns tweets containing the text :), =), :D, and :-)
 
+## Authors
+
+Written by Dustin Sallings (dustin@spy.net), forked by Dan Croak (dcroak@thoughtbot.com).
+
+## Resources
+
+* [Official Summize API](http://summize.com/api)
+
 ## License
 
 MIT License, same terms as Ruby.
-
-## Authors
-
-Written by Dustin Sallings (dustin@spy.net) and Dan Croak (dcroak@thoughtbot.com).
-
