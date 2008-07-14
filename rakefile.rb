@@ -27,7 +27,7 @@ namespace :yaml do
     write_yaml :tweets => {:q => 'traffic ?'},                         :file => 'traffic_question'
     write_yaml :tweets => {:q => 'hilarious filter:links'},            :file => 'hilarious_links'
     write_yaml :tweets => {:q => 'congratulations', :lang => 'en'},    :file => 'english'
-    write_yaml :tweets => {:q => 'با', :lang => 'en'},            :file => 'arabic'
+    write_yaml :tweets => {:q => 'با', :lang => 'ar'},                 :file => 'arabic'
   end
 end
 

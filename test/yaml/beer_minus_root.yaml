@@ -1,9 +1,39 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857760542
-next_page: ?page=2&max_id=857760542&q=beer+-root
+max_id: 857764421
+next_page: ?page=2&max_id=857764421&q=beer+-root
 page: 1
 query: beer -root
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:57:24 +0000
+  from_user: santamarina
+  id: 857764421
+  language: en
+  text: "@joepopp nice!  Nothing beats a good beer after a day at Golf-N-Suff!"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:55:57 +0000
+  from_user: LoraEnfield
+  id: 857763798
+  language: en
+  text: Oh, and kicking over beer cans makes people go, "Awwwww....."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:53:17 +0000
+  from_user: gallagher_msean
+  id: 857762476
+  language: en
+  text: Zambia's Mosi Beer is excellent. Will compare with Namibia's Windhoek and S Africa's Castle over the next few days for fairness.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:53:01 +0000
+  from_user: jasonglaspey
+  id: 857762342
+  language: en
+  text: heading to bed after a nice evening outside smoking a hooka, drinking tasty beer and having some Old Town Pizza. Yeehaw for Sunday evenings
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:51:25 +0000
+  from_user: casconed
+  id: 857761647
+  language: en
+  text: just dropped our 12-pack of beer on the sidewalk. only broke two, though. still, my beer privileges have been revoked.
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 05:49:09 +0000
   from_user: dweekly
@@ -64,35 +94,5 @@ results:
   id: 857754222
   language: en
   text: need to try me some Hue Beer
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:35:20 +0000
-  from_user: andrewsayer
-  id: 857753840
-  language: en
-  text: Beer O'clock!
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:34:37 +0000
-  from_user: Almostafighter
-  id: 857753456
-  language: en
-  text: Going to bed.. this weekend has wiped me out! Good food, good beer, good friends! night guys!
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:33:43 +0000
-  from_user: MysteryDawg
-  id: 857753071
-  language: en
-  text: "@sethharwood A feast of an Irish King. What kind of beer did you serve?"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:33:12 +0000
-  from_user: sharondevries
-  id: 857752800
-  language: en
-  text: Back home from a weekend at the Flatonia farm.  Saw a play in Shiner.  Locals say that Shiner Blonde is the beer of choice in Shiner.
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:31:58 +0000
-  from_user: Superstar7
-  id: 857752261
-  language: en
-  text: "@Davidjojo red eyes are beer and tomato juice with salt. they are good."
 results_per_page: 15
 since_id: 0

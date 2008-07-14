@@ -1,9 +1,27 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857759421
-next_page: ?page=2&max_id=857759421&q=congratulations
+max_id: 857762701
+next_page: ?page=2&max_id=857762701&q=congratulations
 page: 1
 query: congratulations
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:53:47 +0000
+  from_user: cneil
+  id: 857762701
+  language: en
+  text: "@davienne Thanks for following! Congratulations on getting your blog in the press."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:51:24 +0000
+  from_user: deafmom
+  id: 857761639
+  language: en
+  text: "@glendawh Congratulations"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:49:23 +0000
+  from_user: askleo
+  id: 857760666
+  language: en
+  text: "@jerroldfoutz Congratulations! Once again, you set an example for the rest of us. :-)"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 05:46:51 +0000
   from_user: cbowns
@@ -76,23 +94,5 @@ results:
   id: 857708013
   language: en
   text: "@warmyellowlight congratulations on diggin men again! :)"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:06:11 +0000
-  from_user: lizstrauss
-  id: 857707124
-  language: en
-  text: "@ShamaHyder Congratulations!"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:04:15 +0000
-  from_user: robyn1swrlr
-  id: 857706036
-  language: en
-  text: "@kioken congratulations but is it @georgiamae?if it is @chinny might put up a fight p.s. watch out for the mustard he carrys lots of packets"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:01:43 +0000
-  from_user: AngryEdison
-  id: 857704645
-  language: en
-  text: "\"Sunday Send-Off\" Guitar Hero 3 tournament has ended. The winner is roberts666. Congratulations!"
 results_per_page: 15
 since_id: 851728586

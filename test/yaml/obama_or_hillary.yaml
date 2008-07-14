@@ -1,100 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857760458
-next_page: ?page=2&max_id=857760458&q=obama+OR+hillary
+max_id: 857764315
+next_page: ?page=2&max_id=857764315&q=obama+OR+hillary
 page: 1
 query: obama OR hillary
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:48:59 +0000
-  from_user: tigerbeat
-  id: 857760458
+  created_at: Mon, 14 Jul 2008 05:57:09 +0000
+  from_user: reutersindia
+  id: 857764315
   language: en
-  text: "@Stranahan Though the New Yorker cover does seem different in the context of hatred towards Obama at http://noquarterusa.net/blog/"
+  text: "WORLD: Obama's lead over McCain narrows in Newsweek poll http://r.reuters.com/sur6"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:48:27 +0000
-  from_user: robport
-  id: 857760230
+  created_at: Mon, 14 Jul 2008 05:57:09 +0000
+  from_user: RtrsIN_World
+  id: 857764312
   language: en
-  text: Obama Flip Flops Again http://tinyurl.com/5uqcw9
+  text: Obama's lead over McCain narrows in Newsweek poll http://r.reuters.com/sur6
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:48:26 +0000
-  from_user: robport
-  id: 857760223
+  created_at: Mon, 14 Jul 2008 05:56:15 +0000
+  from_user: twOBAMA
+  id: 857763920
+  language: en
+  text: "twOBAMA> [Photos] http://tinyurl.com/6xjg27 Obama: a shrewd opportunist, and hardly the first http://tinyurl.com/59afxb"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:56:14 +0000
+  from_user: twOBAMA
+  id: 857763916
+  language: en
+  text: "twOBAMA> Obama had the following for breakfast on Saturday: 1 pc bacon -crispy, sm. bowl of oa.. http://tinyurl.com/684sme"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:56:12 +0000
+  from_user: twOBAMA
+  id: 857763906
+  language: en
+  text: twOBAMA> @ outdoor cafe w CNN's Suzanne Malveaux celebrating her exclusive int. w Obama. I'm t.. http://tinyurl.com/6y2el6
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:56:11 +0000
+  from_user: twOBAMA
+  id: 857763896
+  language: en
+  text: "twOBAMA> New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle: The upcoming issue of th.. http://tinyurl.com/5vdux3"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:56:10 +0000
+  from_user: twOBAMA
+  id: 857763885
+  language: en
+  text: twOBAMA> memeorandum Barry Blitt Defends His New Yorker Cover Art Of Obama (Nico Pitney/The Hu.. http://tinyurl.com/5obfvs
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:55:15 +0000
+  from_user: NEWZOF
+  id: 857763439
   language: es
-  text: Obama Idolatry In San Francisco http://tinyurl.com/5r8mf5
+  text: "[Photos] http://tinyurl.com/5bogqw Obama Details Trip to Iraq, Afghanistan"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:46:44 +0000
-  from_user: twaboutMCCAIN
-  id: 857759363
+  created_at: Mon, 14 Jul 2008 05:52:14 +0000
+  from_user: NEWZOF
+  id: 857761992
   language: en
-  text: twaboutMCCAIN> twOBAMA> [News] http://tinyurl.com/5zuhqz Obama, McCain court ri.. http://tinyurl.com/62auoa
+  text: "[Photos] http://tinyurl.com/6xjg27 Obama: a shrewd opportunist, and hardly the first"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:46:34 +0000
-  from_user: palm44
-  id: 857759266
+  created_at: Mon, 14 Jul 2008 05:51:56 +0000
+  from_user: jeremiahk
+  id: 857761871
   language: en
-  text: Barak Obama gave me health insurance
+  text: "Obama had the following for breakfast on Saturday: 1 pc bacon -crispy, sm. bowl of oatmeal with brown sugar and raisins on the side, sm. OJ."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:46:32 +0000
-  from_user: twaboutMCCAIN
-  id: 857759253
+  created_at: Mon, 14 Jul 2008 05:51:01 +0000
+  from_user: LeslieSanchez
+  id: 857761440
   language: en
-  text: twaboutMCCAIN> [News] http://tinyurl.com/5zuhqz Obama, McCain court rising Latino .. http://tinyurl.com/69fdfo
+  text: "@ outdoor cafe w CNN's Suzanne Malveaux celebrating her exclusive int. w Obama. I'm telling her about shark fin I saw while surfing!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:46:12 +0000
-  from_user: Moer
-  id: 857759094
+  created_at: Mon, 14 Jul 2008 05:50:51 +0000
+  from_user: digg_biz
+  id: 857761358
   language: en
-  text: "[Photos] http://tinyurl.com/6mzhpq BRIEF: Obama Planning Ahead on Economy for Ohio Women"
+  text: "New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle: The upcoming issue of the New Yorker, the J.. http://tinyurl.com/6kwjjz"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:45:33 +0000
-  from_user: wheelscore
-  id: 857758783
-  language: es
-  text: "AutoblogGreen: Obama nixes NASCAR sponsorship - http://wheelscore.com/out.php?id=328590"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:45:33 +0000
-  from_user: wheelscore
-  id: 857758781
-  language: es
-  text: "AutoblogGreen: Obama nixes NASCAR sponsorship - http://wheelscore.com/out.php?id=328590"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:44:59 +0000
-  from_user: lci
-  id: 857758468
-  language: fr
-  text: "Etats-Unis - Barack Obama se prononce pour un retrait du gros des troupes US d'Irak \xC3\xA0 l'\xC3\xA9t\xC3\xA9 2010 http://tf1.lci.fr/infos/"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:41:04 +0000
-  from_user: overheardonline
-  id: 857756657
+  created_at: Mon, 14 Jul 2008 05:50:34 +0000
+  from_user: orbitz
+  id: 857761238
   language: en
-  text: |-
-    I no longer believe there is a cause to Obama other than getting Obama elected. Scripting News
-    http://is.gd/SD1
+  text: memeorandum Barry Blitt Defends His New Yorker Cover Art Of Obama (Nico Pitney/The Huffington P.. http://tinyurl.com/5z5ms4
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:38:12 +0000
-  from_user: nomorestupids
-  id: 857755324
+  created_at: Mon, 14 Jul 2008 05:50:19 +0000
+  from_user: tweelings_en
+  id: 857761126
   language: en
-  text: "New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle http://tinyurl.com/6kwjjz"
+  text: LOVE> "i love wilco" - barack obama http://tinyurl.com/6ovneg
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:38:07 +0000
-  from_user: jerseydoginsf
-  id: 857755285
+  created_at: Mon, 14 Jul 2008 05:49:55 +0000
+  from_user: natecha
+  id: 857760897
   language: en
-  text: "New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle http://tinyurl.com/6kwjjz"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:37:05 +0000
-  from_user: toss_garbage
-  id: 857754744
-  language: en
-  text: Hillary is mom jeans! http://tinyurl.com/5bpcgd
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:36:02 +0000
-  from_user: politwit
-  id: 857754176
-  language: en
-  text: "Obama NYT piece: nuanced Iraq timetable, slams \"flip-flop\" meme; but was he for flip-flops before he was against them? http://bit.ly/IdfIw"
+  text: "\"i love wilco\" - barack obama"
 results_per_page: 15
 since_id: 0

@@ -230,7 +230,7 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     should_have_default_search_behaviors
     
     should 'find tweets containing "congratulations" and are in English' do
-      assert @tweets.all?{ |t| t.text =~ /congratulation/i }
+      assert @tweets.all?{ |t| t.text =~ /congratulation/i && t.language == 'en' }
     end
   end
   
@@ -242,7 +242,7 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     should_have_default_search_behaviors
     
     should 'find tweets containing "با" and are in Arabic' do
-      assert @tweets.all?{ |t| t.text.include?('با') }
+      assert @tweets.all?{ |t| t.text.include?('با') && t.language == 'ar' }
     end
   end
 
