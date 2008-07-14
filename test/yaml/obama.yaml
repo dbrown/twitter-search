@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857714741
-next_page: ?page=2&max_id=857714741&q=Obama
+max_id: 857718559
+next_page: ?page=2&max_id=857718559&q=Obama
 page: 1
 query: Obama
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:19:47 +0000
-  from_user: susankrlib
-  id: 857714741
-  language: en
-  text: Scary conversation @ party today-liberal pals who really dislike Obama and think he's the same if not worse than McCain. This is not a lock.
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:19:33 +0000
+  created_at: Mon, 14 Jul 2008 04:26:48 +0000
   from_user: jayrosen_nyu
-  id: 857714590
+  id: 857718559
   language: en
-  text: "Is it art?  Obama camp: \xE2\x80\x9CTasteless and offensive.\xE2\x80\x9D McCain camp: \xE2\x80\x9CWe completely agree with the Obama campaign, it\xE2\x80\x99s tasteless and offensive.\""
+  text: Ryan Lizza, who wrote the piece on Obama in the magazine, is thought by some to be the Chris Paul of political journalism http://is.gd/SB3
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:18:39 +0000
-  from_user: chrisabraham
-  id: 857714056
+  created_at: Mon, 14 Jul 2008 04:26:28 +0000
+  from_user: twOBAMA
+  id: 857718398
   language: en
-  text: "@davewiner There is a pretty good chance that Obama won't win.  He won't be anybody's president. Stranger things have happened."
+  text: "twOBAMA> One Man's Thoughts: WBEZ Was Promiting A Report About Obama's Illinois Political Root.. http://tinyurl.com/5f8twp"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:18:21 +0000
-  from_user: tnr
-  id: 857713859
+  created_at: Mon, 14 Jul 2008 04:26:27 +0000
+  from_user: twOBAMA
+  id: 857718390
   language: en
-  text: "THE PLANK: The Obama Campaign Picks The Wrong Fight http://tinyurl.com/5mnpx7"
+  text: "twOBAMA> Right Mind: Flip-Flop: Obama says he used \"poor phrasing\" on Jerusalem: Via Reuters :.. http://tinyurl.com/63g63g"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:17:35 +0000
-  from_user: Busterwolf1176
-  id: 857713391
+  created_at: Mon, 14 Jul 2008 04:26:27 +0000
+  from_user: twOBAMA
+  id: 857718382
   language: en
-  text: You know with all the Obama bashing I wish people would just say they don't want no n***a in the White House. At least that's honest.
+  text: "twOBAMA> Shark and Shepherd: Obama misses the point on bilingualism: Barack Obama's remarks on.. http://tinyurl.com/6qfqw9"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:16:23 +0000
-  from_user: newsnet
-  id: 857712657
+  created_at: Mon, 14 Jul 2008 04:26:26 +0000
+  from_user: twOBAMA
+  id: 857718374
   language: en
-  text: "From MSNBC NAACP head: Obama is 'high point': The chairman of the NAACP says racial disparity w.. http://tinyurl.com/67wxen"
+  text: "twOBAMA> baldilocks: Which Party is the Party of Bigots Again?: Looks like Obama was wrong yet.. http://tinyurl.com/5hy8or"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:13:04 +0000
-  from_user: Dagen
-  id: 857710866
-  language: sv
-  text: "John McCain knappar in p\xC3\xA5 Barack Obama http://tinyurl.com/5egv97"
+  created_at: Mon, 14 Jul 2008 04:26:25 +0000
+  from_user: twOBAMA
+  id: 857718360
+  language: en
+  text: "twOBAMA> Florida Progressive Coalition: Obama and Democrats Go To Work in Florida: (Gulfport, .. http://tinyurl.com/5o3mq2"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:11:29 +0000
-  from_user: kimerakincaid
-  id: 857709992
+  created_at: Mon, 14 Jul 2008 04:25:52 +0000
+  from_user: illinoisBNN
+  id: 857718088
+  language: en
+  text: "One Man's Thoughts: WBEZ Was Promiting A Report About Obama's Illinois Political Roots...: By featuri.. http://tinyurl.com/5c5pu5"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:25:10 +0000
+  from_user: idahoBNN
+  id: 857717719
+  language: en
+  text: "Right Mind: Flip-Flop: Obama says he used \"poor phrasing\" on Jerusalem: Via Reuters : Democratic preside.. http://tinyurl.com/5q3b8t"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:24:58 +0000
+  from_user: wisconsinBNN
+  id: 857717574
+  language: en
+  text: "Shark and Shepherd: Obama misses the point on bilingualism: Barack Obama's remarks on \"your kids\" ne.. http://tinyurl.com/5vvlbf"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:24:31 +0000
+  from_user: californiaBNN
+  id: 857717359
+  language: en
+  text: "baldilocks: Which Party is the Party of Bigots Again?: Looks like Obama was wrong yet again. (Surpr.. http://tinyurl.com/5mm93l"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:24:05 +0000
+  from_user: floridaBNN
+  id: 857717103
+  language: en
+  text: "Florida Progressive Coalition: Obama and Democrats Go To Work in Florida: (Gulfport, Pinellas County) .. http://tinyurl.com/6opb97"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:22:58 +0000
+  from_user: Washington_Post
+  id: 857716492
+  language: en
+  text: "Business Section... In Obama's Circle, Chicago Remains The Tie That Binds : Fo.. http://tinyurl.com/59rs2b"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:22:32 +0000
+  from_user: soulhuntre
+  id: 857716262
+  language: en
+  text: "@Busterwolf1176 If Obama wasnt playing the race card every day, he woudl never have been close to nominated."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:22:07 +0000
+  from_user: googlenewsus
+  id: 857716041
   language: es
-  text: Wtf obama for president billboard O_o
+  text: "Obama, McCain woo Latino voters in San Diego - San Jose Mercury News: http://urlenco.de/xvabwj"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:09:29 +0000
-  from_user: msnbc_us
-  id: 857708908
+  created_at: Mon, 14 Jul 2008 04:21:44 +0000
+  from_user: seanhackbarth
+  id: 857715821
   language: en
-  text: "NAACP head: Obama is 'high point' http://tinyurl.com/67wxen"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:09:29 +0000
-  from_user: davewiner
-  id: 857708902
-  language: en
-  text: You gotta be able to laugh at yourself, and here's the thing, Obama's going to be our president, *our* president, not just yours.
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:09:19 +0000
-  from_user: msnbc
-  id: 857708820
-  language: en
-  text: "NAACP head: Obama is 'high point' http://tinyurl.com/67wxen"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:07:32 +0000
-  from_user: anavailableuser
-  id: 857707902
-  language: en
-  text: Obama Camp Finds New Yorker Cover "Tasteless" /Gawker Top Stories of the Week/ - This is the New Yorker's ... http://tinyurl.com/5p884x
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:07:32 +0000
-  from_user: newscloud
-  id: 857707894
-  language: en
-  text: "How to sell magazines 101:  New Yorker Cover Shows Muslim, Flag-Burning, Osama-Loving Obama... http://newscloud.com/x/20i9"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:05:03 +0000
-  from_user: bcbfcbfde
-  id: 857706518
-  language: en
-  text: Perhaps we are finally going to put a rest to the myth that Barack Obama has a fundraising advantage over John McCain.
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:01:57 +0000
-  from_user: nyt_national
-  id: 857704782
-  language: de
-  text: Schwarzenegger Weighs Post Under Obama http://tinyurl.com/67wdk4
+  text: "@jayrosen_nyu I think it does a good job mocking Obama-haters."
 results_per_page: 15
 since_id: 0

@@ -1,9 +1,21 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857711911
-next_page: ?page=2&max_id=857711911&q=superhero+since%3A2008-05-01
+max_id: 857718017
+next_page: ?page=2&max_id=857718017&q=superhero+since%3A2008-05-01
 page: 1
 query: superhero since:2008-05-01
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:25:45 +0000
+  from_user: 05BrandonMay13
+  id: 857718017
+  language: en
+  text: Rented Strange Wilderness, Superhero Movie,and Drillbit Taylor. Fun!
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:20:41 +0000
+  from_user: dogboi
+  id: 857715247
+  language: en
+  text: "@nard Any other superhero except Hellboy = Lame (IMO)  :p"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:15:06 +0000
   from_user: marynificent
@@ -82,17 +94,5 @@ results:
   id: 857605759
   language: en
   text: if being a superhero doesn't prevent hangovers, I'm staying mortal
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:00:12 +0000
-  from_user: nancysun
-  id: 857594243
-  language: en
-  text: Devillianated myself today at the Brooklyn Superhero Supply Company.  I should do that every weekend...
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:46:56 +0000
-  from_user: Reptil
-  id: 857586278
-  language: es
-  text: "@Nervioso Se ve\xC3\xADa que Hancock nom\xC3\xA1s quer\xC3\xADa aprovechar el Superhero Hype."
 results_per_page: 15
 since_id: 800791688

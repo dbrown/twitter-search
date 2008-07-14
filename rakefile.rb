@@ -19,7 +19,7 @@ namespace :yaml do
     write_yaml :tweets => {:q => '@mashable'},                         :file => 'reference_mashable'
     write_yaml :tweets => {:q => '"happy hour" near:"san francisco"'}, :file => 'happy_hour_near_sf'
     write_yaml :tweets => {:q => 'near:NYC within:15mi'},              :file => 'within_15mi_nyc'
-    write_yaml :tweets => {:q => 'superhero since:2008-05-01'},        :file => 'superhero since'
+    write_yaml :tweets => {:q => 'superhero since:2008-05-01'},        :file => 'superhero_since'
     write_yaml :tweets => {:q => 'ftw until:2008-05-03'},              :file => 'ftw_until'
     write_yaml :tweets => {:q => 'movie -scary :)'},                   :file => 'movie_positive_tude'
     write_yaml :tweets => {:q => 'flight :('},                         :file => 'flight_negative_tude'

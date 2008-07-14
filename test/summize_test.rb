@@ -144,8 +144,30 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
-  # TODO: :q => 'superhero <b>since:</b>2008-05-01'</a></td><td>containing "superhero" and sent since date "2008-05-01" (year-month-day)
-  # TODO: :q => 'ftw <b>until:</b>2008-05-03'</a></td><td>containing "ftw" and sent up to date "2008-05-03"
+  context "@client.query :q => 'superhero since:2008-05-01'" do
+    setup do
+      @tweets = read_yaml :file => 'superhero_since'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "superhero" and sent since date "2008-05-01" (year-month-day)' do
+      assert @tweets.all?{ |t| t.text =~ /superhero/i && convert_date(t.created_at) > DateTime.new(2008, 5, 1) }
+    end
+  end
+  
+  context "@client.query :q => 'ftw until:2008-05-03'" do
+    setup do
+      @tweets = read_yaml :file => 'superhero_since'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "ftw" and sent up to date "2008-05-03"' do
+      assert @tweets.all?{ |t| t.text =~ /superhero/i && convert_date(t.created_at) > DateTime.new(2008, 5, 1) }
+    end
+  end
+  
   # TODO: :q => 'movie -scary <b>:)</b>'</a></td><td>containing "movie", but not "scary", and with a positive attitude
   # TODO: :q => 'flight <b>:(</b>'</a></td><td>containing "flight" and with a negative attitude.
   # TODO: :q => 'traffic <b>?</b>'</a></td><td>containing "traffic" and asking a question
@@ -154,6 +176,18 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
   # TODO: pagination
   
   protected
+  
+    def convert_date(date)
+      date = date.split(' ')
+      DateTime.new(date[3].to_i, convert_month(date[2]), date[1].to_i)
+    end
+  
+    def convert_month(str)
+      months = { 'Jan' => 1, 'Feb' => 2, 'Mar' => 3, 'Apr' => 4,
+                 'May' => 5, 'Jun' => 6, 'Jul' => 7, 'Aug' => 8,
+                 'Sep' => 9, 'Oct' => 10, 'Nov' => 11, 'Dec' => 12 }
+      months[str]
+    end
   
     def read_yaml(opts = {})
       return if opts[:file].nil?

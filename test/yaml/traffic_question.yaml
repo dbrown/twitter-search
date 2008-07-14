@@ -1,9 +1,27 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857703981
-next_page: ?page=2&max_id=857703981&q=traffic+%3F
+max_id: 857717372
+next_page: ?page=2&max_id=857717372&q=traffic+%3F
 page: 1
 query: traffic ?
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:24:33 +0000
+  from_user: ddipaolo
+  id: 857717372
+  language: en
+  text: Wow, Google Maps can do non-live traffic?  You give it a day/time and it shows projected traffic.  Nice!
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:22:31 +0000
+  from_user: emmapop
+  id: 857716259
+  language: en
+  text: why is there traffic on the kennedy now?! slow enough for me to type this
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:22:12 +0000
+  from_user: mafia_boyz
+  id: 857716076
+  language: en
+  text: "@LB is the traffic still bad within kl?"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:00:34 +0000
   from_user: GeekMommy
@@ -76,23 +94,5 @@ results:
   id: 857570764
   language: en
   text: "@derrickhenslee Uh, \"Gangster of Love\"?  I had to deal with Rocklahoma traffic on the way to Branson."
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:08:51 +0000
-  from_user: megfowler
-  id: 857565176
-  language: en
-  text: "@chrisbrogan yeah, but why are you sending traffic to something that you don't think merits attention?"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:30:53 +0000
-  from_user: TimothyWatson
-  id: 857544766
-  language: en
-  text: Surfing a TE http://lords-of-traffic.com/?rid=1914
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:24:54 +0000
-  from_user: musshhh
-  id: 857541599
-  language: en
-  text: still in the car. stupid traffic policemen, when is our turn to move kan?
 results_per_page: 15
 since_id: 0

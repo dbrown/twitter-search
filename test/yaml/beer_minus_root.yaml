@@ -1,9 +1,81 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857714627
-next_page: ?page=2&max_id=857714627&q=beer+-root
+max_id: 857718716
+next_page: ?page=2&max_id=857718716&q=beer+-root
 page: 1
 query: beer -root
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:27:04 +0000
+  from_user: preachason
+  id: 857718716
+  language: en
+  text: Baby still not asleep? Seriously? Screw it, it's beer-thirty.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:26:19 +0000
+  from_user: saldo
+  id: 857718318
+  language: en
+  text: i'm too fucking lazy to get up and grab the beer i bought thats sitting the foyer. thats right mother fucks, FOYER.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:26:18 +0000
+  from_user: bshirley
+  id: 857718300
+  language: en
+  text: At Beer Island playing pool
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:25:23 +0000
+  from_user: north_dakotaBNN
+  id: 857717843
+  language: en
+  text: "Prairie Sun Rising: Beer-Thirty: .After a weekend kickin' back and takin' bets on which of the gu.. http://tinyurl.com/5gccjz"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:25:01 +0000
+  from_user: seamoss
+  id: 857717609
+  language: en
+  text: Maybe now that InBev bought Broweiser, they will produce a better beer.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:25:00 +0000
+  from_user: pinupfairy
+  id: 857717599
+  language: en
+  text: Allergic to gluten and wheat, haven't had pizza, pasta or beer or anything like that in the last month!
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:24:47 +0000
+  from_user: davesnyder
+  id: 857717474
+  language: en
+  text: "@LisaBarone oohhh new friend! Get Bruce Clay to sponsor http://www.scaryseo.com. We need beer money"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:22:45 +0000
+  from_user: thisiszachyo
+  id: 857716387
+  language: en
+  text: my new years resolution in July is to try every beer sold at Huckleberry's
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:21:39 +0000
+  from_user: jayamorgan
+  id: 857715773
+  language: en
+  text: "just realized my basement is a great temp. for beer and wine. yeah, i'm slow on this, but hey. i'm from Texas. Yes, #Texas."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:21:19 +0000
+  from_user: littlepitchers
+  id: 857715604
+  language: en
+  text: transplanted scads of flower bulbs from back to front today.  and then another sunday night pizza.  local mushrooms.  regional beer.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:20:51 +0000
+  from_user: tomanthony
+  id: 857715351
+  language: en
+  text: Needs another beer. :( near Pour house
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:20:16 +0000
+  from_user: kingubu
+  id: 857715020
+  language: en
+  text: fuck, I like budwieser select.  only beer I drink unless there's guiness or something similar.  although, mostly I just drink bourbon now
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:19:36 +0000
   from_user: yourgoodfortune
@@ -22,77 +94,5 @@ results:
   id: 857713423
   language: en
   text: Wishing that it didn't take until midnight on Sunday for my head to stop hurting long enough to enjoy a cold beer
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:17:35 +0000
-  from_user: Brittt
-  id: 857713392
-  language: en
-  text: I think beer actually does help treat sore throats! *drinks more*
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:15:27 +0000
-  from_user: foodfight
-  id: 857712153
-  language: en
-  text: Drinking celebratory beer with Karin and Walker at Bitter End.
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:14:54 +0000
-  from_user: schecki
-  id: 857711784
-  language: nl
-  text: Rock Band + Metalocalypse + Beer = Happy.
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:11:59 +0000
-  from_user: Mrs_Xoke
-  id: 857710238
-  language: en
-  text: Budweiser is no longer an American beer, a volcano erupts in Alaska, and I am hanging out in IRC.  Is it a full moon?
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:11:48 +0000
-  from_user: steelbikes
-  id: 857710134
-  language: en
-  text: Wild Coho Salmon and Mirror Pond IPA, a nice combo.  @stevesancarlos, thanks for the beer tip
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:11:44 +0000
-  from_user: nitecapp
-  id: 857710104
-  language: en
-  text: beer-o'clock
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:11:15 +0000
-  from_user: LizardWisdom
-  id: 857709862
-  language: en
-  text: "the Belgians reportedly have purchased Anheuser-Busch.DAMN!that's some xpensive,crappy beer!: http://tinyurl.com/6yw6qb"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:10:20 +0000
-  from_user: xmsquizz
-  id: 857709362
-  language: en
-  text: "Now on XM 48: Beer!!!!! by Psychostick"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:09:44 +0000
-  from_user: Tomm1
-  id: 857709029
-  language: "no"
-  text: drinking a beer and eating steak at kahm-rom's bar
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:08:12 +0000
-  from_user: VelveteenMind
-  id: 857708224
-  language: en
-  text: I need a beer and the Discovery Channel. Please tell me something w/ Mike Rowe is on because we have a long week ahead. It's a dirty job...
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:04:36 +0000
-  from_user: lisapisa77
-  id: 857706259
-  language: en
-  text: wedding reception was so fun last nite despite having time 4 only 1 beer. was unconscious most of today...when will I not be exhausted? :)
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:04:22 +0000
-  from_user: megfowler
-  id: 857706102
-  language: en
-  text: sprinkler noise, beautiful beginnings of a sunset, a good beer, a warm deck, the smell of cedar, yoga pants, and comfy chairs. YES!
 results_per_page: 15
 since_id: 0

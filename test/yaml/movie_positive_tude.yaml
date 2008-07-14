@@ -1,9 +1,15 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857712453
-next_page: ?page=2&max_id=857712453&q=movie+-scary+%3A%29
+max_id: 857715451
+next_page: ?page=2&max_id=857715451&q=movie+-scary+%3A%29
 page: 1
 query: movie -scary :)
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:21:02 +0000
+  from_user: longhornkate
+  id: 857715451
+  language: "no"
+  text: "@kristyann enjoy a movie for me. I'm in bed reading organizational behavior :)"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:16:00 +0000
   from_user: naive_wanderer
@@ -88,11 +94,5 @@ results:
   id: 857644727
   language: en
   text: Amazed at how many inside references there are in the first 10 minutes of The SImpsons Movie. :D
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:22:42 +0000
-  from_user: achiabs
-  id: 857644700
-  language: en
-  text: "@mikaelcleto I liked the karaoke scene! Enjoyed that movie a lot :)"
 results_per_page: 15
 since_id: 0
