@@ -1,3 +1,5 @@
+# coding: utf-8
+
 require File.join(File.dirname(__FILE__), 'test_helper')
 
 class SummizeTest < Test::Unit::TestCase # :nodoc:
@@ -37,6 +39,8 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
       assert @tweets.all?{ |t| t.text =~ /twitter/i && t.text =~ /search/i }
     end
   end
+  
+  # SUMMIZE SEARCH OPERATORS
   
   context '@client.query :q => \'"happy hour"\'' do
     setup do
@@ -216,8 +220,32 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
-  # TODO: pagination
+  # FOREIGN LANGUAGES
   
+  context "@client.query :q => 'congratulations', :lang => 'en'" do
+    setup do
+      @tweets = read_yaml :file => 'english'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "congratulations" and are in English' do
+      assert @tweets.all?{ |t| t.text =~ /congratulation/i }
+    end
+  end
+  
+  context "@client.query :q => 'با', :lang => 'ar'" do
+    setup do
+      @tweets = read_yaml :file => 'arabic'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "با" and are in Arabic' do
+      assert @tweets.all?{ |t| t.text.include?('با') }
+    end
+  end
+
   protected
   
     def convert_date(date)

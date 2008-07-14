@@ -1,98 +1,100 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857718559
-next_page: ?page=2&max_id=857718559&q=Obama
+max_id: 857760458
+next_page: ?page=2&max_id=857760458&q=Obama
 page: 1
 query: Obama
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:48 +0000
-  from_user: jayrosen_nyu
-  id: 857718559
+  created_at: Mon, 14 Jul 2008 05:48:59 +0000
+  from_user: tigerbeat
+  id: 857760458
   language: en
-  text: Ryan Lizza, who wrote the piece on Obama in the magazine, is thought by some to be the Chris Paul of political journalism http://is.gd/SB3
+  text: "@Stranahan Though the New Yorker cover does seem different in the context of hatred towards Obama at http://noquarterusa.net/blog/"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:28 +0000
-  from_user: twOBAMA
-  id: 857718398
+  created_at: Mon, 14 Jul 2008 05:48:27 +0000
+  from_user: robport
+  id: 857760230
   language: en
-  text: "twOBAMA> One Man's Thoughts: WBEZ Was Promiting A Report About Obama's Illinois Political Root.. http://tinyurl.com/5f8twp"
+  text: Obama Flip Flops Again http://tinyurl.com/5uqcw9
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:27 +0000
-  from_user: twOBAMA
-  id: 857718390
-  language: en
-  text: "twOBAMA> Right Mind: Flip-Flop: Obama says he used \"poor phrasing\" on Jerusalem: Via Reuters :.. http://tinyurl.com/63g63g"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:27 +0000
-  from_user: twOBAMA
-  id: 857718382
-  language: en
-  text: "twOBAMA> Shark and Shepherd: Obama misses the point on bilingualism: Barack Obama's remarks on.. http://tinyurl.com/6qfqw9"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:26 +0000
-  from_user: twOBAMA
-  id: 857718374
-  language: en
-  text: "twOBAMA> baldilocks: Which Party is the Party of Bigots Again?: Looks like Obama was wrong yet.. http://tinyurl.com/5hy8or"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:25 +0000
-  from_user: twOBAMA
-  id: 857718360
-  language: en
-  text: "twOBAMA> Florida Progressive Coalition: Obama and Democrats Go To Work in Florida: (Gulfport, .. http://tinyurl.com/5o3mq2"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:25:52 +0000
-  from_user: illinoisBNN
-  id: 857718088
-  language: en
-  text: "One Man's Thoughts: WBEZ Was Promiting A Report About Obama's Illinois Political Roots...: By featuri.. http://tinyurl.com/5c5pu5"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:25:10 +0000
-  from_user: idahoBNN
-  id: 857717719
-  language: en
-  text: "Right Mind: Flip-Flop: Obama says he used \"poor phrasing\" on Jerusalem: Via Reuters : Democratic preside.. http://tinyurl.com/5q3b8t"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:24:58 +0000
-  from_user: wisconsinBNN
-  id: 857717574
-  language: en
-  text: "Shark and Shepherd: Obama misses the point on bilingualism: Barack Obama's remarks on \"your kids\" ne.. http://tinyurl.com/5vvlbf"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:24:31 +0000
-  from_user: californiaBNN
-  id: 857717359
-  language: en
-  text: "baldilocks: Which Party is the Party of Bigots Again?: Looks like Obama was wrong yet again. (Surpr.. http://tinyurl.com/5mm93l"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:24:05 +0000
-  from_user: floridaBNN
-  id: 857717103
-  language: en
-  text: "Florida Progressive Coalition: Obama and Democrats Go To Work in Florida: (Gulfport, Pinellas County) .. http://tinyurl.com/6opb97"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:22:58 +0000
-  from_user: Washington_Post
-  id: 857716492
-  language: en
-  text: "Business Section... In Obama's Circle, Chicago Remains The Tie That Binds : Fo.. http://tinyurl.com/59rs2b"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:22:32 +0000
-  from_user: soulhuntre
-  id: 857716262
-  language: en
-  text: "@Busterwolf1176 If Obama wasnt playing the race card every day, he woudl never have been close to nominated."
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:22:07 +0000
-  from_user: googlenewsus
-  id: 857716041
+  created_at: Mon, 14 Jul 2008 05:48:26 +0000
+  from_user: robport
+  id: 857760223
   language: es
-  text: "Obama, McCain woo Latino voters in San Diego - San Jose Mercury News: http://urlenco.de/xvabwj"
+  text: Obama Idolatry In San Francisco http://tinyurl.com/5r8mf5
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:21:44 +0000
-  from_user: seanhackbarth
-  id: 857715821
+  created_at: Mon, 14 Jul 2008 05:46:44 +0000
+  from_user: twaboutMCCAIN
+  id: 857759363
   language: en
-  text: "@jayrosen_nyu I think it does a good job mocking Obama-haters."
+  text: twaboutMCCAIN> twOBAMA> [News] http://tinyurl.com/5zuhqz Obama, McCain court ri.. http://tinyurl.com/62auoa
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:46:34 +0000
+  from_user: palm44
+  id: 857759266
+  language: en
+  text: Barak Obama gave me health insurance
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:46:32 +0000
+  from_user: twaboutMCCAIN
+  id: 857759253
+  language: en
+  text: twaboutMCCAIN> [News] http://tinyurl.com/5zuhqz Obama, McCain court rising Latino .. http://tinyurl.com/69fdfo
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:46:12 +0000
+  from_user: Moer
+  id: 857759094
+  language: en
+  text: "[Photos] http://tinyurl.com/6mzhpq BRIEF: Obama Planning Ahead on Economy for Ohio Women"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:45:33 +0000
+  from_user: wheelscore
+  id: 857758783
+  language: es
+  text: "AutoblogGreen: Obama nixes NASCAR sponsorship - http://wheelscore.com/out.php?id=328590"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:45:33 +0000
+  from_user: wheelscore
+  id: 857758781
+  language: es
+  text: "AutoblogGreen: Obama nixes NASCAR sponsorship - http://wheelscore.com/out.php?id=328590"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:44:59 +0000
+  from_user: lci
+  id: 857758468
+  language: fr
+  text: "Etats-Unis - Barack Obama se prononce pour un retrait du gros des troupes US d'Irak \xC3\xA0 l'\xC3\xA9t\xC3\xA9 2010 http://tf1.lci.fr/infos/"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:41:04 +0000
+  from_user: overheardonline
+  id: 857756657
+  language: en
+  text: |-
+    I no longer believe there is a cause to Obama other than getting Obama elected. Scripting News
+    http://is.gd/SD1
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:38:12 +0000
+  from_user: nomorestupids
+  id: 857755324
+  language: en
+  text: "New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle http://tinyurl.com/6kwjjz"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:38:07 +0000
+  from_user: jerseydoginsf
+  id: 857755285
+  language: en
+  text: "New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle http://tinyurl.com/6kwjjz"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:36:02 +0000
+  from_user: politwit
+  id: 857754176
+  language: en
+  text: "Obama NYT piece: nuanced Iraq timetable, slams \"flip-flop\" meme; but was he for flip-flops before he was against them? http://bit.ly/IdfIw"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:35:53 +0000
+  from_user: toss_garbage
+  id: 857754118
+  language: de
+  text: Obama changes tune on united Jerusalem http://tinyurl.com/6bn8p9
 results_per_page: 15
 since_id: 0

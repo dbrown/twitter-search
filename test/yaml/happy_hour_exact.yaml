@@ -1,9 +1,33 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857696837
-next_page: ?page=2&max_id=857696837&q=%22happy+hour%22
+max_id: 857745398
+next_page: ?page=2&max_id=857745398&q=%22happy+hour%22
 page: 1
 query: "\"happy hour\""
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:18:03 +0000
+  from_user: mgenovese
+  id: 857745398
+  language: en
+  text: "door64 newsletter published: Happy Hour this week!  |  http://community.icontact.com/p/door64"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:48:37 +0000
+  from_user: twhatsupin
+  id: 857730382
+  language: en
+  text: "LONDON> upcoming.org > Jul 16, 2008: Happy Hour at London Grill: Enjoy $3 food and drink .. http://tinyurl.com/6hn2t5"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:47:01 +0000
+  from_user: jvmatdell
+  id: 857729391
+  language: en
+  text: It just finally sunk in that someone actually stole my iPod during a work-sponsored happy hour on Friday. And now I am grumpy bout it.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:27:55 +0000
+  from_user: londonEvents
+  id: 857719135
+  language: en
+  text: "upcoming.org > Jul 16, 2008: Happy Hour at London Grill: Enjoy $3 food and drink sp.. http://tinyurl.com/6rl3px"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 03:48:22 +0000
   from_user: CiaoBellaMe15
@@ -70,29 +94,5 @@ results:
   id: 857510532
   language: en
   text: (WAS happy hour!)
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:26:28 +0000
-  from_user: shinylib
-  id: 857510309
-  language: en
-  text: happy hour at laurelwood...
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:05:26 +0000
-  from_user: fightginwars
-  id: 857498796
-  language: nl
-  text: Happy Hour.  Or night.
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:56:52 +0000
-  from_user: preed
-  id: 857494119
-  language: en
-  text: "@bgertzfield Ooh, nice; Happy Hour starts down in the 'hood at 6 for me; gonna try and be productive for... oh... the next 3 hours. :-p"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:41:41 +0000
-  from_user: snb
-  id: 857485843
-  language: en
-  text: Estonians are serious about drinking. instead of happy hour, you get happy *day*. buy a beer and they just hand you two for the same price.
 results_per_page: 15
 since_id: 0

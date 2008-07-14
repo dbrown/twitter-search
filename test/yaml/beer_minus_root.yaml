@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857718716
-next_page: ?page=2&max_id=857718716&q=beer+-root
+max_id: 857760542
+next_page: ?page=2&max_id=857760542&q=beer+-root
 page: 1
 query: beer -root
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:27:04 +0000
-  from_user: preachason
-  id: 857718716
+  created_at: Mon, 14 Jul 2008 05:49:09 +0000
+  from_user: dweekly
+  id: 857760542
   language: en
-  text: Baby still not asleep? Seriously? Screw it, it's beer-thirty.
+  text: "Playing pool at Gatopollo (literally: cat chicken), a hard rock bar in Hermosillo, drinking a Sol con fresa. Yeah, strawberry beer."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:19 +0000
-  from_user: saldo
-  id: 857718318
+  created_at: Mon, 14 Jul 2008 05:49:05 +0000
+  from_user: paulcanetti
+  id: 857760511
   language: en
-  text: i'm too fucking lazy to get up and grab the beer i bought thats sitting the foyer. thats right mother fucks, FOYER.
+  text: beer + good convo = perfect end to an insanely action-packed weekend
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:26:18 +0000
-  from_user: bshirley
-  id: 857718300
+  created_at: Mon, 14 Jul 2008 05:47:48 +0000
+  from_user: glenmcfarlane
+  id: 857759906
   language: en
-  text: At Beer Island playing pool
+  text: "@andrewsayer Well in that case, why'd you leave it so long? 12 noon is beer o'clock in my house on the weekends.  Cheers!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:25:23 +0000
-  from_user: north_dakotaBNN
-  id: 857717843
+  created_at: Mon, 14 Jul 2008 05:46:01 +0000
+  from_user: andrewsayer
+  id: 857758994
   language: en
-  text: "Prairie Sun Rising: Beer-Thirty: .After a weekend kickin' back and takin' bets on which of the gu.. http://tinyurl.com/5gccjz"
+  text: "@glenmcfarlane I'm on holidays. I can call beer o'clock whenever I want. Ain't that right @jackiepnopants?"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:25:01 +0000
-  from_user: seamoss
-  id: 857717609
+  created_at: Mon, 14 Jul 2008 05:42:17 +0000
+  from_user: zengrrl
+  id: 857757196
   language: en
-  text: Maybe now that InBev bought Broweiser, they will produce a better beer.
+  text: "@TheDisneyBlog me too - despite my joking about the free beer, I enjoy a day out at SeaWorld & would hate to see it gone."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:25:00 +0000
-  from_user: pinupfairy
-  id: 857717599
+  created_at: Mon, 14 Jul 2008 05:41:36 +0000
+  from_user: rhuff04
+  id: 857756896
   language: en
-  text: Allergic to gluten and wheat, haven't had pizza, pasta or beer or anything like that in the last month!
+  text: Anheuser-Busch agreed to a $50 billion takeover by Belgian beer maker InBev. Say what? http://tinyurl.com/65dhds
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:24:47 +0000
-  from_user: davesnyder
-  id: 857717474
+  created_at: Mon, 14 Jul 2008 05:39:47 +0000
+  from_user: adamgauss
+  id: 857756033
   language: en
-  text: "@LisaBarone oohhh new friend! Get Bruce Clay to sponsor http://www.scaryseo.com. We need beer money"
+  text: listening to circa 2004 music, reminiscing of the good ol' days.  is a lousy $70k+ job in frisco too much to ask for?  beer me.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:22:45 +0000
-  from_user: thisiszachyo
-  id: 857716387
+  created_at: Mon, 14 Jul 2008 05:39:41 +0000
+  from_user: d4th
+  id: 857755992
   language: en
-  text: my new years resolution in July is to try every beer sold at Huckleberry's
+  text: is drinking beer and about to take cold medicine so he goes to sleep to get up at 6 AM.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:21:39 +0000
-  from_user: jayamorgan
-  id: 857715773
+  created_at: Mon, 14 Jul 2008 05:37:09 +0000
+  from_user: tombrazelton
+  id: 857754777
   language: en
-  text: "just realized my basement is a great temp. for beer and wine. yeah, i'm slow on this, but hey. i'm from Texas. Yes, #Texas."
+  text: "@License_Farm I admitted the Belgians make better beer. But some things are quintessentially American - shitty or not."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:21:19 +0000
-  from_user: littlepitchers
-  id: 857715604
+  created_at: Mon, 14 Jul 2008 05:36:06 +0000
+  from_user: jpobando
+  id: 857754222
   language: en
-  text: transplanted scads of flower bulbs from back to front today.  and then another sunday night pizza.  local mushrooms.  regional beer.
+  text: need to try me some Hue Beer
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:20:51 +0000
-  from_user: tomanthony
-  id: 857715351
+  created_at: Mon, 14 Jul 2008 05:35:20 +0000
+  from_user: andrewsayer
+  id: 857753840
   language: en
-  text: Needs another beer. :( near Pour house
+  text: Beer O'clock!
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:20:16 +0000
-  from_user: kingubu
-  id: 857715020
+  created_at: Mon, 14 Jul 2008 05:34:37 +0000
+  from_user: Almostafighter
+  id: 857753456
   language: en
-  text: fuck, I like budwieser select.  only beer I drink unless there's guiness or something similar.  although, mostly I just drink bourbon now
+  text: Going to bed.. this weekend has wiped me out! Good food, good beer, good friends! night guys!
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:19:36 +0000
-  from_user: yourgoodfortune
-  id: 857714627
+  created_at: Mon, 14 Jul 2008 05:33:43 +0000
+  from_user: MysteryDawg
+  id: 857753071
   language: en
-  text: Beer and sunshine taste good together.
+  text: "@sethharwood A feast of an Irish King. What kind of beer did you serve?"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:19:03 +0000
-  from_user: nitecapp
-  id: 857714304
+  created_at: Mon, 14 Jul 2008 05:33:12 +0000
+  from_user: sharondevries
+  id: 857752800
   language: en
-  text: kingfisher beer how i love thee
+  text: Back home from a weekend at the Flatonia farm.  Saw a play in Shiner.  Locals say that Shiner Blonde is the beer of choice in Shiner.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:17:38 +0000
-  from_user: evea
-  id: 857713423
+  created_at: Mon, 14 Jul 2008 05:31:58 +0000
+  from_user: Superstar7
+  id: 857752261
   language: en
-  text: Wishing that it didn't take until midnight on Sunday for my head to stop hurting long enough to enjoy a cold beer
+  text: "@Davidjojo red eyes are beer and tomato juice with salt. they are good."
 results_per_page: 15
 since_id: 0

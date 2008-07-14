@@ -1,9 +1,57 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857718017
-next_page: ?page=2&max_id=857718017&q=superhero+since%3A2008-05-01
+max_id: 857758301
+next_page: ?page=2&max_id=857758301&q=superhero+since%3A2008-05-01
 page: 1
 query: superhero since:2008-05-01
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:44:39 +0000
+  from_user: karthiksn
+  id: 857758301
+  language: en
+  text: "@aditya he is a hero since he helps people. And since he does it without looking for recognition makes him a superhero."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:42:55 +0000
+  from_user: aditya
+  id: 857757509
+  language: en
+  text: "@karthiksn Zorro? Can he be even counted as a superhero? He's like Robin Hood ... they do good n' all, but heroes?"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:24:31 +0000
+  from_user: Lancent
+  id: 857748756
+  language: en
+  text: About to watch Superhero Movie. :D
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:56:14 +0000
+  from_user: travelpod
+  id: 857734397
+  language: en
+  text: "Superhero Party in Cavanbah Street - Byron Bay, New South Wales, Australia: Superhero Party http://tinyurl.com/5zxdex"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:53:13 +0000
+  from_user: Ponoko
+  id: 857732776
+  language: en
+  text: "Showroom: Pow! Pendant: Summer and superhero movies seem to be a natural pairing these days... wh.. http://tinyurl.com/6gvfew"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:50:14 +0000
+  from_user: TechRSS
+  id: 857731278
+  language: en
+  text: "A Comic Book Superhero Is Headed to Small Screens: The animated adventures of the comic book superhero In.. http://tinyurl.com/5vqh3x"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:42:51 +0000
+  from_user: TWiG
+  id: 857727185
+  language: en
+  text: "@TeeMonster - i have been seeing many Superhero/Transformer xovers. my son got a couple toys of them for his Bday. http://tinyurl.com/66f6po"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:39:36 +0000
+  from_user: unclebear
+  id: 857725560
+  language: en
+  text: "Apocalypto: a sort of pre-Columbian superhero movie."
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:25:45 +0000
   from_user: 05BrandonMay13
@@ -46,53 +94,5 @@ results:
   id: 857700131
   language: en
   text: Anyone notice that two of 2008's biggest superhero movies (Iron Man, Hancock) feature art by Ed Ruscha? What gives? Any word on Hellboy II?
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:24:02 +0000
-  from_user: StephDilts
-  id: 857682282
-  language: en
-  text: Hmm, I think a comic book superhero movie weekend is at hand...
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:23:52 +0000
-  from_user: anyt
-  id: 857682177
-  language: en
-  text: "GEORGE GENE GUSTINES: A Comic Book Superhero Is Headed to Small Screens [Business/Media] http://tinyurl.com/6oh87k"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:22:15 +0000
-  from_user: itssmorgy
-  id: 857681223
-  language: en
-  text: "@jeffcannata hey man im looking for a really really dark and gritty superhero or villain comic any suggestions? thanks"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:08:03 +0000
-  from_user: RSS_NYT
-  id: 857672897
-  language: en
-  text: A Comic Book Superhero Is Headed to Small Screens http://tinyurl.com/6r6ufu
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:34:45 +0000
-  from_user: cinematical
-  id: 857651945
-  language: en
-  text: "If Batman's Tumbler was an Autobot ...: Filed under: Fandom, Comic/Superhero/Geek, ImagesWhat would i.. http://tinyurl.com/5stg7t"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:32:09 +0000
-  from_user: nyt_biz
-  id: 857650245
-  language: en
-  text: A Comic Book Superhero Is Headed to Small Screens http://tinyurl.com/57ovd2
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:17:30 +0000
-  from_user: rampok
-  id: 857641121
-  language: en
-  text: Just following Richard M Stallman @rms the superhero behind GNU-Linux. Salute!
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:19:37 +0000
-  from_user: laurex
-  id: 857605759
-  language: en
-  text: if being a superhero doesn't prevent hangovers, I'm staying mortal
 results_per_page: 15
 since_id: 800791688

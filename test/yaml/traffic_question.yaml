@@ -1,9 +1,27 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857717372
-next_page: ?page=2&max_id=857717372&q=traffic+%3F
+max_id: 857751872
+next_page: ?page=2&max_id=857751872&q=traffic+%3F
 page: 1
 query: traffic ?
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:31:13 +0000
+  from_user: gasmileage
+  id: 857751872
+  language: en
+  text: "Study: Gas cost high, traffic fatalities low - Today's .. http://www.nj.com/news/sunbeam/index.ssf?/base/news-4/1216010427190810.xml&coll=9"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:19:14 +0000
+  from_user: twilightfairy
+  id: 857746025
+  language: en
+  text: why is there so much traffic today in ncr? everyone i talk to is stuck in some mess. i came across several diversions in CP as well.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:18:43 +0000
+  from_user: twilightfairy
+  id: 857745720
+  language: en
+  text: why is there so much traffic today in ncr? everyone i talk to is stuck in some mess. i came across several diversions in CP as well.
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:24:33 +0000
   from_user: ddipaolo
@@ -76,23 +94,5 @@ results:
   id: 857591466
   language: en
   text: "@cmm1869 How bad is the left turn into Gallaher View from Walker's Crossing during high-traffic times?"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:42:09 +0000
-  from_user: gerad
-  id: 857583676
-  language: en
-  text: City of SF sucks.  I have to request traffic school in person. WTF?
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:19:36 +0000
-  from_user: tweelings_en
-  id: 857571107
-  language: en
-  text: LOVE> @derrickhenslee Uh, "Gangster of Love"? I had to deal with Rocklahoma traffic on the w.. http://tinyurl.com/56ccrk
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:18:59 +0000
-  from_user: jeffclick
-  id: 857570764
-  language: en
-  text: "@derrickhenslee Uh, \"Gangster of Love\"?  I had to deal with Rocklahoma traffic on the way to Branson."
 results_per_page: 15
 since_id: 0

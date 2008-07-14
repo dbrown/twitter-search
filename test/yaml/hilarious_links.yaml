@@ -1,9 +1,27 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857712418
-next_page: ?page=2&max_id=857712418&q=hilarious+filter%3Alinks
+max_id: 857750759
+next_page: ?page=2&max_id=857750759&q=hilarious+filter%3Alinks
 page: 1
 query: hilarious filter:links
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:28:47 +0000
+  from_user: nickmackechnie
+  id: 857750759
+  language: en
+  text: "Blog: Hilarious skit from \xE2\x80\x9CThe Soup\xE2\x80\x9D about the latest iPhone3g - http://tinyurl.com/5593bh"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:58:51 +0000
+  from_user: Deston
+  id: 857735612
+  language: en
+  text: Hilarious NEW  YORKER cover. Some have their undies in a bunch. What do you think? http://usera.imagecave.com/destonio/original.jpg
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:39:52 +0000
+  from_user: stevemcclelland
+  id: 857725678
+  language: en
+  text: "More hilarity from the guys at YLNT: Always Wear Gloves (Video)  http://www.vimeo.com/1223649  This is freakin' hilarious!"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:15:57 +0000
   from_user: top_regional
@@ -76,23 +94,5 @@ results:
   id: 857608278
   language: en
   text: This is brilliant. Michael Bay's The Dark Knight script :D http://is.gd/LIZ Hilarious.
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:19:35 +0000
-  from_user: alwaystextback
-  id: 857605747
-  language: en
-  text: Deena is live and hilarious! http://www.blogtv.com/People/DeenaMarie
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:17:27 +0000
-  from_user: brb1081
-  id: 857604363
-  language: en
-  text: Waiting for Avenue Q to resume. It's pretty hilarious. We're seated about as high up as it gets. http://twitpic.com/3zsp
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:59:54 +0000
-  from_user: bakere19
-  id: 857560247
-  language: 
-  text: http://ping.fm/VCJ8Y hilarious
 results_per_page: 15
-since_id: 851699063
+since_id: 851728586

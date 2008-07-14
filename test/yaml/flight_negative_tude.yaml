@@ -1,9 +1,27 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857667855
-next_page: ?page=2&max_id=857667855&q=flight+%3A%28
+max_id: 857759797
+next_page: ?page=2&max_id=857759797&q=flight+%3A%28
 page: 1
 query: flight :(
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:47:36 +0000
+  from_user: theo_chiari
+  id: 857759797
+  language: "no"
+  text: At PDX. $JBLU red eye flight to NYC delayed 45 minutes. :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:34:46 +0000
+  from_user: kbushling
+  id: 857753536
+  language: en
+  text: "@phillymac oh no we arrived earlier. flight was delayed & then we went out to eat. need to get up way early tomorrow :( VERY sleepy"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:14:43 +0000
+  from_user: pacotacomike
+  id: 857743721
+  language: en
+  text: "@trinitydbt yeah heading back on the early flight out of LAX :-( it'll be nice to be back in bay area"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 02:13:37 +0000
   from_user: katiebrasington
@@ -76,23 +94,5 @@ results:
   id: 857379938
   language: en
   text: Rebooked my flight to leave tonight. :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:18:32 +0000
-  from_user: Hibippytea
-  id: 857377156
-  language: en
-  text: On plane now but flight is delayed :-(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 14:41:44 +0000
-  from_user: qualityfrog
-  id: 857247617
-  language: en
-  text: At the airport in Denver. Flight is delayed. :(  Hope to be headed to Toronto for CAST soon.
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 13:01:53 +0000
-  from_user: charmedleo
-  id: 857194808
-  language: en
-  text: Leaving tampa :( but first some flight delays
 results_per_page: 15
 since_id: 0

@@ -1,9 +1,45 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857715451
-next_page: ?page=2&max_id=857715451&q=movie+-scary+%3A%29
+max_id: 857755555
+next_page: ?page=2&max_id=857755555&q=movie+-scary+%3A%29
 page: 1
 query: movie -scary :)
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:38:45 +0000
+  from_user: bettycaves
+  id: 857755555
+  language: en
+  text: wanted was a good movie! ok, goodnight now :)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:24:31 +0000
+  from_user: Lancent
+  id: 857748756
+  language: en
+  text: About to watch Superhero Movie. :D
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:11:22 +0000
+  from_user: wendemm
+  id: 857742147
+  language: en
+  text: "@markcol  yeah, it sucked huh?  you know what would cheer you up?  seeing Iron Man, the best movie of all time. :D"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:01:48 +0000
+  from_user: omkarnath
+  id: 857737203
+  language: en
+  text: me leaving for a movie :D
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:48:11 +0000
+  from_user: aprilholle
+  id: 857730128
+  language: en
+  text: "@Hildebrant loved that movie, even though I didn't know it was going to be a musical when I saw it :D"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:39:30 +0000
+  from_user: Tsoniki
+  id: 857725509
+  language: en
+  text: Okay I do like this movie :)
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:21:02 +0000
   from_user: longhornkate
@@ -58,41 +94,5 @@ results:
   id: 857666076
   language: en
   text: Trying to decide what movie to watch tonight. :-)
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:56:29 +0000
-  from_user: xodedexo18
-  id: 857665522
-  language: en
-  text: Hell boy was a bad ass movie :)
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:51:38 +0000
-  from_user: afrancisrn
-  id: 857662621
-  language: en
-  text: going to see the movie Hancock w/ family :) also getting ready for Marla's 24th bday tommorow. OC day tommorow :)
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:48:46 +0000
-  from_user: mcvie
-  id: 857660774
-  language: en
-  text: HAHAHA! I can't believe I'm tweeting a damn movie review! =)
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:39:51 +0000
-  from_user: niccijames
-  id: 857655235
-  language: en
-  text: daniel and i didn't have a coin to flip for our movie selection tonight. but i had an SD memory card in my pocket. we flipped it. i won. :)
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:34:57 +0000
-  from_user: eger27
-  id: 857652090
-  language: en
-  text: i just saw wall-e. what a precious movie. i loved it. =)
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:22:45 +0000
-  from_user: partridge
-  id: 857644727
-  language: en
-  text: Amazed at how many inside references there are in the first 10 minutes of The SImpsons Movie. :D
 results_per_page: 15
 since_id: 0

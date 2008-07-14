@@ -1,9 +1,27 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857706068
-next_page: ?page=2&max_id=857706068&q=%40mashable
+max_id: 857723686
+next_page: ?page=2&max_id=857723686&q=%40mashable
 page: 1
 query: "@mashable"
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:36:10 +0000
+  from_user: lamash
+  id: 857723686
+  language: en
+  text: "via @ericaogrady: @mashable - Looking forward to it!  Where are the pics with our matching outfits?  LOL"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:36:10 +0000
+  from_user: seattlemash
+  id: 857723683
+  language: en
+  text: "via @ericaogrady: @mashable - Looking forward to it!  Where are the pics with our matching outfits?  LOL"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:36:02 +0000
+  from_user: ericaogrady
+  id: 857723606
+  language: en
+  text: "@mashable - Looking forward to it!  Where are the pics with our matching outfits?  LOL"
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 04:04:18 +0000
   from_user: Jennyjinx
@@ -76,23 +94,5 @@ results:
   id: 857488816
   language: en
   text: "via @infinitelymeta: @mashable @seattlemash @sanfranmash why are my tweets being retweeted in your timelines? J... http://tinyurl.com/65b2z8"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:47:13 +0000
-  from_user: seattlemash
-  id: 857488803
-  language: en
-  text: "via @infinitelymeta: @mashable @seattlemash @sanfranmash why are my tweets being retweeted in your timelines? J... http://tinyurl.com/65b2z8"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:47:01 +0000
-  from_user: infinitelymeta
-  id: 857488674
-  language: en
-  text: "@mashable @seattlemash @sanfranmash why are my tweets being retweeted in your timelines? Just seems 2 add 2 the noise/echochamber. Thoughts?"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:45:55 +0000
-  from_user: jschnees
-  id: 857488097
-  language: en
-  text: "@mashable that's cool. one little store took over a street corners all across america."
 results_per_page: 15
 since_id: 0

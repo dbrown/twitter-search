@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857759421
+next_page: ?page=2&max_id=857759421&q=congratulations
+page: 1
+query: congratulations
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:46:51 +0000
+  from_user: cbowns
+  id: 857759421
+  language: en
+  text: "@dsandler Congratulations! I'll bet erinmak is happy the little bugger finally decided to pop out."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:32:58 +0000
+  from_user: ShawnLA
+  id: 857752690
+  language: en
+  text: "@fonticulus Congratulations!  I have been sending good luck thoughts your way all day, so that is excellent news!"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:15:16 +0000
+  from_user: justsomeguy
+  id: 857744045
+  language: en
+  text: "@dsandler CONGRATULATIONS to you, Erin, and the new addition!!"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:10:18 +0000
+  from_user: ritasim
+  id: 857741618
+  language: en
+  text: "@ LLy Congratulations. My present would be Mentoring Coupons; Valid When I am there [whenever it would be]."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:06:14 +0000
+  from_user: rynosoft
+  id: 857739551
+  language: en
+  text: Congratulations to my Synapticats friends! http://tinyurl.com/6sxlgb
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 05:05:28 +0000
+  from_user: Croaky
+  id: 857739171
+  language: en
+  text: "@ezmobius congratulations"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:53:40 +0000
+  from_user: pzriddle
+  id: 857733006
+  language: en
+  text: "Congratulations to @dsandler and co-parental unit!  (Re: \"nsandler, born 7/13 @ 13:40 CDT with plenty of drama.\")"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:44:15 +0000
+  from_user: williamsmith
+  id: 857727867
+  language: en
+  text: "@randomlywired Congratulations on your mac ;)"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:37:15 +0000
+  from_user: kevinycp
+  id: 857724270
+  language: en
+  text: "@super_flatfish congratulations then! What's all the sadness about?"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:21:39 +0000
+  from_user: Juuliev
+  id: 857715766
+  language: en
+  text: "@busteed You are amazing!  Congratulations!"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:11:17 +0000
+  from_user: Missmerlyn
+  id: 857709888
+  language: en
+  text: "@shamahyder Congratulations new faculty member!"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:07:46 +0000
+  from_user: antrover
+  id: 857708013
+  language: en
+  text: "@warmyellowlight congratulations on diggin men again! :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:06:11 +0000
+  from_user: lizstrauss
+  id: 857707124
+  language: en
+  text: "@ShamaHyder Congratulations!"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:04:15 +0000
+  from_user: robyn1swrlr
+  id: 857706036
+  language: en
+  text: "@kioken congratulations but is it @georgiamae?if it is @chinny might put up a fight p.s. watch out for the mustard he carrys lots of packets"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:01:43 +0000
+  from_user: AngryEdison
+  id: 857704645
+  language: en
+  text: "\"Sunday Send-Off\" Guitar Hero 3 tournament has ended. The winner is roberts666. Congratulations!"
+results_per_page: 15
+since_id: 851728586
