@@ -158,13 +158,25 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
   
   context "@client.query :q => 'ftw until:2008-05-03'" do
     setup do
-      @tweets = read_yaml :file => 'superhero_since'
+      @tweets = read_yaml :file => 'ftw_until'
     end
     
     should_have_default_search_behaviors
     
     should 'find tweets containing "ftw" and sent up to date "2008-05-03"' do
-      assert @tweets.all?{ |t| t.text =~ /superhero/i && convert_date(t.created_at) > DateTime.new(2008, 5, 1) }
+      assert @tweets.all?{ |t| t.text =~ /ftw/i && convert_date(t.created_at) < DateTime.new(2008, 5, 3, 11, 59) }
+    end
+  end
+  
+  context "@client.query :q => 'movie -scary :)'" do
+    setup do
+      @tweets = read_yaml :file => 'movie_positive_tude'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "movie", but not "scary", and with a positive attitude' do
+      assert @tweets.all?{ |t| t.text =~ /movie/i && t.text !~ /scary/i && positive_attitude?(t.text) }
     end
   end
   
@@ -187,6 +199,10 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
                  'May' => 5, 'Jun' => 6, 'Jul' => 7, 'Aug' => 8,
                  'Sep' => 9, 'Oct' => 10, 'Nov' => 11, 'Dec' => 12 }
       months[str]
+    end
+  
+    def positive_attitude?(str)
+      str.include?(':)') || str.include?('=)') || str.include?(':-)') || str.include?(':D')
     end
   
     def read_yaml(opts = {})

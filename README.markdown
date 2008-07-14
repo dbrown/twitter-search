@@ -10,7 +10,7 @@ Require the gem.
 
 Set up a Summize::Client. Name your client (a.k.a. 'user agent') to something meaningful, such as your app's name. This helps Summize answer any questions about your use of the API.
 
-	  @client = Summize::Client.new 'politweets'
+	@client = Summize::Client.new 'politweets'
 	
 Request tweets by calling the query method of your client. It takes either a String or a Hash of arguments.
 
@@ -49,6 +49,7 @@ Use Summize's query operators with the :q key to access the following behavior:
 
 * Searches are case-insenstive.
 * The "near" operator available in the Summize web interface is not available via the API. You must geocode before making your Summize API call.
+* Searching for a positive attitude :) returns tweets containing the text :), =), :D, and :-)
 
 ## License
 
