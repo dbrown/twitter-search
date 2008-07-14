@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857696837
+next_page: ?page=2&max_id=857696837&q=%22happy+hour%22
+page: 1
+query: "\"happy hour\""
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:48:22 +0000
+  from_user: CiaoBellaMe15
+  id: 857696837
+  language: en
+  text: Home from beach and happy hour- @thatguynamedtom and i both had 7 to 8 mai tais each :)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:44:14 +0000
+  from_user: thatguynamedtom
+  id: 857694143
+  language: en
+  text: So @ciaobellame15 and I together have had 12 mai tias. Uh. Thank god for happy hour
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:11:38 +0000
+  from_user: demonbane
+  id: 857675049
+  language: en
+  text: Heading out for dinner/happy hour with @herichon and a friend from out of town.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:20:14 +0000
+  from_user: sketch678
+  id: 857606182
+  language: en
+  text: $1 Kirin happy hour specials! near Central Ave & Fairfield Ranch Rd
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:58:02 +0000
+  from_user: BurningKitchen
+  id: 857592866
+  language: en
+  text: Starting to get emails about downtown San Diego Happy Hour deals. I need to do more "research" this week so I can reply appropriately.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:46:17 +0000
+  from_user: christinebpc
+  id: 857585892
+  language: en
+  text: "Clarification: Hotel doesn't need to have a happy hour. I want US to have a happy hour. I need a place & time for it though."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:44:33 +0000
+  from_user: gweinger
+  id: 857584919
+  language: en
+  text: Happy hour every day at Laurelwood.  4 dollar meals!  Never going anywhere else again.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:31:22 +0000
+  from_user: christinebpc
+  id: 857577592
+  language: en
+  text: Needed - suggestions for a place to stay in SF (cheap but safe) for 7/22 - 7/24 and a HAPPY HOUR!!! Who wants to come? Anyone want a guest?
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:19:06 +0000
+  from_user: xo64068
+  id: 857570811
+  language: en
+  text: "Best tweet in the past 24 hours was from @MySpyderWeb on her 'retreat': \"Mass in 20 minutes, then happy hour\".  Gotta love Catholics!"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:43:50 +0000
+  from_user: jimogle
+  id: 857551514
+  language: en
+  text: Last meal in Sint Maarten is at Green House for happy hour.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:51 +0000
+  from_user: twincy
+  id: 857510532
+  language: en
+  text: (WAS happy hour!)
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:28 +0000
+  from_user: shinylib
+  id: 857510309
+  language: en
+  text: happy hour at laurelwood...
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:05:26 +0000
+  from_user: fightginwars
+  id: 857498796
+  language: nl
+  text: Happy Hour.  Or night.
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:56:52 +0000
+  from_user: preed
+  id: 857494119
+  language: en
+  text: "@bgertzfield Ooh, nice; Happy Hour starts down in the 'hood at 6 for me; gonna try and be productive for... oh... the next 3 hours. :-p"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 21:41:41 +0000
+  from_user: snb
+  id: 857485843
+  language: en
+  text: Estonians are serious about drinking. instead of happy hour, you get happy *day*. buy a beer and they just hand you two for the same price.
+results_per_page: 15
+since_id: 0

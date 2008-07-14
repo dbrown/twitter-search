@@ -1,9 +1,45 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857492822
-next_page: ?page=2&max_id=857492822&q=flight+%3A%28
+max_id: 857667855
+next_page: ?page=2&max_id=857667855&q=flight+%3A%28
 page: 1
 query: flight :(
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:13:37 +0000
+  from_user: katiebrasington
+  id: 857638682
+  language: en
+  text: My flight was cancelled. :( stuck for another day...
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:11:14 +0000
+  from_user: absohio
+  id: 857637263
+  language: en
+  text: Waiting for the parents flight to land...the airport has no food :(
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:01:38 +0000
+  from_user: guiambros
+  id: 857595130
+  language: en
+  text: AA flight 2 hours delayed, as usual. No TWiT today for me :(
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:55:04 +0000
+  from_user: coryb
+  id: 857591173
+  language: en
+  text: "@doctorparadox Wow, that sounds like a fun flight ...  :-("
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:25:31 +0000
+  from_user: Krystalle
+  id: 857574354
+  language: en
+  text: "@doctorparadox: Ouch!  :( Hopefully they can get you on another flight soon."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:54:37 +0000
+  from_user: duanemoody
+  id: 857557558
+  language: en
+  text: Still in the airport. Only 2 hours until our new flight time :( please sont be delayed again! :(
 - !ruby/object:Summize::Tweet 
   created_at: Sun, 13 Jul 2008 21:54:32 +0000
   from_user: mirven
@@ -58,41 +94,5 @@ results:
   id: 857194808
   language: en
   text: Leaving tampa :( but first some flight delays
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 07:47:07 +0000
-  from_user: yjoshi
-  id: 857079568
-  language: en
-  text: had a horrible first leg of flight :( started at midnight from pune. came to mumbai at 2 am.. waited for 5 hrs for flight to baharin
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 03:59:07 +0000
-  from_user: robinyang
-  id: 856979996
-  language: en
-  text: "@russ_fischer haha. awesome. have a safe flight! thank god you're not piloting! :P"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 02:39:47 +0000
-  from_user: malcolmt
-  id: 856940414
-  language: en
-  text: Normal 15 minute checkin process took about 2 hours due to flight cancellation, rebooking, general cluelessness by other travellers, &c. :-(
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 20:34:13 +0000
-  from_user: rachelgab
-  id: 856758355
-  language: en
-  text: Flight's delayed :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 19:40:28 +0000
-  from_user: BillNienhuis
-  id: 856729533
-  language: en
-  text: Up at 4 AM tomorrow to catch a 5:30 AM flight. :-(
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 19:10:47 +0000
-  from_user: alexbuga
-  id: 856713471
-  language: en
-  text: Waiting for a pizza at Iancu's. I'm trying to surprise my parents after their flight back to Romania :P
 results_per_page: 15
 since_id: 0

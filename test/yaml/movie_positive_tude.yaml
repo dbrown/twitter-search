@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857712453
+next_page: ?page=2&max_id=857712453&q=movie+-scary+%3A%29
+page: 1
+query: movie -scary :)
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:16:00 +0000
+  from_user: naive_wanderer
+  id: 857712453
+  language: en
+  text: Ready to make the most of the rest of the summer, dammit! Also, excited about being in a movie, even as a small role. :D
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:13:57 +0000
+  from_user: pyknosis
+  id: 857711322
+  language: en
+  text: "@atow Haven't seen it yet, so I had the same thought as @echeng. Can't say I'm surprised a G-rated movie ended happily, though. :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:09:05 +0000
+  from_user: Nikki77
+  id: 857708687
+  language: en
+  text: sitting at home....tired...but can't sleep...maybe i'll fal asleep watching a movie. =)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:50:48 +0000
+  from_user: tf5_bassist
+  id: 857698292
+  language: it
+  text: "@xtalcase i looove Princess Bride.  Amazing movie.  :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:43:59 +0000
+  from_user: AfterLifeComics
+  id: 857694013
+  language: en
+  text: "@zoxide make a count down to the avengers movie in 2011! lol :D"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:22:44 +0000
+  from_user: maclau
+  id: 857681516
+  language: en
+  text: ahhh Family Man... wonderful movie hahaha so hilarious :D
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:13:50 +0000
+  from_user: CBarraford
+  id: 857676313
+  language: en
+  text: "@buckshottz the show was awesome. I got the movie coming on Bly-ray :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:57:20 +0000
+  from_user: bluestbutterfly
+  id: 857666076
+  language: en
+  text: Trying to decide what movie to watch tonight. :-)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:56:29 +0000
+  from_user: xodedexo18
+  id: 857665522
+  language: en
+  text: Hell boy was a bad ass movie :)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:51:38 +0000
+  from_user: afrancisrn
+  id: 857662621
+  language: en
+  text: going to see the movie Hancock w/ family :) also getting ready for Marla's 24th bday tommorow. OC day tommorow :)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:48:46 +0000
+  from_user: mcvie
+  id: 857660774
+  language: en
+  text: HAHAHA! I can't believe I'm tweeting a damn movie review! =)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:39:51 +0000
+  from_user: niccijames
+  id: 857655235
+  language: en
+  text: daniel and i didn't have a coin to flip for our movie selection tonight. but i had an SD memory card in my pocket. we flipped it. i won. :)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:34:57 +0000
+  from_user: eger27
+  id: 857652090
+  language: en
+  text: i just saw wall-e. what a precious movie. i loved it. =)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:22:45 +0000
+  from_user: partridge
+  id: 857644727
+  language: en
+  text: Amazed at how many inside references there are in the first 10 minutes of The SImpsons Movie. :D
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:22:42 +0000
+  from_user: achiabs
+  id: 857644700
+  language: en
+  text: "@mikaelcleto I liked the karaoke scene! Enjoyed that movie a lot :)"
+results_per_page: 15
+since_id: 0

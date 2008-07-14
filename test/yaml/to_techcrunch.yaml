@@ -1,9 +1,21 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857463792
-next_page: ?page=2&max_id=857463792&q=to%3Atechcrunch
+max_id: 857708460
+next_page: ?page=2&max_id=857708460&q=to%3Atechcrunch
 page: 1
 query: to:techcrunch
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:08:41 +0000
+  from_user: choref81
+  id: 857708460
+  language: en
+  text: "@TechCrunch Cool. Twitter on iphone uses gps for locationr"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:48:55 +0000
+  from_user: comster404
+  id: 857522692
+  language: en
+  text: "@TechCrunch what a joke"
 - !ruby/object:Summize::Tweet 
   created_at: Sun, 13 Jul 2008 19:09:07 +0000
   from_user: davemc500hats
@@ -82,17 +94,5 @@ results:
   id: 857386162
   language: en
   text: "@techcrunch sez indexing expense so great that startups cant challenge google, but what about yahoo boss?"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:33:45 +0000
-  from_user: davemc500hats
-  id: 857385512
-  language: en
-  text: "@TechCrunch: \"given that takes so much $$$, no VC-backed company can disrupt search\""
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:33:07 +0000
-  from_user: davemc500hats
-  id: 857385119
-  language: en
-  text: "@TechCrunch: \"indexing the web fully & regularly is expensive; only a few companies today doing it well, or at all\""
 results_per_page: 15
 since_id: 0

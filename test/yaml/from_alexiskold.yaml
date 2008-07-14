@@ -1,9 +1,51 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857463792
-next_page: ?page=2&max_id=857463792&q=from%3Aalexiskold
+max_id: 857667855
+next_page: ?page=2&max_id=857667855&q=from%3Aalexiskold
 page: 1
 query: from:alexiskold
 results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:46:07 +0000
+  from_user: alexiskold
+  id: 857621910
+  language: en
+  text: I am reading The Paradox of Choice. It started primitive but got more interesting starting with chapter 2. I pity maximizers a lot.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:35:18 +0000
+  from_user: alexiskold
+  id: 857615325
+  language: en
+  text: "@sarahintampa did you try installing it into a fresh directory, not the one you had 2.0 or previous build?"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:19:45 +0000
+  from_user: alexiskold
+  id: 857605839
+  language: en
+  text: "@sarahintampa are you on the Mac?"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:39:50 +0000
+  from_user: alexiskold
+  id: 857582430
+  language: en
+  text: "@EmreSokullu have some wine."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:30:36 +0000
+  from_user: alexiskold
+  id: 857577132
+  language: en
+  text: Is there a toggle on FriendFeed to only see my entries that people commented on or liked?
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:29:28 +0000
+  from_user: alexiskold
+  id: 857576441
+  language: en
+  text: "Social Networking is Not a Business in MIT Technology Review. Read this even though all of this is know already: http://bit.ly/2Pqdu0"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:29:14 +0000
+  from_user: alexiskold
+  id: 857543855
+  language: en
+  text: My 4 year olds are seriously onto kissing. They just met this girl and a minute later kissed her in the month. What do I do? Help me please!
 - !ruby/object:Summize::Tweet 
   created_at: Sun, 13 Jul 2008 19:26:39 +0000
   from_user: alexiskold
@@ -52,47 +94,5 @@ results:
   id: 856813382
   language: sv
   text: FLL => EWR
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 19:06:27 +0000
-  from_user: alexiskold
-  id: 856711222
-  language: en
-  text: "@dom yes, it really is frustrating. After I upgraded to iPhone 2.0 os, things are far from snappy. Seems like thread scheduler issues."
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 18:39:37 +0000
-  from_user: alexiskold
-  id: 856695832
-  language: en
-  text: Tropicana pomergranade/blueberry juice rocks.
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 16:55:37 +0000
-  from_user: alexiskold
-  id: 856632387
-  language: en
-  text: Just wrote a post about Facebook platform. This was one of the toughest posts to write in a while - lots of good and bad mixed in.
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 14:16:01 +0000
-  from_user: alexiskold
-  id: 856529110
-  language: en
-  text: Last day at the beach wishing I was at foocamp instead.
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 14:14:55 +0000
-  from_user: alexiskold
-  id: 856528457
-  language: en
-  text: Picked 5 random people to follow on Twitter just for fun last night. Will see how it goes.
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 03:36:45 +0000
-  from_user: alexiskold
-  id: 856249167
-  language: en
-  text: "@DuckBrown   I think Twiterrific tips were nice, but they should not have been showing them over and over on each screen. Once is enough."
-- !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 03:35:51 +0000
-  from_user: alexiskold
-  id: 856248686
-  language: en
-  text: Watching Lars and the Real Girl. Its sort of good but not great, I dunno, can't put my finger on it. Will see how it ends.
 results_per_page: 15
 since_id: 0

@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'net/http'
 require 'json'
+require 'cgi'
 
 module Summize
 
@@ -50,14 +51,14 @@ module Summize
 
       def sanitize_query(opts)
         if opts.is_a? String
-          "q=#{URI.escape(opts)}" 
+          "q=#{CGI.escape(opts)}" 
         elsif opts.is_a? Hash
-          sanitize_query_hash(opts)
+          "#{sanitize_query_hash(opts)}"
         end
       end
 
       def sanitize_query_hash(query_hash)
-        query_hash.map{ |k,v| "#{URI.escape(k.to_s)}=#{URI.escape(v.to_s)}" }.join('&')
+        query_hash.map{ |k,v| "#{CGI.escape(k.to_s)}=#{CGI.escape(v.to_s)}" }.join('&')
       end
   end
 

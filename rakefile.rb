@@ -18,6 +18,7 @@ namespace :yaml do
     write_yaml :tweets => {:q => 'to:techcrunch'},                     :file => 'to_techcrunch'
     write_yaml :tweets => {:q => '@mashable'},                         :file => 'reference_mashable'
     write_yaml :tweets => {:q => '"happy hour" near:"san francisco"'}, :file => 'happy_hour_near_sf'
+    write_yaml :tweets => {:q => 'near:NYC within:15mi'},              :file => 'within_15mi_nyc'
     write_yaml :tweets => {:q => 'superhero since:2008-05-01'},        :file => 'superhero since'
     write_yaml :tweets => {:q => 'ftw until:2008-05-03'},              :file => 'ftw_until'
     write_yaml :tweets => {:q => 'movie -scary :)'},                   :file => 'movie_positive_tude'
@@ -30,7 +31,7 @@ end
 def write_yaml(opts = {})
   @client = Summize::Client.new 'ruby-summize'
   tweets  = @client.query(opts[:tweets])
-  File.open("#{File.join(File.dirname(__FILE__), 'test')}/#{opts[:file]}.yaml", 'w+') do |file| 
+  File.open(File.join(File.dirname(__FILE__), 'test', 'yaml', "#{opts[:file]}.yaml"), 'w+') do |file| 
     file.puts tweets.to_yaml
   end
 end

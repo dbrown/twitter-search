@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857711911
+next_page: ?page=2&max_id=857711911&q=superhero+since%3A2008-05-01
+page: 1
+query: superhero since:2008-05-01
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:15:06 +0000
+  from_user: marynificent
+  id: 857711911
+  language: eo
+  text: "@bre happy birthday, superhero man!"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:08:28 +0000
+  from_user: keithSTUH
+  id: 857708356
+  language: en
+  text: "@Sharumpe Carol and I saw Handcok last night too. I liked it until the girl was also a superhero."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:07:10 +0000
+  from_user: keithSTUH
+  id: 857707660
+  language: en
+  text: "@Sharumpe Carol and I saw Handcok last night too. I liked it until the girl was also a superhero."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:54:54 +0000
+  from_user: techwatch
+  id: 857700545
+  language: en
+  text: "NY Times Tech: A Comic Book Superhero Is Headed to Small Screens: The animated adventures.. http://tinyurl.com/5vqh3x"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:54:11 +0000
+  from_user: btmeacham
+  id: 857700131
+  language: en
+  text: Anyone notice that two of 2008's biggest superhero movies (Iron Man, Hancock) feature art by Ed Ruscha? What gives? Any word on Hellboy II?
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:24:02 +0000
+  from_user: StephDilts
+  id: 857682282
+  language: en
+  text: Hmm, I think a comic book superhero movie weekend is at hand...
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:23:52 +0000
+  from_user: anyt
+  id: 857682177
+  language: en
+  text: "GEORGE GENE GUSTINES: A Comic Book Superhero Is Headed to Small Screens [Business/Media] http://tinyurl.com/6oh87k"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:22:15 +0000
+  from_user: itssmorgy
+  id: 857681223
+  language: en
+  text: "@jeffcannata hey man im looking for a really really dark and gritty superhero or villain comic any suggestions? thanks"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:08:03 +0000
+  from_user: RSS_NYT
+  id: 857672897
+  language: en
+  text: A Comic Book Superhero Is Headed to Small Screens http://tinyurl.com/6r6ufu
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:34:45 +0000
+  from_user: cinematical
+  id: 857651945
+  language: en
+  text: "If Batman's Tumbler was an Autobot ...: Filed under: Fandom, Comic/Superhero/Geek, ImagesWhat would i.. http://tinyurl.com/5stg7t"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:32:09 +0000
+  from_user: nyt_biz
+  id: 857650245
+  language: en
+  text: A Comic Book Superhero Is Headed to Small Screens http://tinyurl.com/57ovd2
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:17:30 +0000
+  from_user: rampok
+  id: 857641121
+  language: en
+  text: Just following Richard M Stallman @rms the superhero behind GNU-Linux. Salute!
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:19:37 +0000
+  from_user: laurex
+  id: 857605759
+  language: en
+  text: if being a superhero doesn't prevent hangovers, I'm staying mortal
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:00:12 +0000
+  from_user: nancysun
+  id: 857594243
+  language: en
+  text: Devillianated myself today at the Brooklyn Superhero Supply Company.  I should do that every weekend...
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:46:56 +0000
+  from_user: Reptil
+  id: 857586278
+  language: es
+  text: "@Nervioso Se ve\xC3\xADa que Hancock nom\xC3\xA1s quer\xC3\xADa aprovechar el Superhero Hype."
+results_per_page: 15
+since_id: 800791688

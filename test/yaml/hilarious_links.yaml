@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857712418
+next_page: ?page=2&max_id=857712418&q=hilarious+filter%3Alinks
+page: 1
+query: hilarious filter:links
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:15:57 +0000
+  from_user: top_regional
+  id: 857712418
+  language: en
+  text: "usa: LOLPresidents.com - Hundreds of Hilarious Pictures of US Presidents, Foreign Heads of State.. http://lolpresidents.com/"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:59:47 +0000
+  from_user: mikaelcleto
+  id: 857703371
+  language: en
+  text: "@everyone check this out... and LOL this parody of this Korean pop video is so hilarious. http://rurl.org/v5i"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:43:57 +0000
+  from_user: soulhuntre
+  id: 857693985
+  language: en
+  text: Hilarious iPhone video - http://is.gd/Sjp
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:59:26 +0000
+  from_user: john_mark
+  id: 857667489
+  language: en
+  text: "Looks like it's going to be hilarious: http://www.vimeo.com/1198570"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:46:31 +0000
+  from_user: angryasianguy
+  id: 857659293
+  language: en
+  text: This is hilarious!! - http://twitpic.com/406i
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:45:39 +0000
+  from_user: tkaemming
+  id: 857658772
+  language: en
+  text: pineapple express looks absolutely hilarious... it could be one of movies i'm looking forward to most this summer. http://twurl.nl/i3diyd
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:28:35 +0000
+  from_user: daneberhardt
+  id: 857648170
+  language: en
+  text: Just watched hilarious video thanks to singn4ever! http://osbornz.net/amy/?p=1256
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:09:56 +0000
+  from_user: JSigala
+  id: 857636482
+  language: en
+  text: "\"Michael Bay's\" rejected Dark Knight script. Shit's hilarious. http://tinyurl.com/56dgxq"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:54:50 +0000
+  from_user: fleurdiabolique
+  id: 857627390
+  language: en
+  text: Rereading the Very Secret Diaries. I forgot how hilarious these were.  http://www.ealasaid.com/misc/vsd/
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:36:35 +0000
+  from_user: toss_garbage
+  id: 857616106
+  language: en
+  text: Super Chuck Norris videogame!!!  (Hilarious) http://tinyurl.com/5clgxs
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:25:45 +0000
+  from_user: KevinNunez
+  id: 857609431
+  language: en
+  text: "Hit me on my iPhone.. this is hilarious: http://ping.fm/t4cX7"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:23:54 +0000
+  from_user: Warlach
+  id: 857608278
+  language: en
+  text: This is brilliant. Michael Bay's The Dark Knight script :D http://is.gd/LIZ Hilarious.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:19:35 +0000
+  from_user: alwaystextback
+  id: 857605747
+  language: en
+  text: Deena is live and hilarious! http://www.blogtv.com/People/DeenaMarie
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:17:27 +0000
+  from_user: brb1081
+  id: 857604363
+  language: en
+  text: Waiting for Avenue Q to resume. It's pretty hilarious. We're seated about as high up as it gets. http://twitpic.com/3zsp
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:59:54 +0000
+  from_user: bakere19
+  id: 857560247
+  language: 
+  text: http://ping.fm/VCJ8Y hilarious
+results_per_page: 15
+since_id: 851699063

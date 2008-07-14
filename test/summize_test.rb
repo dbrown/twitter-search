@@ -110,7 +110,7 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
-  context "@client.query :q => '@mashable" do
+  context "@client.query :q => '@mashable'" do
     setup do
       @tweets = read_yaml :file => 'reference_mashable'
     end
@@ -122,8 +122,28 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
-  # TODO: :q => '"happy hour" <b>near:</b>"san francisco"' containing the exact phrase "happy hour" and sent near "san francisco"
-  # TODO: :q => '<b>near:</b>NYC <b>within:</b>15mi</a>'</td><td>sent within 15 miles of "NYC"
+  context "@client.query :q => '\"happy hour\" near:\"san francisco\"'" do
+    setup do
+      @tweets = read_yaml :file => 'happy_hour_near_sf'
+    end
+    
+    # The Summize API makes you use the geocode parameter for location searching
+    should 'not find tweets using the near operator' do
+      assert ! @tweets.any?
+    end
+  end
+  
+  context "@client.query :q => 'near:NYC within:15mi'" do
+    setup do
+      @tweets = read_yaml :file => 'within_15mi_nyc'
+    end
+    
+    # The Summize API makes you use the geocode parameter for location searching
+    should 'not find tweets using the near operator' do
+      assert ! @tweets.any?
+    end
+  end
+  
   # TODO: :q => 'superhero <b>since:</b>2008-05-01'</a></td><td>containing "superhero" and sent since date "2008-05-01" (year-month-day)
   # TODO: :q => 'ftw <b>until:</b>2008-05-03'</a></td><td>containing "ftw" and sent up to date "2008-05-03"
   # TODO: :q => 'movie -scary <b>:)</b>'</a></td><td>containing "movie", but not "scary", and with a positive attitude
@@ -137,7 +157,7 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
   
     def read_yaml(opts = {})
       return if opts[:file].nil?
-      YAML.load_file("#{File.dirname(__FILE__)}/#{opts[:file]}.yaml") 
+      YAML.load_file File.join(File.dirname(__FILE__), 'yaml', "#{opts[:file]}.yaml") 
     end
   
 end

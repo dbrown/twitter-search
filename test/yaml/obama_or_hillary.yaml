@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857714741
+next_page: ?page=2&max_id=857714741&q=obama+OR+hillary
+page: 1
+query: obama OR hillary
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:19:47 +0000
+  from_user: susankrlib
+  id: 857714741
+  language: en
+  text: Scary conversation @ party today-liberal pals who really dislike Obama and think he's the same if not worse than McCain. This is not a lock.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:19:33 +0000
+  from_user: jayrosen_nyu
+  id: 857714590
+  language: en
+  text: "Is it art?  Obama camp: \xE2\x80\x9CTasteless and offensive.\xE2\x80\x9D McCain camp: \xE2\x80\x9CWe completely agree with the Obama campaign, it\xE2\x80\x99s tasteless and offensive.\""
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:18:39 +0000
+  from_user: chrisabraham
+  id: 857714056
+  language: en
+  text: "@davewiner There is a pretty good chance that Obama won't win.  He won't be anybody's president. Stranger things have happened."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:18:21 +0000
+  from_user: tnr
+  id: 857713859
+  language: en
+  text: "THE PLANK: The Obama Campaign Picks The Wrong Fight http://tinyurl.com/5mnpx7"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:17:35 +0000
+  from_user: Busterwolf1176
+  id: 857713391
+  language: en
+  text: You know with all the Obama bashing I wish people would just say they don't want no n***a in the White House. At least that's honest.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:16:23 +0000
+  from_user: newsnet
+  id: 857712657
+  language: en
+  text: "From MSNBC NAACP head: Obama is 'high point': The chairman of the NAACP says racial disparity w.. http://tinyurl.com/67wxen"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:13:04 +0000
+  from_user: Dagen
+  id: 857710866
+  language: sv
+  text: "John McCain knappar in p\xC3\xA5 Barack Obama http://tinyurl.com/5egv97"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:11:29 +0000
+  from_user: kimerakincaid
+  id: 857709992
+  language: es
+  text: Wtf obama for president billboard O_o
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:09:29 +0000
+  from_user: msnbc_us
+  id: 857708908
+  language: en
+  text: "NAACP head: Obama is 'high point' http://tinyurl.com/67wxen"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:09:29 +0000
+  from_user: davewiner
+  id: 857708902
+  language: en
+  text: You gotta be able to laugh at yourself, and here's the thing, Obama's going to be our president, *our* president, not just yours.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:09:19 +0000
+  from_user: msnbc
+  id: 857708820
+  language: en
+  text: "NAACP head: Obama is 'high point' http://tinyurl.com/67wxen"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:09:14 +0000
+  from_user: Drewryonline
+  id: 857708765
+  language: en
+  text: "Hillary Rodham Clinton news and blogs - July 13, 2008: Hillary Rodham Clinton news and blogs - July .. http://tinyurl.com/6a5vl9"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:07:32 +0000
+  from_user: anavailableuser
+  id: 857707902
+  language: en
+  text: Obama Camp Finds New Yorker Cover "Tasteless" /Gawker Top Stories of the Week/ - This is the New Yorker's ... http://tinyurl.com/5p884x
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:07:32 +0000
+  from_user: newscloud
+  id: 857707894
+  language: en
+  text: "How to sell magazines 101:  New Yorker Cover Shows Muslim, Flag-Burning, Osama-Loving Obama... http://newscloud.com/x/20i9"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:05:03 +0000
+  from_user: bcbfcbfde
+  id: 857706518
+  language: en
+  text: Perhaps we are finally going to put a rest to the myth that Barack Obama has a fundraising advantage over John McCain.
+results_per_page: 15
+since_id: 0

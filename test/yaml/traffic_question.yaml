@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857703981
+next_page: ?page=2&max_id=857703981&q=traffic+%3F
+page: 1
+query: traffic ?
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:00:34 +0000
+  from_user: GeekMommy
+  id: 857703981
+  language: en
+  text: "@chrisbrogan - speaking of which - can we get in an argument soon? I need to up my traffic! ;) (only kidding - I'd need content first! lol)"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:36:22 +0000
+  from_user: Lynnae
+  id: 857689589
+  language: en
+  text: "@kingdomfirstmom Congrats on the high traffic day!  And frugal mom bloggers?  I'm in!  :)"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:34:03 +0000
+  from_user: nicktherick
+  id: 857688274
+  language: en
+  text: what is with this traffic!?!
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:13:52 +0000
+  from_user: playworkplay
+  id: 857676332
+  language: en
+  text: Could it be that Jakarta's traffic reflects Indonesian websites traffic? Happens on mine. If it's true, more traffic jam down there plz!
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 02:18:07 +0000
+  from_user: 99luftaballoons
+  id: 857641534
+  language: en
+  text: Stuck in traffic on I-35.  2 out of 3 lanes closed. Is it really nexessary @ $4 gas?
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:57:14 +0000
+  from_user: trbdigital
+  id: 857628892
+  language: en
+  text: How much do you think John Reese Traffic 2.0 will cost?  Anyone know?
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:18:45 +0000
+  from_user: aubreys_friend
+  id: 857605168
+  language: en
+  text: I say be on the road by 3 so I will pick u up at 245ish. Is that cool? That gives 2 hrs for traffic, but with my txtag we can take toll.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 01:13:12 +0000
+  from_user: ABestWeb
+  id: 857601864
+  language: en
+  text: "Posting Links Affect your Rep ?.....: Hi I have read that posting links back can help your sites traffic.. http://tinyurl.com/68osa6"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:55:33 +0000
+  from_user: ryanberg
+  id: 857591466
+  language: en
+  text: "@cmm1869 How bad is the left turn into Gallaher View from Walker's Crossing during high-traffic times?"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:42:09 +0000
+  from_user: gerad
+  id: 857583676
+  language: en
+  text: City of SF sucks.  I have to request traffic school in person. WTF?
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:19:36 +0000
+  from_user: tweelings_en
+  id: 857571107
+  language: en
+  text: LOVE> @derrickhenslee Uh, "Gangster of Love"? I had to deal with Rocklahoma traffic on the w.. http://tinyurl.com/56ccrk
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:18:59 +0000
+  from_user: jeffclick
+  id: 857570764
+  language: en
+  text: "@derrickhenslee Uh, \"Gangster of Love\"?  I had to deal with Rocklahoma traffic on the way to Branson."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:08:51 +0000
+  from_user: megfowler
+  id: 857565176
+  language: en
+  text: "@chrisbrogan yeah, but why are you sending traffic to something that you don't think merits attention?"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:30:53 +0000
+  from_user: TimothyWatson
+  id: 857544766
+  language: en
+  text: Surfing a TE http://lords-of-traffic.com/?rid=1914
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:24:54 +0000
+  from_user: musshhh
+  id: 857541599
+  language: en
+  text: still in the car. stupid traffic policemen, when is our turn to move kan?
+results_per_page: 15
+since_id: 0

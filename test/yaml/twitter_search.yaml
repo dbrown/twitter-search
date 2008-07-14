@@ -1,0 +1,98 @@
+--- !ruby/object:Summize::Tweets 
+max_id: 857705164
+next_page: ?page=2&max_id=857705164&q=twitter+search
+page: 1
+query: twitter search
+results: 
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 04:02:39 +0000
+  from_user: madam3181
+  id: 857705164
+  language: en
+  text: "@edwardharran Another way I found to demo Twitter is to do summize search using keywords suggested by audience; see personal relevance."
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:25:00 +0000
+  from_user: jerrycakes
+  id: 857682826
+  language: en
+  text: Testing out Twitter clients - Digsby, twhirl and QckTwit that I found via Google search.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:15:59 +0000
+  from_user: ardalis
+  id: 857677584
+  language: en
+  text: "Blog: Word 2007 Search Commands: I recently complained on Twitter that the UI in Office 2007 (and sp.. http://tinyurl.com/6hos6y"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 03:13:52 +0000
+  from_user: YHuynh
+  id: 857676328
+  language: en
+  text: so i was trying to type in google search and hit my twitter instead.... found out the girl from mario galaxy's name was rosalina, fyi. :-)
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:48:07 +0000
+  from_user: chrisutley
+  id: 857587107
+  language: en
+  text: "@robpickering search for her on twitter, name is Lisa Nova ... she's funny as hell"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 00:03:10 +0000
+  from_user: phocks
+  id: 857562164
+  language: en
+  text: lots and lots of twitter chatter about the iphone http://summize.com/search?q=iphone
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:35:19 +0000
+  from_user: BrianGreene
+  id: 857547215
+  language: en
+  text: why radioparadise? a fan twitter scrobbled their live playlist from stream, I found them via summize on a artist search
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:30:55 +0000
+  from_user: Internetfcdaf
+  id: 857544788
+  language: sv
+  text: "mickal: mickal: mickal: mickal: mickal: mickal: Search engines like Blogs. http://twitter.com/mickal/statuses/855062370"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:30:55 +0000
+  from_user: BlogHostdfbf
+  id: 857544784
+  language: sv
+  text: "mickal: mickal: mickal: mickal: mickal: mickal: Search engines like Blogs. .. http://twitter.com/mickal/statuses/855062370"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:30:46 +0000
+  from_user: Internetfcdaf
+  id: 857544707
+  language: sv
+  text: "http://hopurl.com/45394 mickal: mickal: mickal: mickal: mickal: Search engines like Blogs. http://twitter.com/mickal/statuses/854291785"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 23:30:44 +0000
+  from_user: BlogHostafa
+  id: 857544692
+  language: sv
+  text: "mickal: mickal: mickal: Search engines like Blogs. mickal: http://tinyurl.com/6q6796 mickal: .. http://twitter.com/mickal/statuses/854291647"
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:26 +0000
+  from_user: dkottke
+  id: 857510300
+  language: en
+  text: coaching Barry Brilliant thru creating his twitter account... hey, how come my own name won't come up in a search, what's with that???!
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:26:20 +0000
+  from_user: jasonboucher
+  id: 857510251
+  language: en
+  text: "@samluce just search \"twitter\" on facebook and you are good to go."
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:23:25 +0000
+  from_user: benmarvin
+  id: 857508637
+  language: en
+  text: Wow, those live pics of the thunder exploded all over Twitter. http://summize.com/search?q=Blackberry
+- !ruby/object:Summize::Tweet 
+  created_at: Sun, 13 Jul 2008 22:19:19 +0000
+  from_user: jasonboucher
+  id: 857506317
+  language: en
+  text: "@garethgilpin just search \"twitter\" in facebook and it walks you through it."
+results_per_page: 15
+since_id: 0
