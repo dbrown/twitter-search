@@ -45,6 +45,12 @@ Use Summize's query operators with the :q key to access the following behavior:
 		<tr><td><a href="http://summize.com/search?q=hilarious+filter%3Alinks">:q => 'hilarious <b>filter:links</b>'</a></td><td>containing "hilarious" and linking to URLs.</td></tr>
 </table>
 
+### Foreign Languages
+
+The Summize API supports foreign languages, accessible via the :lang key. Use the [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) codes as the value:
+
+    @tweets = @client.query :q => 'programmé', :lang => 'fr'
+
 ## Gotchas
 
 * Searches are case-insenstive.
