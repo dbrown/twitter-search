@@ -180,10 +180,41 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
-  # TODO: :q => 'movie -scary <b>:)</b>'</a></td><td>containing "movie", but not "scary", and with a positive attitude
-  # TODO: :q => 'flight <b>:(</b>'</a></td><td>containing "flight" and with a negative attitude.
-  # TODO: :q => 'traffic <b>?</b>'</a></td><td>containing "traffic" and asking a question
-  # TODO: :q => 'hilarious <b>filter:links</b>'</a></td><td>containing "hilarious" and linking to URLs
+  context "@client.query :q => 'flight :('" do
+    setup do
+      @tweets = read_yaml :file => 'flight_negative_tude'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "flight" and with a negative attitude' do
+      assert @tweets.all?{ |t| t.text =~ /flight/i && negative_attitude?(t.text) }
+    end
+  end
+  
+  context "@client.query :q => 'traffic ?'" do
+    setup do
+      @tweets = read_yaml :file => 'traffic_question'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "traffic" and asking a question' do
+      assert @tweets.all?{ |t| t.text =~ /traffic/i && t.text.include?('?') }
+    end
+  end
+  
+  context "@client.query :q => 'hilarious filter:links'" do
+    setup do
+      @tweets = read_yaml :file => 'hilarious_links'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'find tweets containing "hilarious" and linking to URLs' do
+      assert @tweets.all?{ |t| t.text =~ /hilarious/i && hyperlinks?(t.text) }
+    end
+  end
   
   # TODO: pagination
   
@@ -203,6 +234,14 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
   
     def positive_attitude?(str)
       str.include?(':)') || str.include?('=)') || str.include?(':-)') || str.include?(':D')
+    end
+    
+    def negative_attitude?(str)
+      str.include?(':(') || str.include?('=(') || str.include?(':-(') || str.include?(':P')
+    end
+    
+    def hyperlinks?(str)
+      str.include?('http://') || str.include?('https://')
     end
   
     def read_yaml(opts = {})
