@@ -1,57 +1,138 @@
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 --- !ruby/object:Summize::Tweets 
 max_id: 859068467
 next_page: ?page=2&max_id=859068467&q=%40mashable
+=======
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859152168
+next_page: ?page=2&max_id=859152168&q=%40mashable
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
 page: 1
 query: "@mashable"
 results: 
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:38:43 +0000
+  from_user: JoachimNiemeier
+  id: 859152168
+  language: en
+  text: "Retweeting @mashable: Twitter Acquires Summize; Launches Official Twitter Search ( http://tinyurl.com/6apprl )"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:31:48 +0000
+  from_user: learnseo
+  id: 859145237
+  language: en
+  text: "@mashable Reading http://tinyurl.com/6apprl"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:30:50 +0000
+  from_user: tiffanywinbush
+  id: 859144295
+  language: en
+  text: Twitter+Summize=Rocks. Hoping for Twitter system upgrades. retweet @mashable  http://tinyurl.com/6apprl
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:29:32 +0000
+  from_user: thermosilla
+  id: 859142910
+  language: es
+  text: "ejale!! le gan\xC3\xA9 en la noticia a @techcrunch y @mashable"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:27:14 +0000
+  from_user: jduklas
+  id: 859140592
+  language: en
+  text: "@mashable The Summize purcahse has finally gone through. About time. Also... haven't seen FailWhale in awhile."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:57 +0000
+  from_user: ViewMyLife
+  id: 859137169
+  language: en
+  text: "@mashable Will the GoogleEarth 3D renderings be available on iPhone? I think that could be the start of next-gen GPS. http://snurl.com/2z0j0"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:22:22 +0000
+  from_user: sfparty
+  id: 859135649
+  language: en
+  text: "7p: @sanfranmash party at Mighty. @mashable will be there."
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 15:12:30 +0000
   from_user: Flixwagon
   id: 859068467
   language: en
   text: "@Mashable @seanpaune cool post on Lifestreaming. Thanks for the great mention! http://tinyurl.com/5ljb3n"
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 15:11:45 +0000
   from_user: Flixwagon
   id: 859067737
   language: en
   text: "@Mashable @seanpaune cool post on Lifestreaming. Thanks for the great mention!"
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 12:44:14 +0000
   from_user: zarzecks
   id: 858945250
   language: en
   text: "Just got my copy of Sway, looking forward to reading. Thanks @adamhirsch @mashable. #AuthorsAtMashable"
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 11:55:14 +0000
   from_user: markmckay
   id: 858912357
   language: en
   text: "retweet: @mashable   Viacom Backs Down - Our Privacy Is Preserved ( http://tinyurl.com/5gbcas )"
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 11:38:11 +0000
   from_user: vruz
   id: 858902356
   language: en
   text: "retweet: @mashable Viacom Backs Down - Our Privacy is Preserved  http://is.gd/TKh"
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 10:53:10 +0000
   from_user: okami
   id: 858878458
   language: en
   text: "@mashable not necessarily. . .all it takes is a nice coronal mass ejection and the solar radiation and particles will fry the satellite, ..."
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 07:18:09 +0000
   from_user: DocGee
   id: 858774327
   language: en
   text: "@mashable why the iphone?"
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 05:46:09 +0000
   from_user: morganb
   id: 858729582
   language: en
   text: excited for @mashable 's SF SummerMash tomorrow night!
+<<<<<<< HEAD:test/yaml/reference_mashable.yaml
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 04:48:36 +0000
   from_user: Paulewis
@@ -94,5 +175,7 @@ results:
   id: 858676273
   language: en
   text: "@mashable Cry some more :D You're buying the booze this friday. hehehe"
+=======
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
 results_per_page: 15
 since_id: 0

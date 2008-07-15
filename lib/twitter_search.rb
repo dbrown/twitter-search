@@ -3,7 +3,7 @@ require 'net/http'
 require 'json'
 require 'cgi'
 
-module Summize
+module TwitterSearch
 
   class Tweet
     VARS = [:text, :from_user, :created_at, :id]
@@ -37,7 +37,7 @@ module Summize
   end
 
   class Client
-    def initialize(agent = 'ruby-summize')
+    def initialize(agent = 'twitter-search')
       @agent = agent
     end
 

@@ -1,38 +1,84 @@
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
 --- !ruby/object:Summize::Tweets 
 max_id: 859127808
 next_page: ?page=2&max_id=859127808&q=beer+-root
+=======
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859161623
+next_page: ?page=2&max_id=859161623&q=beer+-root
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
 page: 1
 query: beer -root
 results: 
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:42 +0000
   from_user: GSSP
   id: 859127808
+=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:48:12 +0000
+  from_user: CreativeCooler
+  id: 859161623
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: "[News] http://tinyurl.com/5l78zn Anheuser-Busch is sold to beer giant in Belgium"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:18 +0000
   from_user: mb21
   id: 859127404
+=======
+  text: "Germany biking day 2: 40 mile ride, 3 mile hike-Metzig to Trier. First wipe out and a skinned knee. A bit sore and ready for more beer."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:44:36 +0000
+  from_user: wisemana
+  id: 859157881
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: I want everyone around me to stfu right now.  and then i want all the silent bastards to bring me beer.
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:12:57 +0000
   from_user: nicdarling
   id: 859126037
+=======
+  text: eat it, Anheuser Busch. Maybe if you didn't make beer using rice and corn you would still be around
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:44:28 +0000
+  from_user: ChristyRhoades
+  id: 859157756
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: Working in a cafe that happens to serve beer. Do I have one with lunch? Silly question.
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:12:31 +0000
   from_user: lostinsweden
   id: 859125647
+=======
+  text: is three days away from beer and packing for home! :-D
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:43:04 +0000
+  from_user: kob42kob
+  id: 859156384
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: I don't want salmon and potatoes for dinner.  I want to go out for burgers and fries and beer.  Damn it.
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:12:15 +0000
   from_user: Kalli
   id: 859125370
+=======
+  text: thinks about going for a quick beer tonight
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:42:27 +0000
+  from_user: greezyweezel
+  id: 859155847
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: I've found good and cheap crisps and beer. 3.5% Spendrups Old Gold and ICA grill chips. Am I a Swede now? Seriously, the Old Gold 3.5 is OK.
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:12:13 +0000
@@ -44,55 +90,136 @@ results:
   created_at: Tue, 15 Jul 2008 16:10:56 +0000
   from_user: batchblue
   id: 859124120
+=======
+  text: "@bebizzy I hear you, I'm more productive with a beer too."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:34:48 +0000
+  from_user: cambella
+  id: 859148218
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: "@JoeCascio We love social and media and BBQ and beer! Happy to help sponsor your fine event: http://tinyurl.com/2pcdlz"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:10:31 +0000
   from_user: jdye
   id: 859123755
+=======
+  text: http://search.twitter.com/search?q=beer  @kitschbitch - I quite agree
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:34:44 +0000
+  from_user: runnergirl713
+  id: 859148146
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: "@juliaxgulia  Bring your running shoes! BSS is a must-see...and I bet Islands are gonna be out-of-control. Also: hot dogs and beer!"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:10:11 +0000
   from_user: oilman
   id: 859123453
+=======
+  text: relaxing after a long day of beer and chocolate, beer and chocolate. oh, and also, a brewery tour. bruges is incredible.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:34:14 +0000
+  from_user: TheBeerWench
+  id: 859147643
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: "@davesnyder how about I owe you a beer instead? ;)"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:09:40 +0000
   from_user: carlhaggerty
   id: 859122935
+=======
+  text: "@repmekevets It is always beer o'clock in my book ..."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:34:08 +0000
+  from_user: cambella
+  id: 859147552
+  language: 
+  text: http://search.twitter.com/search?q=beer
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:33:19 +0000
+  from_user: jwwjr
+  id: 859146719
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: "@we are staying at jury's inn chelsea. Fancy meeting for a beer later. You have work mobile no"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:08:53 +0000
   from_user: krames
   id: 859122195
+=======
+  text: "I is a \"Beer can stumblin\xE2\x80\x99 in the wind down Metropolitan I\xE2\x80\x99m all over the place trying to walk like nothing\xE2\x80\x99s happening lonesome goats l ..."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:33:13 +0000
+  from_user: fireland
+  id: 859146618
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: I'd like to meet the guy who invented beer and see what he's working on now.
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:06:44 +0000
   from_user: digitalyn
   id: 859120158
+=======
+  text: Only been unemployed for a week but already I'm watching the iCarly marathon, nude, smelling like a diaper filled with old beer and despair.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:32:59 +0000
+  from_user: Malakym
+  id: 859146391
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: The "friend box" might be the promise of some good moments also. I mean "Have a beer and grab a book"...
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:03:00 +0000
   from_user: gocyclones
   id: 859116400
+=======
+  text: Been ill for the last couple of days. Feeling a lot better now. Want beer so badly.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:32:20 +0000
+  from_user: skrud
+  id: 859145740
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: "@mario85 #RAGBRAI is not about lance  its about people beer and seeing Iowa @ 20 mph"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:00:58 +0000
   from_user: IamDerrick
   id: 859114509
+=======
+  text: "@tempestmia You'll have to ask me when I'm drinking a beer. ;)"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:28:33 +0000
+  from_user: Kathy_L
+  id: 859141978
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: "\"never mix beer with cranberry juice\" - kelly's little brother"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 15:59:51 +0000
   from_user: jswo
   id: 859113396
+=======
+  text: "@ku5h, I heard it was in the works. Too bad for American company, but those Belgians really know how to make beer. I'm torn."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:27:52 +0000
+  from_user: whiticism
+  id: 859141271
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
   language: en
+<<<<<<< HEAD:test/yaml/beer_minus_root.yaml
   text: Long bike rides are best followed by beer at a campsite. Not work in an office.
+=======
+  text: "list of things that do not cure eye twitch: beer, wine, vodka, cucumber slices, sleep, eye drops. trying self-induced coma next."
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/beer_minus_root.yaml
 results_per_page: 15
 since_id: 0

@@ -1,4 +1,8 @@
+<<<<<<< HEAD:test/yaml/within_15mi_nyc.yaml
 --- !ruby/object:Summize::Tweets 
+=======
+--- !ruby/object:TwitterSearch::Tweets 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/within_15mi_nyc.yaml
 max_id: -1
 next_page: 
 page: 1

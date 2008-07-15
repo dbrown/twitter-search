@@ -1,0 +1,192 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859056222
+next_page: ?page=2&max_id=859056222&q=Boston+Celtics
+page: 1
+query: Boston Celtics
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 13:06:05 +0000
+  from_user: gmanewstv
+  id: 858962102
+  language: en
+  text: "Celtics attend premiere of their championship DVD: The \"Beat L.A!\" chants echoed through the Boston Gar.. http://tinyurl.com/592mgs"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 09:27:57 +0000
+  from_user: nbatube
+  id: 858836387
+  language: en
+  text: Boston Celtics-Los Angeles Lakers, Halftime http://tinyurl.com/673s24
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 03:15:43 +0000
+  from_user: celticsupdates
+  id: 858631524
+  language: en
+  text: For Boston Celtics it's banner No. 17, DVD No. 1 http://tinyurl.com/5c2b8c
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 22:31:25 +0000
+  from_user: nbatube
+  id: 858445267
+  language: fr
+  text: NBA Boston Celtics Mix 2008 http://tinyurl.com/56c6ky
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 18:11:33 +0000
+  from_user: nosaltadded
+  id: 858244586
+  language: en
+  text: you might as well root for the boston celtics. sigh, whatever floats your boat...
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 16:13:07 +0000
+  from_user: celticsblog
+  id: 858141681
+  language: en
+  text: "Daily Links 7/14: Globe Posey decision near? (http://www.boston.com/sports/basketball/celtics/extras/.. http://tinyurl.com/6rlgqz"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 13:29:55 +0000
+  from_user: topix_nba
+  id: 857998695
+  language: en
+  text: "The End of the Posey Era in Boston: Marc Spears is reporting that the Celtics seem to be locked into a .. http://tinyurl.com/685ldt"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 11:13:06 +0000
+  from_user: celticsblog
+  id: 857910762
+  language: en
+  text: |-
+    Posey Deal Near: 
+    Marc Spears reports: (http://www.boston.com/sports/basketball/celtics/extras/celti.. http://tinyurl.com/5abo6q
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 01:36:10 +0000
+  from_user: ghampceo
+  id: 857615847
+  language: en
+  text: "@Odenized just to answer ur question from yesterday..but I'm from boston and love celtics and knicks"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sun, 13 Jul 2008 17:35:49 +0000
+  from_user: cbee
+  id: 857353080
+  language: en
+  text: Going to new Getty Museum today as prize for winning bet on who would win NBA championship. Boston Celtics FTW!!
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sat, 12 Jul 2008 06:13:24 +0000
+  from_user: celticsblog
+  id: 856321643
+  language: en
+  text: "Celtics Sign Patrick O'Bryant: Marc Spears reports: (http://www.boston.com/sports/basketball/celtics/.. http://tinyurl.com/57nekd"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 10 Jul 2008 17:51:01 +0000
+  from_user: djbentley
+  id: 854863511
+  language: en
+  text: They may aswell rename this place the Boston Celtics store.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 10 Jul 2008 15:29:39 +0000
+  from_user: scott_welch
+  id: 854733176
+  language: en
+  text: "Patriots, Red Sox, and Celtics, Oh My!: After watching the Boston Celtics win another championship a .. http://tinyurl.com/5zj2w6"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 10 Jul 2008 02:27:24 +0000
+  from_user: nbatube
+  id: 854265596
+  language: en
+  text: Boston Celtics celebrates with Manny Pacquiao http://tinyurl.com/62v7c8
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 10 Jul 2008 00:29:05 +0000
+  from_user: nbatube
+  id: 854193036
+  language: en
+  text: Boston Celtics Big Three Mix- Champions http://tinyurl.com/5ujsa6
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Wed, 09 Jul 2008 13:29:14 +0000
+  from_user: theoakridger
+  id: 853698809
+  language: en
+  text: "FBI to investigate Celtics fan\xE2\x80\x99s death: \n\
+    \t\t\t\n\
+    \t\t\tThe FBI will investigate whether Boston police used .. http://tinyurl.com/5zc4o3"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Wed, 09 Jul 2008 04:27:22 +0000
+  from_user: nbatube
+  id: 853428130
+  language: sv
+  text: Boston Celtics Got Game http://tinyurl.com/6g9bae
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 08 Jul 2008 16:10:41 +0000
+  from_user: FanNation
+  id: 852939298
+  language: en
+  text: "Hornets target Celtics' Posey: The Hornets are targeting Boston Celtics free agent James Posey to solve.. http://tinyurl.com/5p35yr"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 08 Jul 2008 14:19:08 +0000
+  from_user: seacoastonline
+  id: 852845479
+  language: en
+  text: "Up to the minute: FBI to look at Celtics fan death: BOSTON \xE2\x80\x94 The FBI will i.. http://tinyurl.com/6dkjcs"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 08 Jul 2008 14:06:54 +0000
+  from_user: SeacoastLocal
+  id: 852835960
+  language: en
+  text: "FBI to look at Celtics fan death: BOSTON \xE2\x80\x94 The FBI will investigate whether Boston police use.. http://tinyurl.com/6lrs5b"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 08 Jul 2008 13:09:05 +0000
+  from_user: bostonupdate
+  id: 852792053
+  language: en
+  text: "Boston.com homepage: FBI to probe Celtics fan's death - http://tinyurl.com/5mkava"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 07 Jul 2008 22:29:44 +0000
+  from_user: nbatube
+  id: 852347084
+  language: eo
+  text: BOSTON CELTICS! http://tinyurl.com/6lej8u
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 07 Jul 2008 10:29:22 +0000
+  from_user: nbatube
+  id: 851871478
+  language: en
+  text: Boston Celtics Playoff Champions 2008 http://tinyurl.com/5vjvln
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sun, 06 Jul 2008 04:25:42 +0000
+  from_user: golfdb
+  id: 851076374
+  language: en
+  text: "SoLo Powered NBA Success: World Champion Boston Celtics Fueled by SoLo Bars"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sun, 06 Jul 2008 04:03:14 +0000
+  from_user: RedSoxGirl
+  id: 851066831
+  language: en
+  text: "So Boston produced 3 great things: the RedSox, the Celtics, and the sexy singer from Boys Like Girls. <3"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sat, 05 Jul 2008 18:40:58 +0000
+  from_user: Deston
+  id: 850838184
+  language: en
+  text: "@Odenized I grew up a Celtics fan. Lived in Boston in '72. Have lived in Portland since '81, and have half season tix. I bleed green tho."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sat, 05 Jul 2008 16:19:47 +0000
+  from_user: handcff
+  id: 850773505
+  language: en
+  text: Boston police seek a review of Celtics fan's death - The  .. http://tinyurl.com/5glfpg
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sat, 05 Jul 2008 14:21:47 +0000
+  from_user: Odenized
+  id: 850712476
+  language: en
+  text: "@Deston The Celtics sh\rould re-sign James Posey before they turn their attention to free agents. Plus, Maggette wouldn't fit in Boston."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sat, 05 Jul 2008 10:15:43 +0000
+  from_user: handcff
+  id: 850619130
+  language: en
+  text: Boston police seek a review of Celtics fan's death - The Associated Press.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Sat, 05 Jul 2008 01:15:34 +0000
+  from_user: ebbcaabefcf
+  id: 850410330
+  language: en
+  text: Boston police seek a review of Celtics fan's death - The  .. http://tinyurl.com/5glfpg
+results_per_page: 30
+since_id: 0

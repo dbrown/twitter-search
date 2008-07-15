@@ -1,87 +1,158 @@
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 --- !ruby/object:Summize::Tweets 
 max_id: 859056222
 next_page: ?page=2&max_id=859056222&q=from%3Aalexiskold
+=======
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859134875
+next_page: ?page=2&max_id=859134875&q=from%3Aalexiskold
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
 page: 1
 query: from:alexiskold
 results: 
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:21:34 +0000
+  from_user: alexiskold
+  id: 859134875
+  language: en
+  text: I am not a huge Obama supporter, but the cover of New Yorker is one of the most ridiculous and offensive things I've seen in a long time.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:19:22 +0000
+  from_user: alexiskold
+  id: 859132722
+  language: en
+  text: "@abdur congrats to you guys and twitter - awesome union!"
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Tue, 15 Jul 2008 13:54:03 +0000
   from_user: alexiskold
   id: 859002666
   language: en
   text: I ran harder today, based on yesterdays advice. It felt good. Looking forward to runner's high tomorrow.
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Tue, 15 Jul 2008 11:51:23 +0000
   from_user: alexiskold
   id: 858910038
   language: en
   text: "My thought on the state of Facebook platform on ReadWriteWeb: http://tinyurl.com/6c8wm2"
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Tue, 15 Jul 2008 04:15:16 +0000
   from_user: alexiskold
   id: 858673903
   language: en
   text: I love coding because of a) Design b) Algorithms. Yeah, in that order.
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Tue, 15 Jul 2008 02:40:13 +0000
   from_user: alexiskold
   id: 858608493
   language: en
   text: "@ChristinaLiang  product of propaganda."
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Tue, 15 Jul 2008 00:32:16 +0000
   from_user: alexiskold
   id: 858523581
   language: en
   text: Okay, time to pack it up and head home. Good first day in the office after a long vacation.
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Tue, 15 Jul 2008 00:23:54 +0000
   from_user: alexiskold
   id: 858518346
   language: en
   text: "@steffanantonas another one thats probably great on audio - microrends"
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Tue, 15 Jul 2008 00:23:17 +0000
   from_user: alexiskold
   id: 858517943
   language: en
   text: "@steffanantonas all my personal goodies are here: http://alexiskold.tumblr.com/"
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Mon, 14 Jul 2008 23:05:44 +0000
   from_user: alexiskold
   id: 858468832
   language: en
   text: Coding, VC calls, biz dev tasks - today had it all.
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Mon, 14 Jul 2008 22:07:38 +0000
   from_user: alexiskold
   id: 858428930
   language: en
   text: "@deansher duh, i feel stupid now. of course it does, just highlight the method name and right click - thank you!!"
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Mon, 14 Jul 2008 19:52:06 +0000
   from_user: alexiskold
   id: 858327968
   language: en
   text: I wish there was a way in IntelliJ to right  click on a method in a TestCase and rung that. I am tired of renaming other test methods.
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Mon, 14 Jul 2008 19:34:04 +0000
   from_user: alexiskold
   id: 858313625
   language: en
   text: "@bokardo thats only on the iPhone, right? Does not seem to work on the desktop."
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Mon, 14 Jul 2008 19:31:10 +0000
   from_user: alexiskold
   id: 858311312
   language: en
   text: "@zoliblog LOL, this is spot on : http://tinyurl.com/6gl2jz"
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
   created_at: Mon, 14 Jul 2008 19:30:06 +0000
   from_user: alexiskold
   id: 858310416
   language: en
   text: "@jasondevitt good release - keeps getting better and better!"
+<<<<<<< HEAD:test/yaml/from_alexiskold.yaml
 - !ruby/object:Summize::Tweet 
   created_at: Mon, 14 Jul 2008 19:28:36 +0000
   from_user: alexiskold
@@ -94,5 +165,7 @@ results:
   id: 858305128
   language: en
   text: "Apple is dominating TechMeme: http://techmeme.com. Rightly so, it did super well. Now lets get Steve to fix Fanny and Freddy. Yeah, right."
+=======
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/from_alexiskold.yaml
 results_per_page: 15
 since_id: 0

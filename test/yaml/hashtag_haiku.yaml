@@ -1,87 +1,158 @@
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 --- !ruby/object:Summize::Tweets 
 max_id: 859079447
 next_page: ?page=2&max_id=859079447&q=%23haiku
+=======
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859136599
+next_page: ?page=2&max_id=859136599&q=%23haiku
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
 page: 1
 query: "#haiku"
 results: 
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:21 +0000
+  from_user: haikutwaiku
+  id: 859136599
+  language: en
+  text: "/ Reading instructions. / Seems I did everything wrong. / Too late to restart! / - #haiku (Shouldn't installing a rack on my b.."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:19:50 +0000
+  from_user: Qrystal
+  id: 859133171
+  language: en
+  text: "/ Reading instructions. / Seems I did everything wrong. / Too late to restart! / - #haiku (Shouldn't installing a rack on my bike be easy?!)"
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 15:24:11 +0000
   from_user: haikutwaiku
   id: 859079447
   language: pt
   text: "#haiku, outro: Sob a cerejeira - sopa de florescimento, salada de florescimento."
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 15:24:09 +0000
   from_user: haikutwaiku
   id: 859079429
   language: pt
   text: "#haiku: Vem, veja/ flores reais / neste mundo doloroso"
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 15:24:06 +0000
   from_user: haikutwaiku
   id: 859079382
   language: en
   text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & acce..
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 15:06:28 +0000
   from_user: dosvald
   id: 859062705
   language: pt
   text: "#haiku, outro: Sob a cerejeira -  sopa de florescimento, salada de florescimento."
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 15:05:05 +0000
   from_user: dosvald
   id: 859061287
   language: pt
   text: "#haiku: Vem, veja/ flores reais                                                            / neste mundo doloroso"
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 14:53:22 +0000
   from_user: haikutwaiku
   id: 859049690
   language: en
   text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & acce..
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 14:53:21 +0000
   from_user: haikutwaiku
   id: 859049658
   language: en
   text: "+ / Testing twitternotes. / This service could be useful! / We'll see what we see. / - #haiku, test"
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 14:23:29 +0000
   from_user: haikutwaiku
   id: 859029418
   language: en
   text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & acce..
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 14:23:27 +0000
   from_user: haikutwaiku
   id: 859029394
   language: en
   text: "+ / Testing twitternotes. / This service could be useful! / We'll see what we see. / - #haiku, test"
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 14:22:49 +0000
   from_user: bas1809
   id: 859028779
   language: en
   text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & access to browsers.
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 14:04:15 +0000
   from_user: Qrystal
   id: 859011797
   language: en
   text: "+ / Testing twitternotes. / This service could be useful! / We'll see what we see. / - #haiku, test"
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 13:53:33 +0000
   from_user: haikutwaiku
   id: 859002206
   language: en
   text: "/ A wave of nausea / sweeps away optimism. / But I must endure! / - #haiku"
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
+=======
+- !ruby/object:TwitterSearch::Tweet 
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
   created_at: Tue, 15 Jul 2008 13:23:03 +0000
   from_user: haikutwaiku
   id: 858975583
   language: en
   text: "/ A wave of nausea / sweeps away optimism. / But I must endure! / - #haiku"
+<<<<<<< HEAD:test/yaml/hashtag_haiku.yaml
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 12:54:01 +0000
   from_user: haikutwaiku
@@ -94,5 +165,7 @@ results:
   id: 858952623
   language: en
   text: "/ Being determined, / I start with starting early. / Today's gonna rock! / - #haiku"
+=======
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/hashtag_haiku.yaml
 results_per_page: 15
 since_id: 0

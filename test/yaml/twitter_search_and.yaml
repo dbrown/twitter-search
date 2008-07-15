@@ -1,9 +1,16 @@
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
 --- !ruby/object:Summize::Tweets 
 max_id: 859127867
 next_page: ?page=2&max_id=859127867&q=twitter+search
+=======
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859161584
+next_page: ?page=2&max_id=859161584&q=twitter+search
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
 page: 1
 query: twitter search
 results: 
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:46 +0000
   from_user: ravenzachary
@@ -14,43 +21,110 @@ results:
   created_at: Tue, 15 Jul 2008 16:14:45 +0000
   from_user: Coxymoney
   id: 859127859
+=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:48:10 +0000
+  from_user: mrduncan
+  id: 859161584
+  language: 
+  text: http://search.twitter.com - nice
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:47:23 +0000
+  from_user: KLTTX
+  id: 859160714
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "Retweeting @missrogue: @ev Holy crap, indeed, Ev! Twitter search! And a Summize acquisition! Good move, I say! :)"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:45 +0000
   from_user: simplynews
   id: 859127848
+=======
+  text: Playing around with the new twitter search feature.  Its pretty cool.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:47:06 +0000
+  from_user: ProRunner
+  id: 859160416
+  language: ru
+  text: "\xD0\xA3\xD1\x80\xD0\xB0, \xD0\xBD\xD0\xB0\xD0\xBA\xD0\xBE\xD0\xBD\xD0\xB5\xD1\x86-\xD1\x82\xD0\xBE \xD0\xBD\xD0\xBE\xD1\x80\xD0\xBC\xD0\xB0\xD0\xBB\xD1\x8C\xD0\xBD\xD1\x8B\xD0\xB9 \xD1\x80\xD0\xB5\xD0\xB0\xD0\xBB\xD1\x82\xD0\xB0\xD0\xB9\xD0\xBC \xD0\xBF\xD0\xBE\xD0\xB8\xD1\x81\xD0\xBA \xD0\xBD\xD0\xB0 \xD1\x80\xD1\x83\xD1\x81\xD1\x81\xD0\xBA\xD0\xBE\xD0\xBC \xD0\xBF\xD0\xBE \xD1\x82\xD0\xB2\xD0\xB8\xD1\x82\xD1\x82\xD0\xB5\xD1\x80\xD1\x83! http://search.twitter.com/"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:46:20 +0000
+  from_user: theRab
+  id: 859159690
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "Techrunch: Confirmed: Twitter Acquires Summize Search Engine: It turns out those rumors last week were accurate. Micr.."
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:37 +0000
   from_user: chadcat
   id: 859127738
+=======
+  text: twitter acquires summize and launches http://search.twitter.com/
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:46:09 +0000
+  from_user: top_blog
+  id: 859159489
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "@gregpass @ev @twitter @biz please, please, please now allow us to follow peeps directly from the search.twitter.com feed - sorely needed"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:37 +0000
   from_user: Pam
   id: 859127733
+=======
+  text: "Mashable: Twitter Acquires Summize; Launches Official Twitter Search: Twitter has announced tha.. http://tinyurl.com/6apprl"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:46:09 +0000
+  from_user: TechmemeFH
+  id: 859159484
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "@ev love search.twitter.com! thanks!"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:33 +0000
   from_user: Coxymoney
   id: 859127673
+=======
+  text: "Confirmed: Twitter Acquires Summize Search Engine (Michael Arrington/TechCrunch) http://tinyurl.com/6rqmq7"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:46:06 +0000
+  from_user: alinmechenici
+  id: 859159431
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "Retweeting @DrBaher: Twitter Official Search is here http://search.twitter.com"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:27 +0000
   from_user: Coxymoney
   id: 859127567
+=======
+  text: twitter are deja optiune de search ( http://search.twitter.com ) ... incepe sa se vada efectul investitiilor, nu? :P
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:45:43 +0000
+  from_user: top_post
+  id: 859159063
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "Retweeting @twitter: Announcing search!:  http://search.twitter.com.  Why? http://tinyurl.com/56j2zx"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:22 +0000
   from_user: bobinator
   id: 859127489
+=======
+  text: "Mashable: Twitter Acquires Summize; Launches Official Twitter Search: Twitter has announced tha.. http://tinyurl.com/6apprl"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:45:41 +0000
+  from_user: joaovsantos
+  id: 859159036
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "@al3x will twitter still be willing to feed competing search services?"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:18 +0000
@@ -62,37 +136,88 @@ results:
   created_at: Tue, 15 Jul 2008 16:14:03 +0000
   from_user: Outsanity
   id: 859127139
+=======
+  text: Oh! And Twitter Search works great on the iPhone! :)
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:45:35 +0000
+  from_user: RSS_Moconews
+  id: 859158934
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: http://search.twitter.com/ - Twitter has acquired Summize
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:01 +0000
   from_user: pigsonthewing
   id: 859127104
+=======
+  text: Twitter Buys Micro-Blogging Search Site Summize http://tinyurl.com/5ek4at
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:45:31 +0000
+  from_user: BaseCampComm
+  id: 859158865
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "Summize is now Twitter Search: http://search.twitter.com/"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:14:00 +0000
   from_user: sugree
   id: 859127075
+=======
+  text: "Not not cool: Twitter Search with RSS feed of results; track client, brand, product terms...be neighborly...http://search.twitter.com/"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:45:09 +0000
+  from_user: dougsymington
+  id: 859158485
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "with built-in search #twitter is now the most powerful service in its kind"
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:13:57 +0000
   from_user: nodster
   id: 859127024
+=======
+  text: "Retweet: #mastermaq   Ah that sucks...the Summize Labs apps are gone. http://search.twitter.com/labs"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:44:50 +0000
+  from_user: mastermaq
+  id: 859158127
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: twitter search! http://search.twitter.com. @twitter shouldn't this mean track is back, are they not inherently similar?
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:13:44 +0000
   from_user: NewsHour
   id: 859126818
+=======
+  text: How long until they replace the search box on twitter.com with one that uses search.twitter.com?
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:44:46 +0000
+  from_user: portorikan
+  id: 859158059
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: Twitter has acquired Summize to make http://search.twitter.com./
 - !ruby/object:Summize::Tweet 
   created_at: Tue, 15 Jul 2008 16:13:43 +0000
   from_user: seldo
   id: 859126814
+=======
+  text: "Retweeting @ev: Holy crap: http://search.twitter.com (details: http://tinyurl.com/56j2zx)"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:44:41 +0000
+  from_user: just_pete
+  id: 859157980
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
   language: en
+<<<<<<< HEAD:test/yaml/twitter_search_and.yaml
   text: "@goldman congrats on search.twitter.com and acquiring summize! What a bloody good idea!"
+=======
+  text: "Commence life-sucking: http://search.twitter.com"
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/twitter_search_and.yaml
 results_per_page: 15
 since_id: 0

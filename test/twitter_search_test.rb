@@ -2,7 +2,7 @@
 
 require File.join(File.dirname(__FILE__), 'test_helper')
 
-class SummizeTest < Test::Unit::TestCase # :nodoc:
+class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
 
   context "@client.query 'Obama'" do
     setup do
@@ -40,7 +40,7 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
-  # SUMMIZE SEARCH OPERATORS
+  # TWITTER SEARCH OPERATORS
   
   context '@client.query :q => \'"happy hour"\'' do
     setup do
@@ -131,7 +131,7 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
       @tweets = read_yaml :file => 'happy_hour_near_sf'
     end
     
-    # The Summize API makes you use the geocode parameter for location searching
+    # The Twitter Search API makes you use the geocode parameter for location searching
     should 'not find tweets using the near operator' do
       assert ! @tweets.any?
     end
@@ -142,7 +142,7 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
       @tweets = read_yaml :file => 'within_15mi_nyc'
     end
     
-    # The Summize API makes you use the geocode parameter for location searching
+    # The Twitter Search API makes you use the geocode parameter for location searching
     should 'not find tweets using the near operator' do
       assert ! @tweets.any?
     end
@@ -244,6 +244,19 @@ class SummizeTest < Test::Unit::TestCase # :nodoc:
     should 'find tweets containing "با" and are in Arabic' do
       assert @tweets.all?{ |t| t.text.include?('با') && t.language == 'ar' }
     end
+  end
+
+  # PAGINATION
+  
+  context "@client.query :q => 'Boston Celtics', :rpp => '30'" do
+    setup do
+      @tweets = read_yaml :file => 'results_per_page'
+    end
+
+    should_find_tweets
+    should_have_text_for_all_tweets
+    should_return_page 1
+    should_return_tweets_in_sets_of 30
   end
 
   protected

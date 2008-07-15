@@ -1,12 +1,20 @@
 # coding: utf-8
 # Dan Croak, July 2008
 
+<<<<<<< HEAD:rakefile.rb
 require File.expand_path('lib/summize', File.dirname(__FILE__))
+=======
+require File.expand_path('lib/twitter_search', File.dirname(__FILE__))
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:rakefile.rb
 require 'rubygems'
 require 'yaml'
 
 namespace :yaml do
+<<<<<<< HEAD:rakefile.rb
   desc "Write Summize results to yaml file so API is not hit every test."
+=======
+  desc "Write Twitter Search results to yaml file so API is not hit every test."
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:rakefile.rb
   task :write do    
     write_yaml :tweets => 'Obama',                                     :file => 'obama'
     write_yaml :tweets => 'twitter search',                            :file => 'twitter_search'
@@ -28,11 +36,19 @@ namespace :yaml do
     write_yaml :tweets => {:q => 'hilarious filter:links'},            :file => 'hilarious_links'
     write_yaml :tweets => {:q => 'congratulations', :lang => 'en'},    :file => 'english'
     write_yaml :tweets => {:q => 'با', :lang => 'ar'},                 :file => 'arabic'
+<<<<<<< HEAD:rakefile.rb
+=======
+    write_yaml :tweets => {:q => 'Boston Celtics', :rpp => '30'},      :file => 'results_per_page'
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:rakefile.rb
   end
 end
 
 def write_yaml(opts = {})
+<<<<<<< HEAD:rakefile.rb
   @client = Summize::Client.new 'ruby-summize'
+=======
+  @client = TwitterSearch::Client.new 'twitter-search'
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:rakefile.rb
   tweets  = @client.query(opts[:tweets])
   File.open(File.join(File.dirname(__FILE__), 'test', 'yaml', "#{opts[:file]}.yaml"), 'w+') do |file| 
     file.puts tweets.to_yaml

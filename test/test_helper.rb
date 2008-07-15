@@ -1,4 +1,8 @@
+<<<<<<< HEAD:test/test_helper.rb
 require File.expand_path('../lib/summize', File.dirname(__FILE__))
+=======
+require File.expand_path('../lib/twitter_search', File.dirname(__FILE__))
+>>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/test_helper.rb
 require 'test/unit'
 require 'rubygems'
 require 'shoulda'
