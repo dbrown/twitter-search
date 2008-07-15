@@ -1,225 +1,98 @@
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
---- !ruby/object:Summize::Tweets 
-max_id: 859126747
-next_page: ?page=2&max_id=859126747&q=obama+OR+hillary
-=======
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859161451
-next_page: ?page=2&max_id=859161451&q=obama+OR+hillary
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+max_id: 859242863
+next_page: ?page=2&max_id=859242863&q=obama+OR+hillary
 page: 1
 query: obama OR hillary
 results: 
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:13:39 +0000
-  from_user: skydaddy
-  id: 859126747
-=======
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:48:03 +0000
-  from_user: sohhdotcom
-  id: 859161451
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:18:44 +0000
+  from_user: guffman32
+  id: 859242863
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: obama commerical on tv in lunchroom touting his small-town middle-class values.  looking for saltshaker...
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:13:37 +0000
-  from_user: gilberto_puppet
-  id: 859126718
-  language: pt
-  text: A foto do Barack Obama na capa da Rolling Stone brazuca parece o cruzamento de um boneco de cera com o de um jazzista cego de New Orleans.
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:13:33 +0000
-  from_user: steps
-  id: 859126649
-=======
-  text: "SOULFUL BLOG: [Exclusive Q&A] Robin Thicke Follows Obama's Lead, New LP All About Change [Part 1] http://twurl.nl/57fs8h"
+  text: Obama has now become my favorite candidate ever based on the fact Wilco is his favorite band...awesome!
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:47:59 +0000
-  from_user: drjjoyner
-  id: 859161365
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:17:51 +0000
+  from_user: Zstasiuk
+  id: 859242093
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "Just saw an Obama 08 license plate. The actual plate #"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:13:29 +0000
-  from_user: 5chw4r7z
-  id: 859126576
-=======
-  text: "Obama\xE2\x80\x99s Surge Purge Emerges, Demonstrates Nerve, Verges on Scourge, Reactions Diverge: Barack Obama has.. http://tinyurl.com/66shj6"
+  text: "\"I'm not voting for Obama--he's a commie\"  The Big-O has an uphill struggle this fall."
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:47:41 +0000
-  from_user: WSJ
-  id: 859161037
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:17:36 +0000
+  from_user: apollo18
+  id: 859241865
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: Barack Obama skated here all the way from the beach just to see you
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:13:28 +0000
-  from_user: angrywebmaster
-  id: 859126567
-=======
-  text: "Obama: Iraq Distracts From Threats http://tinyurl.com/5qc98m"
+  text: watching Obama's foreign policy speech
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:46:56 +0000
-  from_user: dennisRay
-  id: 859160275
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:16:35 +0000
+  from_user: twaboutMCCAIN
+  id: 859240966
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: Now we're reading how Google's blog system is shutting down anti-Obama sites. Yeah, they are paragons of free speech they are.
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:13:16 +0000
-  from_user: atmendez
-  id: 859126347
-=======
-  text: "New blog post: Imagining if Obama Had a McCain Week - Huffington Post http://tinyurl.com/6j4cho"
+  text: twaboutMCCAIN> [Videos] http://tinyurl.com/5hew86 McCain Criticizes Obama On Immig.. http://tinyurl.com/6nxsst
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:46:19 +0000
+  created_at: Tue, 15 Jul 2008 18:16:20 +0000
   from_user: top_war
-  id: 859159676
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  id: 859240716
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: Obama was awesome. More later.
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:13:12 +0000
-  from_user: atmendez
-  id: 859126281
-=======
-  text: "d: Obama isn't Jimmy Carter--he's Ronald Reagan.: American national interests often demand collaboratio.. http://tinyurl.com/5k35uj"
+  text: "d: Obama: Focus on Iraq Diminishes U.S. Security - WSJ.com: So let me get this straight - Afghanistan i.. http://tinyurl.com/5d4o6u"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:46:18 +0000
-  from_user: top_war
-  id: 859159648
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:16:08 +0000
+  from_user: iavdavid
+  id: 859240492
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: Obama was awesome. More later.
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:12:13 +0000
-  from_user: jpgardner
-  id: 859125346
-=======
-  text: "d: Obama calls Iraq war a 'dangerous distraction' - CNN.com http://tinyurl.com/5oww5g"
+  text: "Idiot alert: American Electorate \"Obama was raised as a Muslim\" 39% think yes. See Question 16. http://www.newsweek.com/id/145556"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:44:09 +0000
-  from_user: pjrodriguez
-  id: 859157446
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:15:51 +0000
+  from_user: GSSP
+  id: 859240225
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "Donklephant: Public Policy Polling: Obama Up By 4 In Colorado http://tinyurl.com/5ou9pl"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:11:36 +0000
-  from_user: bbcme
-  id: 859124747
-=======
-  text: David Remnick compares Obama cover to "the spirit of what Stephen Colbert does..." Yeah, dude. You wish. Still, big to-do over not much.
+  text: "[Videos] http://tinyurl.com/67b42k Bond: Obama's rise 'a high point'"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:43:39 +0000
-  from_user: douglasbass
-  id: 859156927
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:15:38 +0000
+  from_user: neuekrone
+  id: 859240006
+  language: de
+  text: "Obama will Al Kaida in Afghanistan besiegen: In einer Grundsatzrede zur Irak-Politik hat der demokratis.. http://tinyurl.com/5tym3m"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:15:30 +0000
+  from_user: GSSP
+  id: 859239899
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "Obama vows to end US role in Iraq: Senator Barack Obama pledges to end the Iraq was as it was distracting t.. http://tinyurl.com/6qmkeq"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:10:35 +0000
-  from_user: politicalwire
-  id: 859123820
-=======
-  text: "@jerry - The money that thinks it's smart is betting on Obama - 65 at Intrade, but I think he's just another politician, waffler, flmflammer"
+  text: "[Videos] http://tinyurl.com/5hew86 McCain Criticizes Obama On Immigration"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:43:30 +0000
-  from_user: solano
-  id: 859156775
+  created_at: Tue, 15 Jul 2008 18:15:15 +0000
+  from_user: fantomplanet
+  id: 859239676
+  language: en
+  text: "Classmate's mom housing an Obama supporter. Spurred idea of hosting volunteers from each campain for entertainment values. #bunk #beds."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:14:57 +0000
+  from_user: bradypodion
+  id: 859239375
+  language: de
+  text: "Obama k\xC3\xBCndigt harten Kurs gegen Iran an : Neuausrichtung im Kampf gegen Terror http://tinyurl.com/6hrevj"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:14:11 +0000
+  from_user: RobertBluey
+  id: 859238761
   language: es
-  text: "@Nervioso: Pues es toda una loter\xC3\xADa. Hoy Obama le gana por solo 3 puntos a McCain, hace una semana le llevaba 15..."
+  text: "[del.icio.us] Obama's Liberal Buddies = 'Non-Partisan' Experts? - Rich Noyes, NewsBuster.. http://tinyurl.com/69o9jf"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:43:20 +0000
-  from_user: breischl
-  id: 859156637
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:13:21 +0000
+  from_user: alberton
+  id: 859238109
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "Quinnipiac: Obama Opens Lead Nationally: \"With commanding leads among women and young voters and ne.. http://tinyurl.com/6kq4qw"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:10:29 +0000
-  from_user: MorningJoe
-  id: 859123729
-=======
-  text: "Spam subject line: \"Obama shows his larger than life manhood!\". Well, that might win a few votes."
+  text: "Making It - how Chicago shaped Obama. A great read from the New Yorker: http://tinyurl.com/62t6x7"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:41:53 +0000
-  from_user: acarvin
-  id: 859155295
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:13:14 +0000
+  from_user: Khouryp
+  id: 859238015
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "Video: Obama's agenda goes beyond the N.A.A.C.P: July 15: Barack Obama's senior strategist Robert Gibb.. http://tinyurl.com/5d3vbj"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:10:28 +0000
-  from_user: MorningJoe
-  id: 859123705
-=======
-  text: "NYTimes: Jon Stewart, Colbert and Maher on the challenges of satirizing Obama: http://www.nytimes.com/2008/07/15/us/politics/15humor.html"
+  text: every speech I hear from Obama makes me that much more sure that he will make a great president.
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:40:56 +0000
-  from_user: politicalradar
-  id: 859154404
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  created_at: Tue, 15 Jul 2008 18:13:13 +0000
+  from_user: dantesweatt
+  id: 859237998
   language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "Video: McCain must hit Obama's weak points: July 15: MSNBC analyst Mike Murphy discusses how Barack Ob.. http://tinyurl.com/6crhtn"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:09:27 +0000
-  from_user: twittfeed
-  id: 859122775
-=======
-  text: "Republicans Want Report on Obama's Trip Abroad: ABC's Z. Byron Wolf Reports from Capitol Hill: Rem.. http://tinyurl.com/5ejtql"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:40:48 +0000
-  from_user: mtlbblog
-  id: 859154263
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
-  language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "Reuters Top News U.S. should use all tools to pressure Iran: Obama: WASHINGTON (Reuters.. http://tinyurl.com/6o76w7"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:08:46 +0000
-  from_user: openleft
-  id: 859122086
-=======
-  text: "A presidential election that really matters.: Best movie president! McCain and Obama mudslinging got you.. http://tinyurl.com/6s2446"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:40:10 +0000
-  from_user: twittfeed
-  id: 859153623
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
-  language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "New on openleft.com: Opening the Day: Obama's Iraq Speech, McCain Calls for Surge in.. http://tinyurl.com/5w7ukk"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:06:43 +0000
-  from_user: CurtJester
-  id: 859120140
-=======
-  text: "Huffington Post Robert J. Elisberg: Imagining if Obama Had a McCain Week: Let's just ima.. http://tinyurl.com/6eaanj"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:40:09 +0000
-  from_user: twittfeed
-  id: 859153601
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
-  language: en
-<<<<<<< HEAD:test/yaml/obama_or_hillary.yaml
-  text: "\xE2\x80\x98Marriage, it doesn\xE2\x80\x99t mean anything, it\xE2\x80\x99s really how you feel.\xE2\x80\x99 - Obama  http://ping.fm/bDDNE"
-=======
-  text: "Huffington Post Bush Echoes Obama: Afghanistan Is Descending Into Iraq-Like Insurgency: .. http://tinyurl.com/66vgcb"
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/obama_or_hillary.yaml
+  text: If u r in a position to listen to NPR right now, do it!  they r talking about the obama new yorker cover.  THE WORLD'S GONE CRAZY!
 results_per_page: 15
 since_id: 0

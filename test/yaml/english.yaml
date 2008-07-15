@@ -1,227 +1,98 @@
-<<<<<<< HEAD:test/yaml/english.yaml
---- !ruby/object:Summize::Tweets 
-max_id: 859127178
-next_page: ?page=2&max_id=859127178&q=congratulations
-=======
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859159806
-next_page: ?page=2&max_id=859159806&q=congratulations
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+max_id: 859242087
+next_page: ?page=2&max_id=859242087&q=congratulations
 page: 1
 query: congratulations
 results: 
-<<<<<<< HEAD:test/yaml/english.yaml
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:14:05 +0000
-  from_user: ppmartin
-  id: 859127178
-=======
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:46:28 +0000
-  from_user: mikeyk
-  id: 859159806
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 18:17:50 +0000
+  from_user: ChrisRossini
+  id: 859242087
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "The oldest blogger - RIP: Congratulations and farewell to Ms. Olive Riley, who blogged until the respect.. http://twurl.nl/oukvkn"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:12:20 +0000
-  from_user: aliceqfoodie
-  id: 859125461
-=======
-  text: congratulations to @summize!
+  text: "@abdur Congratulations on the Twitter deal"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:45:05 +0000
-  from_user: hawaii
-  id: 859158416
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 18:14:36 +0000
+  from_user: matc1984
+  id: 859239110
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@jedsundwall congratulations!!"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:11:23 +0000
-  from_user: joshlewis
-  id: 859124544
-=======
-  text: Congratulations the Summize team. I used it almost as much as Twitter, and Twitter must have noticed. Acquired today! http://bit.ly/summize
+  text: "@purplelime Congratulations on being the person to say 'twitter' the most on my Facebook wall EVAR :P"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:44:37 +0000
-  from_user: JackalopesVoice
-  id: 859157888
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 18:13:21 +0000
+  from_user: modernbusker
+  id: 859238102
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@dankeen I didn't even know you were engaged! Congratulations!"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:10:57 +0000
-  from_user: dpillie
-  id: 859124126
-=======
-  text: "@DarcyElliott congratulations on being ahead of the curve!"
+  text: "@VincentHorn congratulations on making it around sol one more time.  now i guess we know who the new get-away driver is... ;)"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:44:32 +0000
-  from_user: MorgaineSwann
-  id: 859157818
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 18:10:42 +0000
+  from_user: LadyLucks
+  id: 859235977
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@joshgillespie Congratulations Josh!  What is the due date?"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:10:43 +0000
-  from_user: dougbecker
-  id: 859123930
-=======
-  text: "@govgranholm Congratulations! I went to WSU, so I know how badly MI needs new jobs. Let's hope that's the beginning of a trend."
+  text: "Congratulations to Michelle from Nottingham who just won the \xEF\xBF\xBD1,019.40 Bingo! jackpot! http://ladylucks.co.uk"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:42:38 +0000
-  from_user: MyronRosmarin
-  id: 859155999
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 18:08:57 +0000
+  from_user: jwrite
+  id: 859234387
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@jack That's fantastic news! I'm a Twitter noob but think this is a great move. Congratulations."
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:09:31 +0000
-  from_user: evantravers
-  id: 859122825
-=======
-  text: "@fredwilson congratulations on the Summize deal! Thrilled to hear it for the sake of my Summize friends and for the whole Twitter phenomenon"
+  text: "@paigedavidson very awesome! Congratulations!"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:38:18 +0000
-  from_user: Graveyardblonde
-  id: 859151742
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 18:08:16 +0000
+  from_user: SkullvinesPress
+  id: 859233810
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@ev Congratulations. That's a great move on your part. It's darn fast too. Consider pownce and jaiku trashed."
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:09:24 +0000
-  from_user: ianmcall
-  id: 859122725
-=======
-  text: "@warrenss Congratulations!"
+  text: "@BrianKeene Congratulations!"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:37:10 +0000
-  from_user: taylorcarrigan
-  id: 859150568
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 18:00:33 +0000
+  from_user: spencerfry
+  id: 859227372
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@jack: Congratulations on Summize, sounds like a great fit. Looking forward to new and as-yet-unimagined ways to view Twitter activity."
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:05:14 +0000
-  from_user: whitneymcn
-  id: 859118663
-=======
-  text: "@leolaporte Congratulations on moving to your iPhone. ;)"
+  text: Congratulations to Summize. One of my favorite little startups.
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:36:52 +0000
-  from_user: ksjhalla
-  id: 859150269
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:52:31 +0000
+  from_user: bhaelochon
+  id: 859220663
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@aweissman Should we all act surprised? ;) Congratulations to all!"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:05:11 +0000
-  from_user: nelson
-  id: 859118611
-=======
-  text: "@jayvirdy congratulations on @summize being acquired by @twitter - look forward to great things from your team in the near future"
+  text: "@ghaknar Congratulations!"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:36:15 +0000
-  from_user: jgarber
-  id: 859149671
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:51:10 +0000
+  from_user: ksrikrishna
+  id: 859219457
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "Congratulations Twitter and Summize: http://tinyurl.com/56j2zx"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:03:25 +0000
-  from_user: JoshAuerbach
-  id: 859116820
-=======
-  text: Congratulations to the Summize crew. Go DC tech scene!
+  text: "@kiruba congratulations - this is a great boost! keep the flag flying!;;"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:35:18 +0000
-  from_user: angelaboration
-  id: 859148735
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:49:41 +0000
+  from_user: brendajos
+  id: 859218082
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: Congratulations to my friends at Summize and Twitter on a great partnership -- http://tinyurl.com/56j2zx
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:02:34 +0000
-  from_user: mmmalexandria
-  id: 859116017
-=======
-  text: "@freeandflawed Congratulations on a successful trip around the sun!"
+  text: "@raveninnyc how did i miss that you got a new job?  oh because you weren't tweeting?  yeah that might be it.  Congratulations!"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:35:09 +0000
-  from_user: angelaboration
-  id: 859148603
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:41:20 +0000
+  from_user: imba
+  id: 859210765
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@albatrocity congratulations on your journey"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 16:00:24 +0000
-  from_user: marc_dierens
-  id: 859114002
-=======
-  text: "@mikemotorcade Congratulations on a successful trip around the sun!"
+  text: "@jeba ohkk.. congratulations..."
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:30:23 +0000
-  from_user: johnhood
-  id: 859143855
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:40:28 +0000
+  from_user: bttnsmom
+  id: 859210011
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@peterreiser Congratulations Peter, I'm very much looking forward to being a part of SunSpace, looks so interesting!"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 15:58:31 +0000
-  from_user: xtrahmxwohld
-  id: 859112273
-=======
-  text: Congratulations to Twitter + Summize! What a combo?
+  text: Congratulations once again, onwardd to San Fran...................see you soon
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:29:09 +0000
-  from_user: karmali
-  id: 859142538
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:38:39 +0000
+  from_user: alyssathegreat
+  id: 859208384
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@bhrome congratulations on your new home"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 15:56:14 +0000
-  from_user: phatmunkay
-  id: 859110189
-=======
-  text: "@kiruba: congratulations, and good luck."
+  text: "@ClassicRockFan Congratulations!!"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:28:33 +0000
-  from_user: jsequeira
-  id: 859141983
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:33:53 +0000
+  from_user: harshalpatel
+  id: 859204171
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@bwaldron I'm with Scott Congratulations on Pollinate Media!  I'm sure it will be successful with you two at the helm!"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 15:54:29 +0000
-  from_user: hafwit
-  id: 859108562
-=======
-  text: "@joshgillespie congratulations on baby #3"
+  text: "@jennb624, you had a baby??? Congratulations. Name him Charles Kevin Bollinger"
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:23:25 +0000
-  from_user: paulwalk
-  id: 859136658
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  created_at: Tue, 15 Jul 2008 17:30:41 +0000
+  from_user: MrGuilt
+  id: 859201329
   language: en
-<<<<<<< HEAD:test/yaml/english.yaml
-  text: "@rwaters73 7 minutes to go. Have a great time in St Louis! BTW Congratulations!"
-=======
-  text: "@suzicatherine congratulations! I still haven't done the practical test yet...."
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/english.yaml
+  text: "@jrizzo Awesome! Congratulations! I didn't warn you about Armleder wind--probably worth and extra .25. :)"
 results_per_page: 15
-since_id: 852930295
+since_id: 853023205

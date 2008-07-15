@@ -1,18 +1,21 @@
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
---- !ruby/object:Summize::Tweets 
-max_id: 859068467
-next_page: ?page=2&max_id=859068467&q=%40mashable
-=======
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859152168
-next_page: ?page=2&max_id=859152168&q=%40mashable
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
+max_id: 859240882
+next_page: ?page=2&max_id=859240882&q=%40mashable
 page: 1
 query: "@mashable"
 results: 
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:16:30 +0000
+  from_user: NickStarr
+  id: 859240882
+  language: en
+  text: Hey @mashable I forgot to buy tickets for tonight; got a discount code I can use? ;-)
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:39:36 +0000
+  from_user: arinewman
+  id: 859209202
+  language: en
+  text: DEN to SF for @mashable's summermash event 2nite. Ping me if u are going!
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:38:43 +0000
   from_user: JoachimNiemeier
@@ -56,126 +59,40 @@ results:
   language: en
   text: "7p: @sanfranmash party at Mighty. @mashable will be there."
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 15:12:30 +0000
   from_user: Flixwagon
   id: 859068467
   language: en
   text: "@Mashable @seanpaune cool post on Lifestreaming. Thanks for the great mention! http://tinyurl.com/5ljb3n"
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 15:11:45 +0000
   from_user: Flixwagon
   id: 859067737
   language: en
   text: "@Mashable @seanpaune cool post on Lifestreaming. Thanks for the great mention!"
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 12:44:14 +0000
   from_user: zarzecks
   id: 858945250
   language: en
   text: "Just got my copy of Sway, looking forward to reading. Thanks @adamhirsch @mashable. #AuthorsAtMashable"
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 11:55:14 +0000
   from_user: markmckay
   id: 858912357
   language: en
   text: "retweet: @mashable   Viacom Backs Down - Our Privacy Is Preserved ( http://tinyurl.com/5gbcas )"
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 11:38:11 +0000
   from_user: vruz
   id: 858902356
   language: en
   text: "retweet: @mashable Viacom Backs Down - Our Privacy is Preserved  http://is.gd/TKh"
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
   created_at: Tue, 15 Jul 2008 10:53:10 +0000
   from_user: okami
   id: 858878458
   language: en
   text: "@mashable not necessarily. . .all it takes is a nice coronal mass ejection and the solar radiation and particles will fry the satellite, ..."
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
-  created_at: Tue, 15 Jul 2008 07:18:09 +0000
-  from_user: DocGee
-  id: 858774327
-  language: en
-  text: "@mashable why the iphone?"
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
-  created_at: Tue, 15 Jul 2008 05:46:09 +0000
-  from_user: morganb
-  id: 858729582
-  language: en
-  text: excited for @mashable 's SF SummerMash tomorrow night!
-<<<<<<< HEAD:test/yaml/reference_mashable.yaml
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:48:36 +0000
-  from_user: Paulewis
-  id: 858697540
-  language: en
-  text: packing for Cali then bed.. meeting in the am.. Virgin America flight to SF, then goin 2 @mashable event!! see yall in SF 2morrow night!
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:42:00 +0000
-  from_user: sanfranmash
-  id: 858693946
-  language: en
-  text: "via @joanikin: @mashable. Snaptalent of the UK integrates Seesmic. http://snaptalent.com/ads/new/"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:41:46 +0000
-  from_user: joanikin
-  id: 858693664
-  language: en
-  text: "@mashable. Snaptalent of the UK integrates Seesmic. http://snaptalent.com/ads/new/"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:34:07 +0000
-  from_user: CorinneL
-  id: 858688771
-  language: en
-  text: "@mashable you poor thing. Will be at Friday's LA event - looking forward to meeting you and other Mashable peeps"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:31:16 +0000
-  from_user: rajivdingra
-  id: 858686695
-  language: en
-  text: "@mashable not really.. my life sucks too but not in the same way :P"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:23:36 +0000
-  from_user: 3stairs
-  id: 858680583
-  language: en
-  text: "@mashable i'll trade with you, my dear"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:18:06 +0000
-  from_user: Viss
-  id: 858676273
-  language: en
-  text: "@mashable Cry some more :D You're buying the booze this friday. hehehe"
-=======
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/reference_mashable.yaml
 results_per_page: 15
 since_id: 0

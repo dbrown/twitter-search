@@ -1,18 +1,51 @@
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
---- !ruby/object:Summize::Tweets 
-max_id: 859111491
-next_page: ?page=2&max_id=859111491&q=%22happy+hour%22
-=======
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859153622
-next_page: ?page=2&max_id=859153622&q=%22happy+hour%22
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
+max_id: 859239643
+next_page: ?page=2&max_id=859239643&q=%22happy+hour%22
 page: 1
 query: "\"happy hour\""
 results: 
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:15:12 +0000
+  from_user: SearchStudent
+  id: 859239643
+  language: en
+  text: Looking forward to happy hour w/ @chasers @strebel and @SnoopBloggyBlog - Anybody else in PHX wanna school the Hooligan? Ima git my lern on!
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:14:23 +0000
+  from_user: etiennep
+  id: 859238933
+  language: en
+  text: "@whoapower happy hour with former coworkers a priority?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:50:29 +0000
+  from_user: jhoium
+  id: 859218833
+  language: en
+  text: i wonder if there will be a happy hour tonight...
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:40:28 +0000
+  from_user: randyaa_friends
+  id: 859210004
+  language: en
+  text: Taggard Andrews is going to Mathew's for happy hour at 5pm...
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:33:30 +0000
+  from_user: lunalaguna
+  id: 859203802
+  language: en
+  text: Heading to ABC. Happy hour at Shoal Creek later.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:59:18 +0000
+  from_user: greens281
+  id: 859172318
+  language: en
+  text: Luke is heading to happy hour at Independent after work.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:57:45 +0000
+  from_user: AWilliams1
+  id: 859170890
+  language: en
+  text: "@mitchm where is happy hour"
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:40:10 +0000
   from_user: markmorow
@@ -44,134 +77,22 @@ results:
   language: en
   text: "@DaveMurr: it's just happy hour.  Cheap drinks, raffle tickets to encourage people give away money that goes to a fund for http://is.gd/TZk"
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
   created_at: Tue, 15 Jul 2008 15:57:38 +0000
   from_user: whateverdude
   id: 859111491
   language: en
   text: looks like the big happy hour this friday will be... at the tin can. somehow i am not even the least bit disappointed.
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
   created_at: Tue, 15 Jul 2008 15:24:46 +0000
   from_user: YourWingMan
   id: 859080049
   language: en
   text: will be doing free happy hour events to cast for reality shows... get invited by registering at http://www.OneKeyAway.com
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
   created_at: Tue, 15 Jul 2008 15:24:09 +0000
   from_user: MeganInThePink
   id: 859079426
   language: en
   text: SEM for SMB tomorrow afternoon. Can't wait for the happy hour afterwards, too :)
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
-  created_at: Tue, 15 Jul 2008 14:22:12 +0000
-  from_user: kellyhevel
-  id: 859028264
-  language: en
-  text: Icing my coffee and building a website.  Maybe tonight I will finally show my face again at happy hour and stop being such a phantom!
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
-  created_at: Tue, 15 Jul 2008 14:02:47 +0000
-  from_user: krotscheck
-  id: 859010499
-  language: en
-  text: Columbus Adobe User Group Happy Hour Tonight, 6-8PM, Brazenhead on 5th
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
-  created_at: Tue, 15 Jul 2008 13:27:07 +0000
-  from_user: MariaEnergia
-  id: 858979477
-  language: en
-  text: String of mtgs this AM...then a PM open to work. And a happy hour. What a nice balance.
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
-  created_at: Tue, 15 Jul 2008 13:22:20 +0000
-  from_user: utest
-  id: 858975032
-  language: en
-  text: "We're cosponsoring a Happy Hour at CAST 2008! Drop by this afternoon and get to know us and our friends at Skytap: http://snurl.com/2yxjq"
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
-  created_at: Tue, 15 Jul 2008 13:15:42 +0000
-  from_user: brendathompson
-  id: 858969686
-  language: en
-  text: Looking forward to drinks with @lunalaguna and @ulfkastner this afternoon (yes, it's 8:15 a.m. and am looking forward to happy hour).
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
-  created_at: Tue, 15 Jul 2008 13:01:11 +0000
-  from_user: redyelllow
-  id: 858958367
-  language: en
-  text: "@aerikuh you mean congratulatory drink. Let me know when free for happy hour"
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
-  created_at: Tue, 15 Jul 2008 11:26:27 +0000
-  from_user: mollydotcom
-  id: 858895696
-  language: en
-  text: "@kneath It's happy hour as far as I'm concerned. I've given up fighting. I wake up at dusk and sleep by dawn, this is just how it is for me."
-<<<<<<< HEAD:test/yaml/happy_hour_exact.yaml
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 08:47:51 +0000
-  from_user: kahunna
-  id: 858817146
-  language: en
-  text: Enjoyed McCormick & Schmick's late happy hour earlier this evening. $3 burgers!
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 06:38:52 +0000
-  from_user: smartwick
-  id: 858755642
-  language: en
-  text: tried out the new deschutes pub -- no happy hour; overall pretty meh.
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:32:30 +0000
-  from_user: t
-  id: 858687650
-  language: en
-  text: "@timhwang - @savedlatin was last spotted snacking on happy hour sushi and exploring Divisadero before checking out an apartment 30min ago."
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:25:16 +0000
-  from_user: paulnguyen
-  id: 858681958
-  language: nl
-  text: "@ kona grill 4 happy hour"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 04:13:27 +0000
-  from_user: teckc
-  id: 858672518
-  language: en
-  text: You know what this town needs? An all ages karaoke happy hour. Anyone ever heard of such a thing?
-=======
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_exact.yaml
 results_per_page: 15
 since_id: 0

@@ -1,6 +1,6 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859056222
-next_page: ?page=2&max_id=859056222&q=Boston+Celtics
+max_id: 859172945
+next_page: ?page=2&max_id=859172945&q=Boston+Celtics
 page: 1
 query: Boston Celtics
 results: 

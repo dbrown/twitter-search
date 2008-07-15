@@ -1,158 +1,94 @@
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
---- !ruby/object:Summize::Tweets 
-=======
 --- !ruby/object:TwitterSearch::Tweets 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
 max_id: 802885681
 next_page: ?page=2&max_id=802885681&q=ftw+until%3A2008-05-03
 page: 1
 query: ftw until:2008-05-03
 results: 
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:57:38 +0000
   from_user: fourlittlebees
   id: 802884711
   language: en
   text: "@fredericl For real? Go Ballmer FTW! Can't wait to see what Yahoo stock does on Monday."
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:53:06 +0000
   from_user: Jaysin
   id: 802882859
   language: en
   text: Leopard install and BSG ftw
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:51:36 +0000
   from_user: davidgrove
   id: 802882248
   language: en
   text: "@SPRSkip Tony Stewart FTW. Burton, E Jr, Gordon, Harvick. The rest of the Top-5."
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:46:26 +0000
   from_user: MarkOfTheDead
   id: 802880082
   language: en
   text: Quad vod ftw!
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:44:55 +0000
   from_user: toddlittle
   id: 802879292
   language: lt
   text: oh yeah, Bonehead's piri piri ftw
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:44:31 +0000
   from_user: breakbeat
   id: 802879156
   language: fr
   text: CSI series 8 ftw!
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:44:02 +0000
   from_user: markdavidson
   id: 802878985
   language: it
   text: "@JolieODell Condescending geeks FTW!"
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:42:02 +0000
   from_user: timothybriner
   id: 802878126
   language: en
   text: Just loaded film at 80mph. Ftw!
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:41:24 +0000
   from_user: jgeogh01
   id: 802877885
   language: en
   text: Screw you canada, flyers ftw.
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:36:23 +0000
   from_user: blakeshannon
   id: 802875773
   language: en
   text: Iron man ftw
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:33:33 +0000
   from_user: WiredPig
   id: 802874536
   language: en
   text: 1955 unread emails.. FTW!
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:28:37 +0000
   from_user: ladyproxy
   id: 802872403
   language: en
   text: "AmazonUnbox: Downloading The Machinist. Ready to watch in 25 minutes. I liked this odd movie. AmazonUnbox ftw."
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:28:10 +0000
   from_user: KristenTilley
   id: 802872231
   language: en
   text: Iron Man, lowercased, my new shoes, first bbq of the year, diggnation and beer FTW
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:24:12 +0000
   from_user: Torikins0
   id: 802870637
   language: en
   text: "BLOG INSIDE JOKES FTW: testing my new signatureCOOLNESS!!!btwyou wont know most of thesethey are fr.. http://tinyurl.com/5dhtwg"
-<<<<<<< HEAD:test/yaml/ftw_until.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/ftw_until.yaml
   created_at: Sat, 03 May 2008 23:20:16 +0000
   from_user: theyoungfolks
   id: 802868948

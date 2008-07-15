@@ -51,7 +51,6 @@ The Twitter Search API supports foreign languages, accessible via the :lang key.
 
     @tweets = @client.query :q => 'programmé', :lang => 'fr'
 
-=======
 ### Pagination
 
 Alter the number of Tweets returned per page with the :rpp key. Stick with 10, 15, 20, 25, 30, or 50.
@@ -61,7 +60,10 @@ Alter the number of Tweets returned per page with the :rpp key. Stick with 10, 1
 ## Gotchas
 
 * Searches are case-insenstive.
-* The "near" operator available in the Twitter Search web interface is not available via the API. You must geocode before making your Twitter Search API call.
+* The "near" operator available in the Twitter Search web interface is not available via the API. You must geocode before making your Twitter Search API call, and use the :geocode key in your request using the pattern lat,lngmi or lat,lngkm:
+
+        @tweets = @client.query :q => 'Pearl Jam', :geocode => '43.4411,-70.9846mi'
+
 * Searching for a positive attitude :) returns tweets containing the text :), =), :D, and :-)
 
 ## Authors

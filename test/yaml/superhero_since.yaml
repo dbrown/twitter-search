@@ -1,18 +1,45 @@
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
---- !ruby/object:Summize::Tweets 
-max_id: 859085148
-next_page: ?page=2&max_id=859085148&q=superhero+since%3A2008-05-01
-=======
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859140750
-next_page: ?page=2&max_id=859140750&q=superhero+since%3A2008-05-01
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
+max_id: 859224005
+next_page: ?page=2&max_id=859224005&q=superhero+since%3A2008-05-01
 page: 1
 query: superhero since:2008-05-01
 results: 
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:56:28 +0000
+  from_user: teammummy
+  id: 859224005
+  language: en
+  text: Dr. Horrible Act 1 was so sweet. I completely identified with him. and Nathan Fillion is the superhero prick!! AWESOME!
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:49:47 +0000
+  from_user: rithwik
+  id: 859218173
+  language: en
+  text: "IndiaTV: \"23rd Dec, 2012 ko duniya khatm ho jaayegi.\" Horrors! *shudder* Only 4 years to become a superhero.. :("
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:33:38 +0000
+  from_user: alainabee
+  id: 859203951
+  language: en
+  text: is a superhero. and can fly. says five year old cameron.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:08:02 +0000
+  from_user: briguyblock
+  id: 859180704
+  language: en
+  text: "@kirstenwright That sounds like a something a superhero group does. Twitterati....Twitterize!"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:05:08 +0000
+  from_user: catfashion
+  id: 859177957
+  language: en
+  text: Wishes she was a superhero... Will have to settle for " Mom"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:56:35 +0000
+  from_user: athenahollow
+  id: 859169606
+  language: en
+  text: Normal life of a mother and housewife by day, sexily clad superhero by night.
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:27:23 +0000
   from_user: ARealGirl
@@ -20,150 +47,52 @@ results:
   language: en
   text: Should have left for the office 20 minutes ago, instead discussing the relative merits of superhero costumes vs. superhero powers with PKo.
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 15:30:12 +0000
   from_user: RichLovatt
   id: 859085148
   language: en
   text: "@cyberpilate Being woodenest actor alive playing bendiest superhero? Hadn't thought of that! :)"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 15:01:49 +0000
   from_user: jonk
   id: 859058087
   language: en
   text: sleepy, reading about dark knight. not sure what possessed me to get tix for thursday's screening...superhero movies scare me!
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 14:37:13 +0000
   from_user: s_carolinaBNN
   id: 859042262
   language: en
   text: "Rev. BigDumbChimp: A good night for Atheists: Well Josh Hamilton isn't the superhero for Christ tha.. http://tinyurl.com/6ma363"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 14:24:49 +0000
   from_user: JaeRobinson
   id: 859030711
   language: de
   text: Watchin Superhero Movie. . .
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 13:31:03 +0000
   from_user: dariomanoukian
   id: 858982672
   language: en
   text: "@JimMcCann How about \"Calling out for a hero\" for the superhero fashion show?"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 13:29:27 +0000
   from_user: new_jerseyBNN
   id: 858981315
   language: en
   text: "Rob Tornoe: Tom Toles: Superhero artist?: Go check it out here. [...] http://tinyurl.com/67utgq"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 13:11:16 +0000
   from_user: planetgeek
   id: 858966190
   language: es
   text: "Glob-PT: Perdeu o telem\xC3\xB3vel? Mobile Superhero encontra-o! http://tinyurl.com/67yrct"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
   created_at: Tue, 15 Jul 2008 13:04:43 +0000
   from_user: cinematical
   id: 858961040
   language: en
   text: "A Weird Full Trailer for 'The Spirit': Filed under: Lionsgate Films, Comic/Superhero/Geek, Trailers a.. http://tinyurl.com/5rwc24"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
-  created_at: Tue, 15 Jul 2008 12:55:52 +0000
-  from_user: mooosh
-  id: 858954162
-  language: en
-  text: REALLY tired of unemployment. Considering responding to ad for "superhero's sidekick required"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
-  created_at: Tue, 15 Jul 2008 12:52:33 +0000
-  from_user: RobTornoe
-  id: 858951630
-  language: eo
-  text: "Tom Toles: Superhero artist? http://tinyurl.com/6pkbb9"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
-  created_at: Tue, 15 Jul 2008 12:43:11 +0000
-  from_user: superheroesRus
-  id: 858944559
-  language: en
-  text: http://snurl.com/2ywz0 - Superhero themed episode of The Simpsons written by Seth Rogen
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
-  created_at: Tue, 15 Jul 2008 12:30:13 +0000
-  from_user: DreamPunk
-  id: 858935008
-  language: en
-  text: Ebert is saying Dark Knight is the best superhero movie ever made.
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
-  created_at: Tue, 15 Jul 2008 12:22:40 +0000
-  from_user: Rumpusgoopus
-  id: 858929972
-  language: en
-  text: I'm beginning to think that the term "Superhero Movie" is becoming redundant.
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
-  created_at: Tue, 15 Jul 2008 11:35:45 +0000
-  from_user: movieboxdaily
-  id: 858900900
-  language: en
-  text: "New source found: Superhero Movie - DivX ( http://tinyurl.com/5pcwqe )"
-<<<<<<< HEAD:test/yaml/superhero_since.yaml
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 11:18:07 +0000
-  from_user: witchiepoo
-  id: 858891366
-  language: en
-  text: "@tinystrings ok, you have convinced me. just read a shitload of reviews and now it has been ordered. You really are a superhero."
-=======
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/superhero_since.yaml
 results_per_page: 15
 since_id: 800791688

@@ -1,18 +1,51 @@
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
---- !ruby/object:Summize::Tweets 
-max_id: 859082556
-next_page: ?page=2&max_id=859082556&q=to%3Atechcrunch
-=======
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859152739
-next_page: ?page=2&max_id=859152739&q=to%3Atechcrunch
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
+max_id: 859242898
+next_page: ?page=2&max_id=859242898&q=to%3Atechcrunch
 page: 1
 query: to:techcrunch
 results: 
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:18:46 +0000
+  from_user: noahfleming
+  id: 859242898
+  language: en
+  text: "@TechCrunch im an entrepreneur that enjoys my sleep, it's all about the 4 hour work week these days not the 20 hour day.."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:14:27 +0000
+  from_user: aarjav
+  id: 859238993
+  language: en
+  text: "@TechCrunch \"Perhaps some enterprising vc will start requiring founders of their companies to get a prescription\" Stop giving them ideas man"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:13:51 +0000
+  from_user: knightsicre
+  id: 859238467
+  language: en
+  text: "@TechCrunch awesome.  SWSD is definitely a start-up disease"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 18:09:12 +0000
+  from_user: glenstansberry
+  id: 859234603
+  language: en
+  text: "@TechCrunch Naturally. They just couldn't be happy with massive FREE PR, could they? ;)"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:16:27 +0000
+  from_user: msg
+  id: 859188503
+  language: en
+  text: "@techcrunch i think you did a solid job interviewing @ev pre: twitter + summize acquisition http://bit.ly/3RKU2d"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 17:13:32 +0000
+  from_user: jhawk86
+  id: 859185713
+  language: en
+  text: "@TechCrunch do you think that's a function of the traditional news media picking up on the fact that Digg has become so popular?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:58:58 +0000
+  from_user: sheatsb
+  id: 859172038
+  language: en
+  text: "@TechCrunch oh, new media pushing people to look at old media? who would have known..."
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:39:17 +0000
   from_user: jimhirshfield
@@ -38,138 +71,28 @@ results:
   language: en
   text: "@TechCrunch Well. @ev did tweet last night that it was going to be a big day."
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
   created_at: Tue, 15 Jul 2008 15:27:21 +0000
   from_user: mterenzio
   id: 859082556
   language: en
   text: "@techcrunch there is a bug on crunchbase - when filtering on the status of companies, I only get companies starting with the letter A"
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
   created_at: Tue, 15 Jul 2008 12:39:11 +0000
   from_user: robdiana
   id: 858941762
   language: en
   text: "@TechCrunch I believe journalists call this the tease."
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
   created_at: Tue, 15 Jul 2008 12:36:04 +0000
   from_user: chipro
   id: 858939302
   language: en
   text: "@TechCrunch Any hint?"
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
 - !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
   created_at: Tue, 15 Jul 2008 12:34:20 +0000
   from_user: ShannonPalmer
   id: 858938035
   language: en
   text: "@TechCrunch - Well that's just a tease!"
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
-  created_at: Tue, 15 Jul 2008 12:18:17 +0000
-  from_user: rajivdingra
-  id: 858927086
-  language: en
-  text: "@TechCrunch are you selling out to AOL for 30 million??"
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
-  created_at: Tue, 15 Jul 2008 12:14:41 +0000
-  from_user: youbundle
-  id: 858924753
-  language: en
-  text: "@TechCrunch sounds like somebody bought somebody."
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
-  created_at: Tue, 15 Jul 2008 11:58:21 +0000
-  from_user: cre8tn
-  id: 858914250
-  language: en
-  text: "@TechCrunch why not release it real time."
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
-  created_at: Tue, 15 Jul 2008 11:49:38 +0000
-  from_user: ebusta
-  id: 858908901
-  language: en
-  text: "@TechCrunch Give us a hint. Cupertino or Mountain View?"
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
-  created_at: Tue, 15 Jul 2008 11:36:14 +0000
-  from_user: gkaindl
-  id: 858901220
-  language: en
-  text: "@techcrunch http://bit.ly/2dhO9M so much about MobileMe being fully up! please consider writing about it to let Apple know that people care."
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
-  created_at: Tue, 15 Jul 2008 07:58:58 +0000
-  from_user: agfhome
-  id: 858793863
-  language: en
-  text: "@TechCrunch I'm surprised it took you this long after the NYT article to bring it up."
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-=======
-- !ruby/object:TwitterSearch::Tweet 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
-  created_at: Tue, 15 Jul 2008 07:55:12 +0000
-  from_user: vinodhn
-  id: 858792130
-  language: en
-  text: "@techcrunch this is interesting stuff... waiting to see comments.. :)"
-<<<<<<< HEAD:test/yaml/to_techcrunch.yaml
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 07:35:57 +0000
-  from_user: Jimconnolly
-  id: 858782797
-  language: en
-  text: "@TechCrunch That Tweet to @Scobleizer was brutal!"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 07:27:56 +0000
-  from_user: patphelan
-  id: 858778916
-  language: en
-  text: "@TechCrunch hehehe, another non reader"
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 07:04:59 +0000
-  from_user: Scobleizer
-  id: 858768134
-  language: en
-  text: "@techcrunch where's your iPhone app report? Might wanna watch some of these: http://tinyurl.com/6xa8h9 -- I'd love to help u review apps."
-- !ruby/object:Summize::Tweet 
-  created_at: Tue, 15 Jul 2008 05:34:28 +0000
-  from_user: bitcloud
-  id: 858723606
-  language: en
-  text: "@TechCrunch how about \"Google/Viacom agree that it's not their data to give\""
-=======
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/to_techcrunch.yaml
 results_per_page: 15
 since_id: 0

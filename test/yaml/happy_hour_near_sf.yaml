@@ -1,8 +1,4 @@
-<<<<<<< HEAD:test/yaml/happy_hour_near_sf.yaml
---- !ruby/object:Summize::Tweets 
-=======
 --- !ruby/object:TwitterSearch::Tweets 
->>>>>>> ef8ef7aaafceb04d69cdfb3963f229ec1ab666db:test/yaml/happy_hour_near_sf.yaml
 max_id: -1
 next_page: 
 page: 1
