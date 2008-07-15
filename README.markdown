@@ -4,6 +4,10 @@ Access the Twitter Search API from your Ruby code.
 
 ## Usage
 
+Install the gem.
+
+    sudo gem install dancroak-twitter-search -s http://gems.github.com
+
 Require the gem.
 
     require 'twitter-search'
@@ -53,7 +57,9 @@ The Twitter Search API supports foreign languages, accessible via the :lang key.
 
 ### Pagination
 
+Alter the number of Tweets returned per page with the :rpp key. Stick with 10, 15, 20, 25, 30, or 50.
 
+    @tweets = @client.query :q => 'Boston Celtics', :rpp => '30'
 
 ## Gotchas
 

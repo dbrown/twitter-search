@@ -1,9 +1,33 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859082556
-next_page: ?page=2&max_id=859082556&q=to%3Atechcrunch
+max_id: 859152739
+next_page: ?page=2&max_id=859152739&q=to%3Atechcrunch
 page: 1
 query: to:techcrunch
 results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:39:17 +0000
+  from_user: jimhirshfield
+  id: 859152739
+  language: en
+  text: "@techcrunch Need a little techcrunch50 luv for TalkingSocial please ;-)"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:32:00 +0000
+  from_user: marshallk
+  id: 859145419
+  language: en
+  text: "@techcrunch interviewing Evan Williams at FOO camp about the forthcoming Summize announcement sure was a good idea."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:29:28 +0000
+  from_user: bullyinguk
+  id: 859142845
+  language: en
+  text: "@techcrunch http://blog.twitter.com/  Twitter Aquires Summize"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:28:52 +0000
+  from_user: podcasthotel
+  id: 859142295
+  language: en
+  text: "@TechCrunch Well. @ev did tweet last night that it was going to be a big day."
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 15:27:21 +0000
   from_user: mterenzio
@@ -70,29 +94,5 @@ results:
   id: 858792130
   language: en
   text: "@techcrunch this is interesting stuff... waiting to see comments.. :)"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 07:35:57 +0000
-  from_user: Jimconnolly
-  id: 858782797
-  language: en
-  text: "@TechCrunch That Tweet to @Scobleizer was brutal!"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 07:27:56 +0000
-  from_user: patphelan
-  id: 858778916
-  language: en
-  text: "@TechCrunch hehehe, another non reader"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 07:04:59 +0000
-  from_user: Scobleizer
-  id: 858768134
-  language: en
-  text: "@techcrunch where's your iPhone app report? Might wanna watch some of these: http://tinyurl.com/6xa8h9 -- I'd love to help u review apps."
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 05:34:28 +0000
-  from_user: bitcloud
-  id: 858723606
-  language: en
-  text: "@TechCrunch how about \"Google/Viacom agree that it's not their data to give\""
 results_per_page: 15
 since_id: 0

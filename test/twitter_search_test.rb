@@ -246,6 +246,19 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     end
   end
 
+  # PAGINATION
+  
+  context "@client.query :q => 'Boston Celtics', :rpp => '30'" do
+    setup do
+      @tweets = read_yaml :file => 'results_per_page'
+    end
+
+    should_find_tweets
+    should_have_text_for_all_tweets
+    should_return_page 1
+    should_return_tweets_in_sets_of 30
+  end
+
   protected
   
     def convert_date(date)

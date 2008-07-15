@@ -28,6 +28,7 @@ namespace :yaml do
     write_yaml :tweets => {:q => 'hilarious filter:links'},            :file => 'hilarious_links'
     write_yaml :tweets => {:q => 'congratulations', :lang => 'en'},    :file => 'english'
     write_yaml :tweets => {:q => 'با', :lang => 'ar'},                 :file => 'arabic'
+    write_yaml :tweets => {:q => 'Boston Celtics', :rpp => '30'},      :file => 'results_per_page'
   end
 end
 

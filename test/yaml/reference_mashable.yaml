@@ -1,9 +1,39 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859137169
-next_page: ?page=2&max_id=859137169&q=%40mashable
+max_id: 859152168
+next_page: ?page=2&max_id=859152168&q=%40mashable
 page: 1
 query: "@mashable"
 results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:38:43 +0000
+  from_user: JoachimNiemeier
+  id: 859152168
+  language: en
+  text: "Retweeting @mashable: Twitter Acquires Summize; Launches Official Twitter Search ( http://tinyurl.com/6apprl )"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:31:48 +0000
+  from_user: learnseo
+  id: 859145237
+  language: en
+  text: "@mashable Reading http://tinyurl.com/6apprl"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:30:50 +0000
+  from_user: tiffanywinbush
+  id: 859144295
+  language: en
+  text: Twitter+Summize=Rocks. Hoping for Twitter system upgrades. retweet @mashable  http://tinyurl.com/6apprl
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:29:32 +0000
+  from_user: thermosilla
+  id: 859142910
+  language: es
+  text: "ejale!! le gan\xC3\xA9 en la noticia a @techcrunch y @mashable"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:27:14 +0000
+  from_user: jduklas
+  id: 859140592
+  language: en
+  text: "@mashable The Summize purcahse has finally gone through. About time. Also... haven't seen FailWhale in awhile."
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:23:57 +0000
   from_user: ViewMyLife
@@ -64,35 +94,5 @@ results:
   id: 858729582
   language: en
   text: excited for @mashable 's SF SummerMash tomorrow night!
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 04:48:36 +0000
-  from_user: Paulewis
-  id: 858697540
-  language: en
-  text: packing for Cali then bed.. meeting in the am.. Virgin America flight to SF, then goin 2 @mashable event!! see yall in SF 2morrow night!
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 04:42:00 +0000
-  from_user: sanfranmash
-  id: 858693946
-  language: en
-  text: "via @joanikin: @mashable. Snaptalent of the UK integrates Seesmic. http://snaptalent.com/ads/new/"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 04:41:46 +0000
-  from_user: joanikin
-  id: 858693664
-  language: en
-  text: "@mashable. Snaptalent of the UK integrates Seesmic. http://snaptalent.com/ads/new/"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 04:34:07 +0000
-  from_user: CorinneL
-  id: 858688771
-  language: en
-  text: "@mashable you poor thing. Will be at Friday's LA event - looking forward to meeting you and other Mashable peeps"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 04:31:16 +0000
-  from_user: rajivdingra
-  id: 858686695
-  language: en
-  text: "@mashable not really.. my life sucks too but not in the same way :P"
 results_per_page: 15
 since_id: 0

@@ -1,9 +1,15 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859132913
-next_page: ?page=2&max_id=859132913&q=flight+%3A%28
+max_id: 859145997
+next_page: ?page=2&max_id=859145997&q=flight+%3A%28
 page: 1
 query: flight :(
 results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:32:35 +0000
+  from_user: _brian
+  id: 859145997
+  language: en
+  text: "@mortiz they did trade me up to first for a later flight but they're still idiots and completely unfanatical :("
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:19:33 +0000
   from_user: jeherv
@@ -88,11 +94,5 @@ results:
   id: 858066835
   language: en
   text: Flight back to San Francisco leaves in 4 hours. Leaving Miami :( had so much fun.
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 14:00:38 +0000
-  from_user: BalanceGirl
-  id: 858023584
-  language: en
-  text: "@SuburbanTurmoil I'm excited, but so not ready yet! So much to do, so little time! Not looking forward to my cross county flight though. :("
 results_per_page: 15
 since_id: 0

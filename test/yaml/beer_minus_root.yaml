@@ -1,98 +1,98 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859137763
-next_page: ?page=2&max_id=859137763&q=beer+-root
+max_id: 859161623
+next_page: ?page=2&max_id=859161623&q=beer+-root
 page: 1
 query: beer -root
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:24:30 +0000
-  from_user: McCainNewsLadr
-  id: 859137763
+  created_at: Tue, 15 Jul 2008 16:48:12 +0000
+  from_user: CreativeCooler
+  id: 859161623
   language: en
-  text: McCain's Campaign Being Funded by- Beer? [tweetburner error]
+  text: "Germany biking day 2: 40 mile ride, 3 mile hike-Metzig to Trier. First wipe out and a skinned knee. A bit sore and ready for more beer."
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:23:18 +0000
-  from_user: dweekly
-  id: 859136544
+  created_at: Tue, 15 Jul 2008 16:44:36 +0000
+  from_user: wisemana
+  id: 859157881
   language: en
-  text: "En route to airport: a thousand little taquerias, sombreros, juice stands, and beer. Superb hospitality from my host Manuel. How to repay??"
+  text: eat it, Anheuser Busch. Maybe if you didn't make beer using rice and corn you would still be around
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:23:00 +0000
-  from_user: AngelaWilson
-  id: 859136234
+  created_at: Tue, 15 Jul 2008 16:44:28 +0000
+  from_user: ChristyRhoades
+  id: 859157756
   language: en
-  text: "@LostinSweden So go out for burgers and fries and beer. Oh, onion rings are calling me today."
+  text: is three days away from beer and packing for home! :-D
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:22:33 +0000
-  from_user: pditoto
-  id: 859135804
+  created_at: Tue, 15 Jul 2008 16:43:04 +0000
+  from_user: kob42kob
+  id: 859156384
   language: en
-  text: Drinking beer on the beach illegaly. Makes it taste even better!
+  text: thinks about going for a quick beer tonight
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:19:21 +0000
-  from_user: Fergal
-  id: 859132716
+  created_at: Tue, 15 Jul 2008 16:42:27 +0000
+  from_user: greezyweezel
+  id: 859155847
   language: en
-  text: What's with all these blogs called "-slut"? Bookslut, Musicslut etc. Reminds me of that T-shirt "I'm A Chocoholic, But For Beer"
+  text: "@bebizzy I hear you, I'm more productive with a beer too."
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:18:32 +0000
-  from_user: elyl
-  id: 859131817
-  language: it
-  text: "luned\xC3\xAC sera ci sono anch'io alla kublai beer :)) http://tinyurl.com/5r5k3m"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:18:04 +0000
-  from_user: Tehsisiudai
-  id: 859131348
+  created_at: Tue, 15 Jul 2008 16:34:48 +0000
+  from_user: cambella
+  id: 859148218
   language: en
-  text: ": thinks he wants a mini fridge to store some beer."
+  text: http://search.twitter.com/search?q=beer  @kitschbitch - I quite agree
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:17:40 +0000
-  from_user: agillette
-  id: 859130920
-  language: fr
-  text: beer and bicycles and burritos ... not entirely advisable
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:17:30 +0000
-  from_user: Moer
-  id: 859130749
+  created_at: Tue, 15 Jul 2008 16:34:44 +0000
+  from_user: runnergirl713
+  id: 859148146
   language: en
-  text: "[Videos] http://tinyurl.com/6r8e6l Anheuser-Busch is sold to beer giant in Belgium"
+  text: relaxing after a long day of beer and chocolate, beer and chocolate. oh, and also, a brewery tour. bruges is incredible.
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:17:00 +0000
-  from_user: jalex
-  id: 859130244
+  created_at: Tue, 15 Jul 2008 16:34:14 +0000
+  from_user: TheBeerWench
+  id: 859147643
   language: en
-  text: I'm in to mood for Frisbee and beer.  I no particular order.
+  text: "@repmekevets It is always beer o'clock in my book ..."
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:16:20 +0000
-  from_user: chriscroz
-  id: 859129560
+  created_at: Tue, 15 Jul 2008 16:34:08 +0000
+  from_user: cambella
+  id: 859147552
+  language: 
+  text: http://search.twitter.com/search?q=beer
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:33:19 +0000
+  from_user: jwwjr
+  id: 859146719
   language: en
-  text: too bad souf is sipping lattes in Paris or i'd buy him a beer at the irish pub around the corner after work
+  text: "I is a \"Beer can stumblin\xE2\x80\x99 in the wind down Metropolitan I\xE2\x80\x99m all over the place trying to walk like nothing\xE2\x80\x99s happening lonesome goats l ..."
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:16:19 +0000
-  from_user: blacktar
-  id: 859129548
+  created_at: Tue, 15 Jul 2008 16:33:13 +0000
+  from_user: fireland
+  id: 859146618
   language: en
-  text: "@viskar Let me know the next time you're here and we'll have a K\xC3\xB6lsch (nice local CGN beer)."
+  text: Only been unemployed for a week but already I'm watching the iCarly marathon, nude, smelling like a diaper filled with old beer and despair.
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:15:59 +0000
-  from_user: bact
-  id: 859129170
-  language: nl
-  text: http://twitpic.com/46ff - buddy beer
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:15:45 +0000
-  from_user: WebA
-  id: 859128902
+  created_at: Tue, 15 Jul 2008 16:32:59 +0000
+  from_user: Malakym
+  id: 859146391
   language: en
-  text: "[Photos] http://tinyurl.com/6es8ag Anheuser-Busch is sold to beer giant in Belgium"
+  text: Been ill for the last couple of days. Feeling a lot better now. Want beer so badly.
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:14:42 +0000
-  from_user: GSSP
-  id: 859127808
+  created_at: Tue, 15 Jul 2008 16:32:20 +0000
+  from_user: skrud
+  id: 859145740
   language: en
-  text: "[News] http://tinyurl.com/5l78zn Anheuser-Busch is sold to beer giant in Belgium"
+  text: "@tempestmia You'll have to ask me when I'm drinking a beer. ;)"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:28:33 +0000
+  from_user: Kathy_L
+  id: 859141978
+  language: en
+  text: "@ku5h, I heard it was in the works. Too bad for American company, but those Belgians really know how to make beer. I'm torn."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:27:52 +0000
+  from_user: whiticism
+  id: 859141271
+  language: en
+  text: "list of things that do not cure eye twitch: beer, wine, vodka, cucumber slices, sleep, eye drops. trying self-induced coma next."
 results_per_page: 15
 since_id: 0

@@ -1,9 +1,15 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859085148
-next_page: ?page=2&max_id=859085148&q=superhero+since%3A2008-05-01
+max_id: 859140750
+next_page: ?page=2&max_id=859140750&q=superhero+since%3A2008-05-01
 page: 1
 query: superhero since:2008-05-01
 results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:27:23 +0000
+  from_user: ARealGirl
+  id: 859140750
+  language: en
+  text: Should have left for the office 20 minutes ago, instead discussing the relative merits of superhero costumes vs. superhero powers with PKo.
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 15:30:12 +0000
   from_user: RichLovatt
@@ -88,11 +94,5 @@ results:
   id: 858900900
   language: en
   text: "New source found: Superhero Movie - DivX ( http://tinyurl.com/5pcwqe )"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 11:18:07 +0000
-  from_user: witchiepoo
-  id: 858891366
-  language: en
-  text: "@tinystrings ok, you have convinced me. just read a shitload of reviews and now it has been ordered. You really are a superhero."
 results_per_page: 15
 since_id: 800791688

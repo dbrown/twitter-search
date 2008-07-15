@@ -1,9 +1,21 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859121947
-next_page: ?page=2&max_id=859121947&q=movie+-scary+%3A%29
+max_id: 859146122
+next_page: ?page=2&max_id=859146122&q=movie+-scary+%3A%29
 page: 1
 query: movie -scary :)
 results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:32:43 +0000
+  from_user: psychzzz
+  id: 859146122
+  language: en
+  text: is looking forward to his movie marathon :D
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:27:21 +0000
+  from_user: dareelcharlie
+  id: 859140713
+  language: en
+  text: well in every lifetime movie theres always the alcoholic :)
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:08:37 +0000
   from_user: sweetluna
@@ -82,17 +94,5 @@ results:
   id: 858808985
   language: en
   text: I just got a gift from my Townhall committee head - a nifty notebook and a movie ticket. awww. dinner in a few! :)
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 08:00:28 +0000
-  from_user: brunovg
-  id: 858794647
-  language: en
-  text: "@uprisenuplift do you like Black Jack? I love this movie: High Fidelity =) http://twitpic.com/45f8"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 07:52:33 +0000
-  from_user: BlissOfBeing
-  id: 858790849
-  language: en
-  text: "@rckstrscott I'm american, just in Hawaii! :) why don't you watch an itunes movie?"
 results_per_page: 15
 since_id: 0

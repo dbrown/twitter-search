@@ -1,9 +1,21 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859139242
-next_page: ?page=2&max_id=859139242&q=traffic+%3F
+max_id: 859152973
+next_page: ?page=2&max_id=859152973&q=traffic+%3F
 page: 1
 query: traffic ?
 results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:39:31 +0000
+  from_user: bendtheweb
+  id: 859152973
+  language: en
+  text: "FTR: Who Has The Best Bonus Package for Traffic Secrets?: Well, I think I do. I\xE2\x80\x99m not offeri.. http://tinyurl.com/68gzdl"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:31:03 +0000
+  from_user: jtunkelo
+  id: 859144504
+  language: en
+  text: Traffic Secrets server hammered even BEFORE they open. "We had no idea the traffic levels would be as high as it already is"? Come on...
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:25:57 +0000
   from_user: vincesamios
@@ -82,17 +94,5 @@ results:
   id: 859061500
   language: en
   text: Wondering how much John Reese will make today on the launch of Traffic Secrets 2.0? Will he beat the 1st day launch of TS1?
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:56:33 +0000
-  from_user: scottcolby
-  id: 859053002
-  language: en
-  text: Anyone here buying Traffic Secrets 2.0 in an hour?
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:53:35 +0000
-  from_user: andrewraff
-  id: 859049902
-  language: en
-  text: Do traffic cops realize that they usually make traffic worse by directing traffic and ignoring the flow of the traffic lights?
 results_per_page: 15
 since_id: 0

@@ -1,9 +1,15 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859129019
-next_page: ?page=2&max_id=859129019&q=hilarious+filter%3Alinks
+max_id: 859152277
+next_page: ?page=2&max_id=859152277&q=hilarious+filter%3Alinks
 page: 1
 query: hilarious filter:links
 results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:38:50 +0000
+  from_user: importantshock
+  id: 859152277
+  language: en
+  text: "Sorry, @codinghorror, but this is hilarious: http://tinyurl.com/6brnlq"
 - !ruby/object:TwitterSearch::Tweet 
   created_at: Tue, 15 Jul 2008 16:15:51 +0000
   from_user: christingom
@@ -88,11 +94,5 @@ results:
   id: 858946216
   language: en
   text: "@alexdc Awesome, I can't believe they compared the Gov of SC to that girl in Miss Teen SC. http://is.gd/TKI Just hilarious, and sad."
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 12:44:42 +0000
-  from_user: jasonegan
-  id: 858945557
-  language: en
-  text: "@alexdc OMFG, I can't believe they compared the Gov of SC to that girl in Miss Teen SC. http://is.gd/TKI Just hilarious, and sad."
 results_per_page: 15
 since_id: 852930295
