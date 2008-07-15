@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857703487
-next_page: ?page=2&max_id=857703487&q=from%3Aalexiskold
+max_id: 859056222
+next_page: ?page=2&max_id=859056222&q=from%3Aalexiskold
 page: 1
 query: from:alexiskold
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:46:07 +0000
+  created_at: Tue, 15 Jul 2008 13:54:03 +0000
   from_user: alexiskold
-  id: 857621910
+  id: 859002666
   language: en
-  text: I am reading The Paradox of Choice. It started primitive but got more interesting starting with chapter 2. I pity maximizers a lot.
+  text: I ran harder today, based on yesterdays advice. It felt good. Looking forward to runner's high tomorrow.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:35:18 +0000
+  created_at: Tue, 15 Jul 2008 11:51:23 +0000
   from_user: alexiskold
-  id: 857615325
+  id: 858910038
   language: en
-  text: "@sarahintampa did you try installing it into a fresh directory, not the one you had 2.0 or previous build?"
+  text: "My thought on the state of Facebook platform on ReadWriteWeb: http://tinyurl.com/6c8wm2"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:19:45 +0000
+  created_at: Tue, 15 Jul 2008 04:15:16 +0000
   from_user: alexiskold
-  id: 857605839
+  id: 858673903
   language: en
-  text: "@sarahintampa are you on the Mac?"
+  text: I love coding because of a) Design b) Algorithms. Yeah, in that order.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:39:50 +0000
+  created_at: Tue, 15 Jul 2008 02:40:13 +0000
   from_user: alexiskold
-  id: 857582430
+  id: 858608493
   language: en
-  text: "@EmreSokullu have some wine."
+  text: "@ChristinaLiang  product of propaganda."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:30:36 +0000
+  created_at: Tue, 15 Jul 2008 00:32:16 +0000
   from_user: alexiskold
-  id: 857577132
+  id: 858523581
   language: en
-  text: Is there a toggle on FriendFeed to only see my entries that people commented on or liked?
+  text: Okay, time to pack it up and head home. Good first day in the office after a long vacation.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:29:28 +0000
+  created_at: Tue, 15 Jul 2008 00:23:54 +0000
   from_user: alexiskold
-  id: 857576441
+  id: 858518346
   language: en
-  text: "Social Networking is Not a Business in MIT Technology Review. Read this even though all of this is know already: http://bit.ly/2Pqdu0"
+  text: "@steffanantonas another one thats probably great on audio - microrends"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:29:14 +0000
+  created_at: Tue, 15 Jul 2008 00:23:17 +0000
   from_user: alexiskold
-  id: 857543855
+  id: 858517943
   language: en
-  text: My 4 year olds are seriously onto kissing. They just met this girl and a minute later kissed her in the month. What do I do? Help me please!
+  text: "@steffanantonas all my personal goodies are here: http://alexiskold.tumblr.com/"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:26:39 +0000
+  created_at: Mon, 14 Jul 2008 23:05:44 +0000
   from_user: alexiskold
-  id: 857414716
-  language: de
-  text: "@joshk There is Wegmans in Bethlehem: http://tinyurl.com/6rquqv"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:07:21 +0000
-  from_user: alexiskold
-  id: 857370932
+  id: 858468832
   language: en
-  text: Testing new AdaptiveBlue iPhone App ;)
+  text: Coding, VC calls, biz dev tasks - today had it all.
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 17:23:18 +0000
+  created_at: Mon, 14 Jul 2008 22:07:38 +0000
   from_user: alexiskold
-  id: 857345759
+  id: 858428930
   language: en
-  text: "@Emre Sokullu  exactly, thats the added value and a way for them to win the users back. They should exploit it."
+  text: "@deansher duh, i feel stupid now. of course it does, just highlight the method name and right click - thank you!!"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 16:22:41 +0000
+  created_at: Mon, 14 Jul 2008 19:52:06 +0000
   from_user: alexiskold
-  id: 857309238
+  id: 858327968
   language: en
-  text: Borders just does not get it. To compete with Amazon it should sell stuff cheaper in the store than Amazon sells online.
+  text: I wish there was a way in IntelliJ to right  click on a method in a TestCase and rung that. I am tired of renaming other test methods.
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 13:48:11 +0000
+  created_at: Mon, 14 Jul 2008 19:34:04 +0000
   from_user: alexiskold
-  id: 857218686
+  id: 858313625
   language: en
-  text: Back at home in NJ. Up early playing with Sofia - she is such a cutie!
+  text: "@bokardo thats only on the iPhone, right? Does not seem to work on the desktop."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 13:41:42 +0000
+  created_at: Mon, 14 Jul 2008 19:31:10 +0000
   from_user: alexiskold
-  id: 857215251
+  id: 858311312
   language: en
-  text: "@Fraser welcome back, hope you had a blast!"
+  text: "@zoliblog LOL, this is spot on : http://tinyurl.com/6gl2jz"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 02:17:31 +0000
+  created_at: Mon, 14 Jul 2008 19:30:06 +0000
   from_user: alexiskold
-  id: 856928886
+  id: 858310416
   language: en
-  text: Productive plane ride - 2 blog posts, one about iPhone another one about future software. That's 3 posts total for today.
+  text: "@jasondevitt good release - keeps getting better and better!"
 - !ruby/object:Summize::Tweet 
-  created_at: Sat, 12 Jul 2008 22:23:21 +0000
+  created_at: Mon, 14 Jul 2008 19:28:36 +0000
   from_user: alexiskold
-  id: 856813382
-  language: sv
-  text: FLL => EWR
+  id: 858309290
+  language: en
+  text: I wish Microsoft came up with more original and interesting products instead of beating on the Yahoo! door. Enough already!
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 19:23:11 +0000
+  from_user: alexiskold
+  id: 858305128
+  language: en
+  text: "Apple is dominating TechMeme: http://techmeme.com. Rightly so, it did super well. Now lets get Steve to fix Fanny and Freddy. Yeah, right."
 results_per_page: 15
 since_id: 0

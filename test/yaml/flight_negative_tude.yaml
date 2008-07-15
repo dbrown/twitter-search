@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857759797
-next_page: ?page=2&max_id=857759797&q=flight+%3A%28
+max_id: 859056222
+next_page: ?page=2&max_id=859056222&q=flight+%3A%28
 page: 1
 query: flight :(
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:47:36 +0000
-  from_user: theo_chiari
-  id: 857759797
-  language: "no"
-  text: At PDX. $JBLU red eye flight to NYC delayed 45 minutes. :-(
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:34:46 +0000
-  from_user: kbushling
-  id: 857753536
+  created_at: Tue, 15 Jul 2008 11:30:48 +0000
+  from_user: sanfranmash
+  id: 858898056
   language: en
-  text: "@phillymac oh no we arrived earlier. flight was delayed & then we went out to eat. need to get up way early tomorrow :( VERY sleepy"
+  text: "via @marcusnelson: On tram in MSP headed for gate, flight arrived early & sat on Tarmac for 20 minutes :("
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:14:43 +0000
+  created_at: Tue, 15 Jul 2008 11:30:33 +0000
+  from_user: marcusnelson
+  id: 858897917
+  language: en
+  text: On tram in MSP headed for gate, flight arrived early & sat on Tarmac for 20 minutes :(
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 09:09:39 +0000
+  from_user: ananyah
+  id: 858827652
+  language: en
+  text: "@CivilLizard hahaha by the time you book a flight and get there, I will be at home :P"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 06:58:22 +0000
+  from_user: evilasad
+  id: 858764843
+  language: en
+  text: almost home, just 24 hrs before I am on the flight again can't wait for the 15 hr flight :(
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 06:17:51 +0000
+  from_user: crossthebreeze
+  id: 858745227
+  language: en
+  text: 9 hour flight with Delta coming up :(
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 03:59:49 +0000
+  from_user: sean_mccarthy
+  id: 858661637
+  language: en
+  text: Missed my flight back to beautiful Colorado :-( Stuck at MCI for a while.
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 00:22:51 +0000
+  from_user: robinyang
+  id: 858517712
+  language: en
+  text: "@nickchester whoo! safe flight! let us know when you're in, maybe we'll come crash your staff meeting :P"
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 23:26:02 +0000
+  from_user: apriljayres
+  id: 858481792
+  language: en
+  text: Got here early only to find our flight delayed. Will miss our connection in los angeles. :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 22:12:00 +0000
+  from_user: sean_mccarthy
+  id: 858431914
+  language: en
+  text: Missed my flight back to beautiful Colorado :-( Stuck at KCI airport for a while.
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 20:06:17 +0000
+  from_user: robxmoran
+  id: 858338811
+  language: en
+  text: there are like 5 crying babies on my flight to Florida :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 18:46:35 +0000
+  from_user: johntwimpg
+  id: 858274618
+  language: en
+  text: toronto - delayed flight, long day before I even arrived - :-(
+- !ruby/object:Summize::Tweet 
+  created_at: Mon, 14 Jul 2008 15:09:37 +0000
   from_user: pacotacomike
-  id: 857743721
+  id: 858084258
   language: en
-  text: "@trinitydbt yeah heading back on the early flight out of LAX :-( it'll be nice to be back in bay area"
+  text: Another flight delay ? Im not leaving for another two hours :( this sucks
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:13:37 +0000
-  from_user: katiebrasington
-  id: 857638682
+  created_at: Mon, 14 Jul 2008 14:50:07 +0000
+  from_user: SKANLEZ
+  id: 858066835
   language: en
-  text: My flight was cancelled. :( stuck for another day...
+  text: Flight back to San Francisco leaves in 4 hours. Leaving Miami :( had so much fun.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:11:14 +0000
-  from_user: absohio
-  id: 857637263
+  created_at: Mon, 14 Jul 2008 14:00:38 +0000
+  from_user: BalanceGirl
+  id: 858023584
   language: en
-  text: Waiting for the parents flight to land...the airport has no food :(
+  text: "@SuburbanTurmoil I'm excited, but so not ready yet! So much to do, so little time! Not looking forward to my cross county flight though. :("
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:01:38 +0000
-  from_user: guiambros
-  id: 857595130
+  created_at: Mon, 14 Jul 2008 12:05:37 +0000
+  from_user: rwasundi
+  id: 857940368
   language: en
-  text: AA flight 2 hours delayed, as usual. No TWiT today for me :(
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:55:04 +0000
-  from_user: coryb
-  id: 857591173
-  language: en
-  text: "@doctorparadox Wow, that sounds like a fun flight ...  :-("
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:25:31 +0000
-  from_user: Krystalle
-  id: 857574354
-  language: en
-  text: "@doctorparadox: Ouch!  :( Hopefully they can get you on another flight soon."
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:54:37 +0000
-  from_user: duanemoody
-  id: 857557558
-  language: en
-  text: Still in the airport. Only 2 hours until our new flight time :( please sont be delayed again! :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:54:32 +0000
-  from_user: mirven
-  id: 857492822
-  language: en
-  text: Sitting on an airplane in austin, flight delayed 1 hour :-(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:20:29 +0000
-  from_user: Knightfourteen
-  id: 857474941
-  language: en
-  text: Breakfast was awesome. Now time to pack and get back on teh plane. 5 hour flight :P
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:24:02 +0000
-  from_user: idalreadypls
-  id: 857444875
-  language: en
-  text: should have brought my computer charger. flight delayed. 25% remaining charge :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 20:22:12 +0000
-  from_user: tevetorbes
-  id: 857443863
-  language: en
-  text: Mom's flight canceled- she'll be 8 HOURS late :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:33:11 +0000
-  from_user: yjoshi
-  id: 857385168
-  language: en
-  text: reached Egypt today.. after a long long (and delayed) flight... got robbed thanks to india calling rates (i should have checked) :(
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:23:24 +0000
-  from_user: missrogue
-  id: 857379938
-  language: en
-  text: Rebooked my flight to leave tonight. :(
+  text: Waiting for my flight home. I can't wait to see my dog and bird! (and parents i guess :P) Bye Elyse :(
 results_per_page: 15
 since_id: 0

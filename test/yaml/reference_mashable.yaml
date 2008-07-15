@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857723686
-next_page: ?page=2&max_id=857723686&q=%40mashable
+max_id: 859068467
+next_page: ?page=2&max_id=859068467&q=%40mashable
 page: 1
 query: "@mashable"
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:36:10 +0000
-  from_user: lamash
-  id: 857723686
+  created_at: Tue, 15 Jul 2008 15:12:30 +0000
+  from_user: Flixwagon
+  id: 859068467
   language: en
-  text: "via @ericaogrady: @mashable - Looking forward to it!  Where are the pics with our matching outfits?  LOL"
+  text: "@Mashable @seanpaune cool post on Lifestreaming. Thanks for the great mention! http://tinyurl.com/5ljb3n"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:36:10 +0000
-  from_user: seattlemash
-  id: 857723683
+  created_at: Tue, 15 Jul 2008 15:11:45 +0000
+  from_user: Flixwagon
+  id: 859067737
   language: en
-  text: "via @ericaogrady: @mashable - Looking forward to it!  Where are the pics with our matching outfits?  LOL"
+  text: "@Mashable @seanpaune cool post on Lifestreaming. Thanks for the great mention!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:36:02 +0000
-  from_user: ericaogrady
-  id: 857723606
+  created_at: Tue, 15 Jul 2008 12:44:14 +0000
+  from_user: zarzecks
+  id: 858945250
   language: en
-  text: "@mashable - Looking forward to it!  Where are the pics with our matching outfits?  LOL"
+  text: "Just got my copy of Sway, looking forward to reading. Thanks @adamhirsch @mashable. #AuthorsAtMashable"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:04:18 +0000
-  from_user: Jennyjinx
-  id: 857706068
+  created_at: Tue, 15 Jul 2008 11:55:14 +0000
+  from_user: markmckay
+  id: 858912357
   language: en
-  text: "@MizUV @mashable is a cutie and, um, some others. LOL!"
+  text: "retweet: @mashable   Viacom Backs Down - Our Privacy Is Preserved ( http://tinyurl.com/5gbcas )"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:10:00 +0000
+  created_at: Tue, 15 Jul 2008 11:38:11 +0000
+  from_user: vruz
+  id: 858902356
+  language: en
+  text: "retweet: @mashable Viacom Backs Down - Our Privacy is Preserved  http://is.gd/TKh"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 10:53:10 +0000
+  from_user: okami
+  id: 858878458
+  language: en
+  text: "@mashable not necessarily. . .all it takes is a nice coronal mass ejection and the solar radiation and particles will fry the satellite, ..."
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 07:18:09 +0000
+  from_user: DocGee
+  id: 858774327
+  language: en
+  text: "@mashable why the iphone?"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 05:46:09 +0000
   from_user: morganb
-  id: 857673977
+  id: 858729582
   language: en
-  text: "@mashable excited for summermash SF - just registered!"
+  text: excited for @mashable 's SF SummerMash tomorrow night!
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:07:46 +0000
-  from_user: mybooo
-  id: 857672738
+  created_at: Tue, 15 Jul 2008 04:48:36 +0000
+  from_user: Paulewis
+  id: 858697540
   language: en
-  text: "@mashable Hi Pete I just arrive in San Francisco to develop MyBooo here. Are you available to make you a demo of our platform?"
+  text: packing for Cali then bed.. meeting in the am.. Virgin America flight to SF, then goin 2 @mashable event!! see yall in SF 2morrow night!
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:58:49 +0000
-  from_user: kpedraja
-  id: 857667060
-  language: en
-  text: "@mashable Nice gig last night.  Hope you enjoyed Seattle."
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:37:49 +0000
-  from_user: marianne_m
-  id: 857548575
-  language: en
-  text: "@mashable http://twitpic.com/3z1a - Ooh, I want of those! See ya @ SummerMash SF?"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:02:22 +0000
+  created_at: Tue, 15 Jul 2008 04:42:00 +0000
   from_user: sanfranmash
-  id: 857529926
+  id: 858693946
   language: en
-  text: "via @NicoleSimon: wondering if the 'fill them and they will get blue' cups from @mashable are fda approved. ;)"
+  text: "via @joanikin: @mashable. Snaptalent of the UK integrates Seesmic. http://snaptalent.com/ads/new/"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:02:09 +0000
-  from_user: NicoleSimon
-  id: 857529814
+  created_at: Tue, 15 Jul 2008 04:41:46 +0000
+  from_user: joanikin
+  id: 858693664
   language: en
-  text: wondering if the 'fill them and they will get blue' cups from @mashable are fda approved. ;)
+  text: "@mashable. Snaptalent of the UK integrates Seesmic. http://snaptalent.com/ads/new/"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:58:55 +0000
-  from_user: nazgul
-  id: 857527924
+  created_at: Tue, 15 Jul 2008 04:34:07 +0000
+  from_user: CorinneL
+  id: 858688771
   language: en
-  text: "@mashable I tend to \"go blue when filled\" too.  Need to eat less. :-)"
+  text: "@mashable you poor thing. Will be at Friday's LA event - looking forward to meeting you and other Mashable peeps"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:43:46 +0000
-  from_user: sbullo
-  id: 857519692
+  created_at: Tue, 15 Jul 2008 04:31:16 +0000
+  from_user: rajivdingra
+  id: 858686695
   language: en
-  text: "@mashable very, very nice Starbucks pic :)"
+  text: "@mashable not really.. my life sucks too but not in the same way :P"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:04:03 +0000
-  from_user: theduty
-  id: 857498005
+  created_at: Tue, 15 Jul 2008 04:23:36 +0000
+  from_user: 3stairs
+  id: 858680583
   language: en
-  text: "@mashable. THANX FOR THE HEADS UP!  STELLAR APP!"
+  text: "@mashable i'll trade with you, my dear"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:59:14 +0000
-  from_user: JTKestrel
-  id: 857495287
+  created_at: Tue, 15 Jul 2008 04:18:06 +0000
+  from_user: Viss
+  id: 858676273
   language: en
-  text: "Last.fm: iPhone edition: http://tinyurl.com/6fnfbc Compliments @mashable"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 21:47:14 +0000
-  from_user: sanfranmash
-  id: 857488816
-  language: en
-  text: "via @infinitelymeta: @mashable @seattlemash @sanfranmash why are my tweets being retweeted in your timelines? J... http://tinyurl.com/65b2z8"
+  text: "@mashable Cry some more :D You're buying the booze this friday. hehehe"
 results_per_page: 15
 since_id: 0

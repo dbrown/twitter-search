@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857764421
-next_page: ?page=2&max_id=857764421&q=beer+-root
+max_id: 859127808
+next_page: ?page=2&max_id=859127808&q=beer+-root
 page: 1
 query: beer -root
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:57:24 +0000
-  from_user: santamarina
-  id: 857764421
+  created_at: Tue, 15 Jul 2008 16:14:42 +0000
+  from_user: GSSP
+  id: 859127808
   language: en
-  text: "@joepopp nice!  Nothing beats a good beer after a day at Golf-N-Suff!"
+  text: "[News] http://tinyurl.com/5l78zn Anheuser-Busch is sold to beer giant in Belgium"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:55:57 +0000
-  from_user: LoraEnfield
-  id: 857763798
+  created_at: Tue, 15 Jul 2008 16:14:18 +0000
+  from_user: mb21
+  id: 859127404
   language: en
-  text: Oh, and kicking over beer cans makes people go, "Awwwww....."
+  text: I want everyone around me to stfu right now.  and then i want all the silent bastards to bring me beer.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:53:17 +0000
-  from_user: gallagher_msean
-  id: 857762476
+  created_at: Tue, 15 Jul 2008 16:12:57 +0000
+  from_user: nicdarling
+  id: 859126037
   language: en
-  text: Zambia's Mosi Beer is excellent. Will compare with Namibia's Windhoek and S Africa's Castle over the next few days for fairness.
+  text: Working in a cafe that happens to serve beer. Do I have one with lunch? Silly question.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:53:01 +0000
-  from_user: jasonglaspey
-  id: 857762342
+  created_at: Tue, 15 Jul 2008 16:12:31 +0000
+  from_user: lostinsweden
+  id: 859125647
   language: en
-  text: heading to bed after a nice evening outside smoking a hooka, drinking tasty beer and having some Old Town Pizza. Yeehaw for Sunday evenings
+  text: I don't want salmon and potatoes for dinner.  I want to go out for burgers and fries and beer.  Damn it.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:51:25 +0000
-  from_user: casconed
-  id: 857761647
+  created_at: Tue, 15 Jul 2008 16:12:15 +0000
+  from_user: Kalli
+  id: 859125370
   language: en
-  text: just dropped our 12-pack of beer on the sidewalk. only broke two, though. still, my beer privileges have been revoked.
+  text: I've found good and cheap crisps and beer. 3.5% Spendrups Old Gold and ICA grill chips. Am I a Swede now? Seriously, the Old Gold 3.5 is OK.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:49:09 +0000
-  from_user: dweekly
-  id: 857760542
-  language: en
-  text: "Playing pool at Gatopollo (literally: cat chicken), a hard rock bar in Hermosillo, drinking a Sol con fresa. Yeah, strawberry beer."
+  created_at: Tue, 15 Jul 2008 16:12:13 +0000
+  from_user: simondoggett
+  id: 859125339
+  language: nl
+  text: in ur hotel. steelin ur wifi. drinkin ur beer.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:49:05 +0000
-  from_user: paulcanetti
-  id: 857760511
+  created_at: Tue, 15 Jul 2008 16:10:56 +0000
+  from_user: batchblue
+  id: 859124120
   language: en
-  text: beer + good convo = perfect end to an insanely action-packed weekend
+  text: "@JoeCascio We love social and media and BBQ and beer! Happy to help sponsor your fine event: http://tinyurl.com/2pcdlz"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:47:48 +0000
-  from_user: glenmcfarlane
-  id: 857759906
+  created_at: Tue, 15 Jul 2008 16:10:31 +0000
+  from_user: jdye
+  id: 859123755
   language: en
-  text: "@andrewsayer Well in that case, why'd you leave it so long? 12 noon is beer o'clock in my house on the weekends.  Cheers!"
+  text: "@juliaxgulia  Bring your running shoes! BSS is a must-see...and I bet Islands are gonna be out-of-control. Also: hot dogs and beer!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:46:01 +0000
-  from_user: andrewsayer
-  id: 857758994
+  created_at: Tue, 15 Jul 2008 16:10:11 +0000
+  from_user: oilman
+  id: 859123453
   language: en
-  text: "@glenmcfarlane I'm on holidays. I can call beer o'clock whenever I want. Ain't that right @jackiepnopants?"
+  text: "@davesnyder how about I owe you a beer instead? ;)"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:42:17 +0000
-  from_user: zengrrl
-  id: 857757196
+  created_at: Tue, 15 Jul 2008 16:09:40 +0000
+  from_user: carlhaggerty
+  id: 859122935
   language: en
-  text: "@TheDisneyBlog me too - despite my joking about the free beer, I enjoy a day out at SeaWorld & would hate to see it gone."
+  text: "@we are staying at jury's inn chelsea. Fancy meeting for a beer later. You have work mobile no"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:41:36 +0000
-  from_user: rhuff04
-  id: 857756896
+  created_at: Tue, 15 Jul 2008 16:08:53 +0000
+  from_user: krames
+  id: 859122195
   language: en
-  text: Anheuser-Busch agreed to a $50 billion takeover by Belgian beer maker InBev. Say what? http://tinyurl.com/65dhds
+  text: I'd like to meet the guy who invented beer and see what he's working on now.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:39:47 +0000
-  from_user: adamgauss
-  id: 857756033
+  created_at: Tue, 15 Jul 2008 16:06:44 +0000
+  from_user: digitalyn
+  id: 859120158
   language: en
-  text: listening to circa 2004 music, reminiscing of the good ol' days.  is a lousy $70k+ job in frisco too much to ask for?  beer me.
+  text: The "friend box" might be the promise of some good moments also. I mean "Have a beer and grab a book"...
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:39:41 +0000
-  from_user: d4th
-  id: 857755992
+  created_at: Tue, 15 Jul 2008 16:03:00 +0000
+  from_user: gocyclones
+  id: 859116400
   language: en
-  text: is drinking beer and about to take cold medicine so he goes to sleep to get up at 6 AM.
+  text: "@mario85 #RAGBRAI is not about lance  its about people beer and seeing Iowa @ 20 mph"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:37:09 +0000
-  from_user: tombrazelton
-  id: 857754777
+  created_at: Tue, 15 Jul 2008 16:00:58 +0000
+  from_user: IamDerrick
+  id: 859114509
   language: en
-  text: "@License_Farm I admitted the Belgians make better beer. But some things are quintessentially American - shitty or not."
+  text: "\"never mix beer with cranberry juice\" - kelly's little brother"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:36:06 +0000
-  from_user: jpobando
-  id: 857754222
+  created_at: Tue, 15 Jul 2008 15:59:51 +0000
+  from_user: jswo
+  id: 859113396
   language: en
-  text: need to try me some Hue Beer
+  text: Long bike rides are best followed by beer at a campsite. Not work in an office.
 results_per_page: 15
 since_id: 0

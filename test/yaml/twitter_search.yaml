@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857762516
-next_page: ?page=2&max_id=857762516&q=twitter+search
+max_id: 859127867
+next_page: ?page=2&max_id=859127867&q=twitter+search
 page: 1
 query: twitter search
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:53:23 +0000
-  from_user: miss_ausmerica
-  id: 857762516
+  created_at: Tue, 15 Jul 2008 16:14:46 +0000
+  from_user: ravenzachary
+  id: 859127867
   language: en
-  text: I am in search of some new twitter friends...! Yippee
+  text: Twitter, please don't make Summize (err.... search.twitter.com) crash!
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:13:53 +0000
-  from_user: sjt
-  id: 857743389
-  language: de
-  text: twitter search is weird
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:02:39 +0000
-  from_user: madam3181
-  id: 857705164
+  created_at: Tue, 15 Jul 2008 16:14:45 +0000
+  from_user: Coxymoney
+  id: 859127859
   language: en
-  text: "@edwardharran Another way I found to demo Twitter is to do summize search using keywords suggested by audience; see personal relevance."
+  text: "Retweeting @missrogue: @ev Holy crap, indeed, Ev! Twitter search! And a Summize acquisition! Good move, I say! :)"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:25:00 +0000
-  from_user: jerrycakes
-  id: 857682826
+  created_at: Tue, 15 Jul 2008 16:14:45 +0000
+  from_user: simplynews
+  id: 859127848
   language: en
-  text: Testing out Twitter clients - Digsby, twhirl and QckTwit that I found via Google search.
+  text: "Techrunch: Confirmed: Twitter Acquires Summize Search Engine: It turns out those rumors last week were accurate. Micr.."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:15:59 +0000
-  from_user: ardalis
-  id: 857677584
+  created_at: Tue, 15 Jul 2008 16:14:37 +0000
+  from_user: chadcat
+  id: 859127738
   language: en
-  text: "Blog: Word 2007 Search Commands: I recently complained on Twitter that the UI in Office 2007 (and sp.. http://tinyurl.com/6hos6y"
+  text: "@gregpass @ev @twitter @biz please, please, please now allow us to follow peeps directly from the search.twitter.com feed - sorely needed"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:13:52 +0000
-  from_user: YHuynh
-  id: 857676328
+  created_at: Tue, 15 Jul 2008 16:14:37 +0000
+  from_user: Pam
+  id: 859127733
   language: en
-  text: so i was trying to type in google search and hit my twitter instead.... found out the girl from mario galaxy's name was rosalina, fyi. :-)
+  text: "@ev love search.twitter.com! thanks!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:48:07 +0000
-  from_user: chrisutley
-  id: 857587107
+  created_at: Tue, 15 Jul 2008 16:14:33 +0000
+  from_user: Coxymoney
+  id: 859127673
   language: en
-  text: "@robpickering search for her on twitter, name is Lisa Nova ... she's funny as hell"
+  text: "Retweeting @DrBaher: Twitter Official Search is here http://search.twitter.com"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:03:10 +0000
-  from_user: phocks
-  id: 857562164
+  created_at: Tue, 15 Jul 2008 16:14:27 +0000
+  from_user: Coxymoney
+  id: 859127567
   language: en
-  text: lots and lots of twitter chatter about the iphone http://summize.com/search?q=iphone
+  text: "Retweeting @twitter: Announcing search!:  http://search.twitter.com.  Why? http://tinyurl.com/56j2zx"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:35:19 +0000
-  from_user: BrianGreene
-  id: 857547215
+  created_at: Tue, 15 Jul 2008 16:14:22 +0000
+  from_user: bobinator
+  id: 859127489
   language: en
-  text: why radioparadise? a fan twitter scrobbled their live playlist from stream, I found them via summize on a artist search
+  text: "@al3x will twitter still be willing to feed competing search services?"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:30:55 +0000
-  from_user: Internetfcdaf
-  id: 857544788
-  language: sv
-  text: "mickal: mickal: mickal: mickal: mickal: mickal: Search engines like Blogs. http://twitter.com/mickal/statuses/855062370"
+  created_at: Tue, 15 Jul 2008 16:14:18 +0000
+  from_user: alanlepo
+  id: 859127400
+  language: 
+  text: Yeah http://search.twitter.com/
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:30:55 +0000
-  from_user: BlogHostdfbf
-  id: 857544784
-  language: sv
-  text: "mickal: mickal: mickal: mickal: mickal: mickal: Search engines like Blogs. .. http://twitter.com/mickal/statuses/855062370"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:30:46 +0000
-  from_user: Internetfcdaf
-  id: 857544707
-  language: sv
-  text: "http://hopurl.com/45394 mickal: mickal: mickal: mickal: mickal: Search engines like Blogs. http://twitter.com/mickal/statuses/854291785"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 23:30:44 +0000
-  from_user: BlogHostafa
-  id: 857544692
-  language: sv
-  text: "mickal: mickal: mickal: Search engines like Blogs. mickal: http://tinyurl.com/6q6796 mickal: .. http://twitter.com/mickal/statuses/854291647"
-- !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:26:26 +0000
-  from_user: dkottke
-  id: 857510300
+  created_at: Tue, 15 Jul 2008 16:14:03 +0000
+  from_user: Outsanity
+  id: 859127139
   language: en
-  text: coaching Barry Brilliant thru creating his twitter account... hey, how come my own name won't come up in a search, what's with that???!
+  text: http://search.twitter.com/ - Twitter has acquired Summize
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:26:20 +0000
-  from_user: jasonboucher
-  id: 857510251
+  created_at: Tue, 15 Jul 2008 16:14:01 +0000
+  from_user: pigsonthewing
+  id: 859127104
   language: en
-  text: "@samluce just search \"twitter\" on facebook and you are good to go."
+  text: "Summize is now Twitter Search: http://search.twitter.com/"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 16:14:00 +0000
+  from_user: sugree
+  id: 859127075
+  language: en
+  text: "with built-in search #twitter is now the most powerful service in its kind"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 16:13:57 +0000
+  from_user: nodster
+  id: 859127024
+  language: en
+  text: twitter search! http://search.twitter.com. @twitter shouldn't this mean track is back, are they not inherently similar?
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 16:13:44 +0000
+  from_user: NewsHour
+  id: 859126818
+  language: en
+  text: Twitter has acquired Summize to make http://search.twitter.com./
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 16:13:43 +0000
+  from_user: seldo
+  id: 859126814
+  language: en
+  text: "@goldman congrats on search.twitter.com and acquiring summize! What a bloody good idea!"
 results_per_page: 15
 since_id: 0

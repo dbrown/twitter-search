@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857764315
-next_page: ?page=2&max_id=857764315&q=Obama
+max_id: 859126747
+next_page: ?page=2&max_id=859126747&q=Obama
 page: 1
 query: Obama
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:57:09 +0000
-  from_user: reutersindia
-  id: 857764315
+  created_at: Tue, 15 Jul 2008 16:13:39 +0000
+  from_user: skydaddy
+  id: 859126747
   language: en
-  text: "WORLD: Obama's lead over McCain narrows in Newsweek poll http://r.reuters.com/sur6"
+  text: obama commerical on tv in lunchroom touting his small-town middle-class values.  looking for saltshaker...
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:57:09 +0000
-  from_user: RtrsIN_World
-  id: 857764312
+  created_at: Tue, 15 Jul 2008 16:13:37 +0000
+  from_user: gilberto_puppet
+  id: 859126718
+  language: pt
+  text: A foto do Barack Obama na capa da Rolling Stone brazuca parece o cruzamento de um boneco de cera com o de um jazzista cego de New Orleans.
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 16:13:33 +0000
+  from_user: steps
+  id: 859126649
   language: en
-  text: Obama's lead over McCain narrows in Newsweek poll http://r.reuters.com/sur6
+  text: "Just saw an Obama 08 license plate. The actual plate #"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:56:15 +0000
-  from_user: twOBAMA
-  id: 857763920
+  created_at: Tue, 15 Jul 2008 16:13:29 +0000
+  from_user: 5chw4r7z
+  id: 859126576
   language: en
-  text: "twOBAMA> [Photos] http://tinyurl.com/6xjg27 Obama: a shrewd opportunist, and hardly the first http://tinyurl.com/59afxb"
+  text: Barack Obama skated here all the way from the beach just to see you
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:56:14 +0000
-  from_user: twOBAMA
-  id: 857763916
+  created_at: Tue, 15 Jul 2008 16:13:28 +0000
+  from_user: angrywebmaster
+  id: 859126567
   language: en
-  text: "twOBAMA> Obama had the following for breakfast on Saturday: 1 pc bacon -crispy, sm. bowl of oa.. http://tinyurl.com/684sme"
+  text: Now we're reading how Google's blog system is shutting down anti-Obama sites. Yeah, they are paragons of free speech they are.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:56:12 +0000
-  from_user: twOBAMA
-  id: 857763906
+  created_at: Tue, 15 Jul 2008 16:13:16 +0000
+  from_user: atmendez
+  id: 859126347
   language: en
-  text: twOBAMA> @ outdoor cafe w CNN's Suzanne Malveaux celebrating her exclusive int. w Obama. I'm t.. http://tinyurl.com/6y2el6
+  text: Obama was awesome. More later.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:56:11 +0000
-  from_user: twOBAMA
-  id: 857763896
+  created_at: Tue, 15 Jul 2008 16:13:12 +0000
+  from_user: atmendez
+  id: 859126281
   language: en
-  text: "twOBAMA> New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle: The upcoming issue of th.. http://tinyurl.com/5vdux3"
+  text: Obama was awesome. More later.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:56:10 +0000
-  from_user: twOBAMA
-  id: 857763885
+  created_at: Tue, 15 Jul 2008 16:12:13 +0000
+  from_user: jpgardner
+  id: 859125346
   language: en
-  text: twOBAMA> memeorandum Barry Blitt Defends His New Yorker Cover Art Of Obama (Nico Pitney/The Hu.. http://tinyurl.com/5obfvs
+  text: "Donklephant: Public Policy Polling: Obama Up By 4 In Colorado http://tinyurl.com/5ou9pl"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:55:15 +0000
-  from_user: NEWZOF
-  id: 857763439
-  language: es
-  text: "[Photos] http://tinyurl.com/5bogqw Obama Details Trip to Iraq, Afghanistan"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:52:14 +0000
-  from_user: NEWZOF
-  id: 857761992
+  created_at: Tue, 15 Jul 2008 16:11:36 +0000
+  from_user: bbcme
+  id: 859124747
   language: en
-  text: "[Photos] http://tinyurl.com/6xjg27 Obama: a shrewd opportunist, and hardly the first"
+  text: "Obama vows to end US role in Iraq: Senator Barack Obama pledges to end the Iraq was as it was distracting t.. http://tinyurl.com/6qmkeq"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:51:56 +0000
-  from_user: jeremiahk
-  id: 857761871
+  created_at: Tue, 15 Jul 2008 16:10:35 +0000
+  from_user: politicalwire
+  id: 859123820
   language: en
-  text: "Obama had the following for breakfast on Saturday: 1 pc bacon -crispy, sm. bowl of oatmeal with brown sugar and raisins on the side, sm. OJ."
+  text: "Quinnipiac: Obama Opens Lead Nationally: \"With commanding leads among women and young voters and ne.. http://tinyurl.com/6kq4qw"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:51:01 +0000
-  from_user: LeslieSanchez
-  id: 857761440
+  created_at: Tue, 15 Jul 2008 16:10:29 +0000
+  from_user: MorningJoe
+  id: 859123729
   language: en
-  text: "@ outdoor cafe w CNN's Suzanne Malveaux celebrating her exclusive int. w Obama. I'm telling her about shark fin I saw while surfing!"
+  text: "Video: Obama's agenda goes beyond the N.A.A.C.P: July 15: Barack Obama's senior strategist Robert Gibb.. http://tinyurl.com/5d3vbj"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:50:51 +0000
-  from_user: digg_biz
-  id: 857761358
+  created_at: Tue, 15 Jul 2008 16:10:28 +0000
+  from_user: MorningJoe
+  id: 859123705
   language: en
-  text: "New Yorker Cover: \"Muslim\" Obama With Gun-Slinging Michelle: The upcoming issue of the New Yorker, the J.. http://tinyurl.com/6kwjjz"
+  text: "Video: McCain must hit Obama's weak points: July 15: MSNBC analyst Mike Murphy discusses how Barack Ob.. http://tinyurl.com/6crhtn"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:50:34 +0000
-  from_user: orbitz
-  id: 857761238
+  created_at: Tue, 15 Jul 2008 16:09:27 +0000
+  from_user: twittfeed
+  id: 859122775
   language: en
-  text: memeorandum Barry Blitt Defends His New Yorker Cover Art Of Obama (Nico Pitney/The Huffington P.. http://tinyurl.com/5z5ms4
+  text: "Reuters Top News U.S. should use all tools to pressure Iran: Obama: WASHINGTON (Reuters.. http://tinyurl.com/6o76w7"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:50:19 +0000
-  from_user: tweelings_en
-  id: 857761126
+  created_at: Tue, 15 Jul 2008 16:08:46 +0000
+  from_user: openleft
+  id: 859122086
   language: en
-  text: LOVE> "i love wilco" - barack obama http://tinyurl.com/6ovneg
+  text: "New on openleft.com: Opening the Day: Obama's Iraq Speech, McCain Calls for Surge in.. http://tinyurl.com/5w7ukk"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:49:55 +0000
-  from_user: natecha
-  id: 857760897
+  created_at: Tue, 15 Jul 2008 16:06:43 +0000
+  from_user: CurtJester
+  id: 859120140
   language: en
-  text: "\"i love wilco\" - barack obama"
+  text: "\xE2\x80\x98Marriage, it doesn\xE2\x80\x99t mean anything, it\xE2\x80\x99s really how you feel.\xE2\x80\x99 - Obama  http://ping.fm/bDDNE"
 results_per_page: 15
 since_id: 0

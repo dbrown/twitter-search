@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857751872
-next_page: ?page=2&max_id=857751872&q=traffic+%3F
+max_id: 859125670
+next_page: ?page=2&max_id=859125670&q=traffic+%3F
 page: 1
 query: traffic ?
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:31:13 +0000
-  from_user: gasmileage
-  id: 857751872
+  created_at: Tue, 15 Jul 2008 16:12:32 +0000
+  from_user: tortenboden
+  id: 859125670
   language: en
-  text: "Study: Gas cost high, traffic fatalities low - Today's .. http://www.nj.com/news/sunbeam/index.ssf?/base/news-4/1216010427190810.xml&coll=9"
+  text: getting angry. yiphone release was a fake ? the counter now in the minus and currently i can't get on the page (probably the traffic)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:19:14 +0000
-  from_user: twilightfairy
-  id: 857746025
+  created_at: Tue, 15 Jul 2008 16:02:20 +0000
+  from_user: geechee_girl
+  id: 859115810
   language: en
-  text: why is there so much traffic today in ncr? everyone i talk to is stuck in some mess. i came across several diversions in CP as well.
+  text: Navigon 5100 with real traffic or Dash GPS? Thoughts? Recommendations?
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:18:43 +0000
-  from_user: twilightfairy
-  id: 857745720
+  created_at: Tue, 15 Jul 2008 15:26:17 +0000
+  from_user: bitpakkit
+  id: 859081577
   language: en
-  text: why is there so much traffic today in ncr? everyone i talk to is stuck in some mess. i came across several diversions in CP as well.
+  text: "@guykawasaki Thats awesome!  Congratulations!  Would you share or do you know how much traffic you generated outbound?"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:24:33 +0000
-  from_user: ddipaolo
-  id: 857717372
+  created_at: Tue, 15 Jul 2008 15:25:13 +0000
+  from_user: nikki_d
+  id: 859080543
   language: en
-  text: Wow, Google Maps can do non-live traffic?  You give it a day/time and it shows projected traffic.  Nice!
+  text: Why is traffic bumper to bumper???
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:22:31 +0000
-  from_user: emmapop
-  id: 857716259
+  created_at: Tue, 15 Jul 2008 15:18:50 +0000
+  from_user: jhigginbotham
+  id: 859074195
   language: en
-  text: why is there traffic on the kennedy now?! slow enough for me to type this
+  text: Anyone know of a mirror site for Dr. Horrible? It seems to be down due to too much traffic
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:22:12 +0000
-  from_user: mafia_boyz
-  id: 857716076
-  language: en
-  text: "@LB is the traffic still bad within kl?"
+  created_at: Tue, 15 Jul 2008 15:11:24 +0000
+  from_user: bstumpel
+  id: 859067462
+  language: nl
+  text: Zou 't domheid zijn, slordigheid, of inhaligheid? Kpnvandaag is t.o.v. Planet al 2/3e (180.000 bezoekers per dag) van z'n traffic kwijt.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:00:34 +0000
-  from_user: GeekMommy
-  id: 857703981
+  created_at: Tue, 15 Jul 2008 15:10:04 +0000
+  from_user: ianinthetubes
+  id: 859066150
   language: en
-  text: "@chrisbrogan - speaking of which - can we get in an argument soon? I need to up my traffic! ;) (only kidding - I'd need content first! lol)"
+  text: http://twitpic.com/4676 - good to be behind in a traffic jam? (ps follow me)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:36:22 +0000
-  from_user: Lynnae
-  id: 857689589
+  created_at: Tue, 15 Jul 2008 15:10:03 +0000
+  from_user: preneur
+  id: 859066109
   language: en
-  text: "@kingdomfirstmom Congrats on the high traffic day!  And frugal mom bloggers?  I'm in!  :)"
+  text: John Reese is just about to open the doors on his Traffic Secrets 2.0 - Will he do more then $1mil this time ? http://twurl.nl/6g8aqf
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:34:03 +0000
-  from_user: nicktherick
-  id: 857688274
+  created_at: Tue, 15 Jul 2008 15:09:28 +0000
+  from_user: gbirkner
+  id: 859065548
   language: en
-  text: what is with this traffic!?!
+  text: Everyone is emailing me today to buy Traffic Secrets 2.0 from their affiliate link. Not sure who to buy from to get the best bonus?
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:13:52 +0000
-  from_user: playworkplay
-  id: 857676332
+  created_at: Tue, 15 Jul 2008 15:05:16 +0000
+  from_user: ccnetworks
+  id: 859061500
   language: en
-  text: Could it be that Jakarta's traffic reflects Indonesian websites traffic? Happens on mine. If it's true, more traffic jam down there plz!
+  text: Wondering how much John Reese will make today on the launch of Traffic Secrets 2.0? Will he beat the 1st day launch of TS1?
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:18:07 +0000
-  from_user: 99luftaballoons
-  id: 857641534
+  created_at: Tue, 15 Jul 2008 14:56:33 +0000
+  from_user: scottcolby
+  id: 859053002
   language: en
-  text: Stuck in traffic on I-35.  2 out of 3 lanes closed. Is it really nexessary @ $4 gas?
+  text: Anyone here buying Traffic Secrets 2.0 in an hour?
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:57:14 +0000
-  from_user: trbdigital
-  id: 857628892
+  created_at: Tue, 15 Jul 2008 14:53:35 +0000
+  from_user: andrewraff
+  id: 859049902
   language: en
-  text: How much do you think John Reese Traffic 2.0 will cost?  Anyone know?
+  text: Do traffic cops realize that they usually make traffic worse by directing traffic and ignoring the flow of the traffic lights?
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:18:45 +0000
-  from_user: aubreys_friend
-  id: 857605168
+  created_at: Tue, 15 Jul 2008 14:50:26 +0000
+  from_user: tina
+  id: 859046345
   language: en
-  text: I say be on the road by 3 so I will pick u up at 245ish. Is that cool? That gives 2 hrs for traffic, but with my txtag we can take toll.
+  text: what the hell...did everyone in sacramento car pool and ride public transportation for just last week? traffic is a bitch this morning.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 01:13:12 +0000
-  from_user: ABestWeb
-  id: 857601864
+  created_at: Tue, 15 Jul 2008 14:40:13 +0000
+  from_user: DonnaFox
+  id: 859044983
   language: en
-  text: "Posting Links Affect your Rep ?.....: Hi I have read that posting links back can help your sites traffic.. http://tinyurl.com/68osa6"
+  text: "@elizabethpw Shoot, is the traffic secrets launch today?  I never mailed for it... I really need to hire another assistant!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 00:55:33 +0000
-  from_user: ryanberg
-  id: 857591466
+  created_at: Tue, 15 Jul 2008 14:37:59 +0000
+  from_user: lindastacy
+  id: 859042945
   language: en
-  text: "@cmm1869 How bad is the left turn into Gallaher View from Walker's Crossing during high-traffic times?"
+  text: "@lynnterry I'm assuming today's webinar will be very useful even for those who aren't going to buy Traffic Secrets 2.0? http://is.gd/EM7"
 results_per_page: 15
 since_id: 0

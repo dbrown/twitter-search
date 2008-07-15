@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857755555
-next_page: ?page=2&max_id=857755555&q=movie+-scary+%3A%29
+max_id: 859121947
+next_page: ?page=2&max_id=859121947&q=movie+-scary+%3A%29
 page: 1
 query: movie -scary :)
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:38:45 +0000
-  from_user: bettycaves
-  id: 857755555
+  created_at: Tue, 15 Jul 2008 16:08:37 +0000
+  from_user: sweetluna
+  id: 859121947
   language: en
-  text: wanted was a good movie! ok, goodnight now :)
+  text: Taking the girls to a summer kids movie :-)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:24:31 +0000
-  from_user: Lancent
-  id: 857748756
+  created_at: Tue, 15 Jul 2008 15:58:28 +0000
+  from_user: kcstl
+  id: 859112220
   language: en
-  text: About to watch Superhero Movie. :D
+  text: For those of you unfamiliar with the Hooch & DaddyO movie, our friend droob is a major character in it. :-)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:11:22 +0000
-  from_user: wendemm
-  id: 857742147
+  created_at: Tue, 15 Jul 2008 15:22:05 +0000
+  from_user: obimeowz
+  id: 859077510
   language: en
-  text: "@markcol  yeah, it sucked huh?  you know what would cheer you up?  seeing Iron Man, the best movie of all time. :D"
+  text: "@hellokimmy awesome movie :)"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:01:48 +0000
-  from_user: omkarnath
-  id: 857737203
+  created_at: Tue, 15 Jul 2008 14:58:11 +0000
+  from_user: chrisspera
+  id: 859054555
   language: en
-  text: me leaving for a movie :D
+  text: work, work, work, work-work (hello boys, I missed you!) Name the movie... :)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:48:11 +0000
-  from_user: aprilholle
-  id: 857730128
+  created_at: Tue, 15 Jul 2008 14:51:40 +0000
+  from_user: MommaTeena
+  id: 859047871
   language: en
-  text: "@Hildebrant loved that movie, even though I didn't know it was going to be a musical when I saw it :D"
+  text: I posted the movie to youtube - check your email when you go on break :)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:39:30 +0000
-  from_user: Tsoniki
-  id: 857725509
+  created_at: Tue, 15 Jul 2008 13:55:30 +0000
+  from_user: Ralphthenacho
+  id: 859003955
   language: en
-  text: Okay I do like this movie :)
+  text: The Max Payne movie trailer looks good, hopefully they don't screw it up :)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:21:02 +0000
-  from_user: longhornkate
-  id: 857715451
-  language: "no"
-  text: "@kristyann enjoy a movie for me. I'm in bed reading organizational behavior :)"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:16:00 +0000
-  from_user: naive_wanderer
-  id: 857712453
+  created_at: Tue, 15 Jul 2008 13:46:28 +0000
+  from_user: ArikaL
+  id: 858995863
   language: en
-  text: Ready to make the most of the rest of the summer, dammit! Also, excited about being in a movie, even as a small role. :D
+  text: "@imsweetie - it's cute! :) @tishialee - I still haven't managed to stay awake to see the whole movie yet! LOL"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:13:57 +0000
-  from_user: pyknosis
-  id: 857711322
+  created_at: Tue, 15 Jul 2008 12:58:48 +0000
+  from_user: mrmartinsclass
+  id: 858956406
   language: en
-  text: "@atow Haven't seen it yet, so I had the same thought as @echeng. Can't say I'm surprised a G-rated movie ended happily, though. :)"
+  text: http://tinyurl.com/5b4cms  BoomDeAhDer movie!! :)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:09:05 +0000
-  from_user: Nikki77
-  id: 857708687
+  created_at: Tue, 15 Jul 2008 12:42:27 +0000
+  from_user: rmbyrne
+  id: 858944075
   language: en
-  text: sitting at home....tired...but can't sleep...maybe i'll fal asleep watching a movie. =)
+  text: The Josh Hamilton home run derby show last night was amazing. I wonder if anyone's contacted Robert Redford to play him in the movie :)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:50:48 +0000
-  from_user: tf5_bassist
-  id: 857698292
-  language: it
-  text: "@xtalcase i looove Princess Bride.  Amazing movie.  :)"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:43:59 +0000
-  from_user: AfterLifeComics
-  id: 857694013
+  created_at: Tue, 15 Jul 2008 11:19:35 +0000
+  from_user: ravichandra_n
+  id: 858892104
   language: en
-  text: "@zoxide make a count down to the avengers movie in 2011! lol :D"
+  text: Weekday movie in Bangalore 120 bucks. The pleasure of watching a movie during office hours, PRICELESS! :D
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:22:44 +0000
-  from_user: maclau
-  id: 857681516
+  created_at: Tue, 15 Jul 2008 11:07:18 +0000
+  from_user: u_kishore
+  id: 858885904
   language: en
-  text: ahhh Family Man... wonderful movie hahaha so hilarious :D
+  text: Saroja songs are good but i m afraid the movie is not a tamil movie :)
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:13:50 +0000
-  from_user: CBarraford
-  id: 857676313
+  created_at: Tue, 15 Jul 2008 09:24:56 +0000
+  from_user: gsmbk
+  id: 858835019
   language: en
-  text: "@buckshottz the show was awesome. I got the movie coming on Bly-ray :)"
+  text: "@Yogi_Gio 2ed Movie is done :) Thanks for last night tour :) I really enjoyed it :) We should do that more often man :)"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 02:57:20 +0000
-  from_user: bluestbutterfly
-  id: 857666076
+  created_at: Tue, 15 Jul 2008 08:30:42 +0000
+  from_user: tinamats
+  id: 858808985
   language: en
-  text: Trying to decide what movie to watch tonight. :-)
+  text: I just got a gift from my Townhall committee head - a nifty notebook and a movie ticket. awww. dinner in a few! :)
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 08:00:28 +0000
+  from_user: brunovg
+  id: 858794647
+  language: en
+  text: "@uprisenuplift do you like Black Jack? I love this movie: High Fidelity =) http://twitpic.com/45f8"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 07:52:33 +0000
+  from_user: BlissOfBeing
+  id: 858790849
+  language: en
+  text: "@rckstrscott I'm american, just in Hawaii! :) why don't you watch an itunes movie?"
 results_per_page: 15
 since_id: 0

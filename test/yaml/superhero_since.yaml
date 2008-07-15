@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857758301
-next_page: ?page=2&max_id=857758301&q=superhero+since%3A2008-05-01
+max_id: 859085148
+next_page: ?page=2&max_id=859085148&q=superhero+since%3A2008-05-01
 page: 1
 query: superhero since:2008-05-01
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:44:39 +0000
-  from_user: karthiksn
-  id: 857758301
+  created_at: Tue, 15 Jul 2008 15:30:12 +0000
+  from_user: RichLovatt
+  id: 859085148
   language: en
-  text: "@aditya he is a hero since he helps people. And since he does it without looking for recognition makes him a superhero."
+  text: "@cyberpilate Being woodenest actor alive playing bendiest superhero? Hadn't thought of that! :)"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:42:55 +0000
-  from_user: aditya
-  id: 857757509
+  created_at: Tue, 15 Jul 2008 15:01:49 +0000
+  from_user: jonk
+  id: 859058087
   language: en
-  text: "@karthiksn Zorro? Can he be even counted as a superhero? He's like Robin Hood ... they do good n' all, but heroes?"
+  text: sleepy, reading about dark knight. not sure what possessed me to get tix for thursday's screening...superhero movies scare me!
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:24:31 +0000
-  from_user: Lancent
-  id: 857748756
+  created_at: Tue, 15 Jul 2008 14:37:13 +0000
+  from_user: s_carolinaBNN
+  id: 859042262
   language: en
-  text: About to watch Superhero Movie. :D
+  text: "Rev. BigDumbChimp: A good night for Atheists: Well Josh Hamilton isn't the superhero for Christ tha.. http://tinyurl.com/6ma363"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:56:14 +0000
-  from_user: travelpod
-  id: 857734397
+  created_at: Tue, 15 Jul 2008 14:24:49 +0000
+  from_user: JaeRobinson
+  id: 859030711
+  language: de
+  text: Watchin Superhero Movie. . .
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 13:31:03 +0000
+  from_user: dariomanoukian
+  id: 858982672
   language: en
-  text: "Superhero Party in Cavanbah Street - Byron Bay, New South Wales, Australia: Superhero Party http://tinyurl.com/5zxdex"
+  text: "@JimMcCann How about \"Calling out for a hero\" for the superhero fashion show?"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:53:13 +0000
-  from_user: Ponoko
-  id: 857732776
+  created_at: Tue, 15 Jul 2008 13:29:27 +0000
+  from_user: new_jerseyBNN
+  id: 858981315
   language: en
-  text: "Showroom: Pow! Pendant: Summer and superhero movies seem to be a natural pairing these days... wh.. http://tinyurl.com/6gvfew"
+  text: "Rob Tornoe: Tom Toles: Superhero artist?: Go check it out here. [...] http://tinyurl.com/67utgq"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:50:14 +0000
-  from_user: TechRSS
-  id: 857731278
+  created_at: Tue, 15 Jul 2008 13:11:16 +0000
+  from_user: planetgeek
+  id: 858966190
+  language: es
+  text: "Glob-PT: Perdeu o telem\xC3\xB3vel? Mobile Superhero encontra-o! http://tinyurl.com/67yrct"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 13:04:43 +0000
+  from_user: cinematical
+  id: 858961040
   language: en
-  text: "A Comic Book Superhero Is Headed to Small Screens: The animated adventures of the comic book superhero In.. http://tinyurl.com/5vqh3x"
+  text: "A Weird Full Trailer for 'The Spirit': Filed under: Lionsgate Films, Comic/Superhero/Geek, Trailers a.. http://tinyurl.com/5rwc24"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:42:51 +0000
-  from_user: TWiG
-  id: 857727185
+  created_at: Tue, 15 Jul 2008 12:55:52 +0000
+  from_user: mooosh
+  id: 858954162
   language: en
-  text: "@TeeMonster - i have been seeing many Superhero/Transformer xovers. my son got a couple toys of them for his Bday. http://tinyurl.com/66f6po"
+  text: REALLY tired of unemployment. Considering responding to ad for "superhero's sidekick required"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:39:36 +0000
-  from_user: unclebear
-  id: 857725560
-  language: en
-  text: "Apocalypto: a sort of pre-Columbian superhero movie."
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:25:45 +0000
-  from_user: 05BrandonMay13
-  id: 857718017
-  language: en
-  text: Rented Strange Wilderness, Superhero Movie,and Drillbit Taylor. Fun!
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:20:41 +0000
-  from_user: dogboi
-  id: 857715247
-  language: en
-  text: "@nard Any other superhero except Hellboy = Lame (IMO)  :p"
-- !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:15:06 +0000
-  from_user: marynificent
-  id: 857711911
+  created_at: Tue, 15 Jul 2008 12:52:33 +0000
+  from_user: RobTornoe
+  id: 858951630
   language: eo
-  text: "@bre happy birthday, superhero man!"
+  text: "Tom Toles: Superhero artist? http://tinyurl.com/6pkbb9"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:08:28 +0000
-  from_user: keithSTUH
-  id: 857708356
+  created_at: Tue, 15 Jul 2008 12:43:11 +0000
+  from_user: superheroesRus
+  id: 858944559
   language: en
-  text: "@Sharumpe Carol and I saw Handcok last night too. I liked it until the girl was also a superhero."
+  text: http://snurl.com/2ywz0 - Superhero themed episode of The Simpsons written by Seth Rogen
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:07:10 +0000
-  from_user: keithSTUH
-  id: 857707660
+  created_at: Tue, 15 Jul 2008 12:30:13 +0000
+  from_user: DreamPunk
+  id: 858935008
   language: en
-  text: "@Sharumpe Carol and I saw Handcok last night too. I liked it until the girl was also a superhero."
+  text: Ebert is saying Dark Knight is the best superhero movie ever made.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:54:54 +0000
-  from_user: techwatch
-  id: 857700545
+  created_at: Tue, 15 Jul 2008 12:22:40 +0000
+  from_user: Rumpusgoopus
+  id: 858929972
   language: en
-  text: "NY Times Tech: A Comic Book Superhero Is Headed to Small Screens: The animated adventures.. http://tinyurl.com/5vqh3x"
+  text: I'm beginning to think that the term "Superhero Movie" is becoming redundant.
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 03:54:11 +0000
-  from_user: btmeacham
-  id: 857700131
+  created_at: Tue, 15 Jul 2008 11:35:45 +0000
+  from_user: movieboxdaily
+  id: 858900900
   language: en
-  text: Anyone notice that two of 2008's biggest superhero movies (Iron Man, Hancock) feature art by Ed Ruscha? What gives? Any word on Hellboy II?
+  text: "New source found: Superhero Movie - DivX ( http://tinyurl.com/5pcwqe )"
+- !ruby/object:Summize::Tweet 
+  created_at: Tue, 15 Jul 2008 11:18:07 +0000
+  from_user: witchiepoo
+  id: 858891366
+  language: en
+  text: "@tinystrings ok, you have convinced me. just read a shitload of reviews and now it has been ordered. You really are a superhero."
 results_per_page: 15
 since_id: 800791688

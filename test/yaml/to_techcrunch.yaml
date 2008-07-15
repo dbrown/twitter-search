@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857708460
-next_page: ?page=2&max_id=857708460&q=to%3Atechcrunch
+max_id: 859082556
+next_page: ?page=2&max_id=859082556&q=to%3Atechcrunch
 page: 1
 query: to:techcrunch
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:08:41 +0000
-  from_user: choref81
-  id: 857708460
+  created_at: Tue, 15 Jul 2008 15:27:21 +0000
+  from_user: mterenzio
+  id: 859082556
   language: en
-  text: "@TechCrunch Cool. Twitter on iphone uses gps for locationr"
+  text: "@techcrunch there is a bug on crunchbase - when filtering on the status of companies, I only get companies starting with the letter A"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 22:48:55 +0000
-  from_user: comster404
-  id: 857522692
+  created_at: Tue, 15 Jul 2008 12:39:11 +0000
+  from_user: robdiana
+  id: 858941762
   language: en
-  text: "@TechCrunch what a joke"
+  text: "@TechCrunch I believe journalists call this the tease."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:09:07 +0000
-  from_user: davemc500hats
-  id: 857404955
+  created_at: Tue, 15 Jul 2008 12:36:04 +0000
+  from_user: chipro
+  id: 858939302
   language: en
-  text: "@TechCrunch: \"If some new technology or service changes behavior, it's possible that something like Commerce could change Goog's dominance\""
+  text: "@TechCrunch Any hint?"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:01:19 +0000
-  from_user: davemc500hats
-  id: 857400840
+  created_at: Tue, 15 Jul 2008 12:34:20 +0000
+  from_user: ShannonPalmer
+  id: 858938035
   language: en
-  text: "@TechCrunch (in response to Firefox defaulting to Google for search): \"We all know the power of the Default\" [setting]"
+  text: "@TechCrunch - Well that's just a tease!"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 19:00:22 +0000
-  from_user: davemc500hats
-  id: 857400331
+  created_at: Tue, 15 Jul 2008 12:18:17 +0000
+  from_user: rajivdingra
+  id: 858927086
   language: en
-  text: "@TechCrunch: \"Apps are moving towards FREE... Google is setting the price\" (and thus MSFT core revenue streams under pressure)"
+  text: "@TechCrunch are you selling out to AOL for 30 million??"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:53:02 +0000
-  from_user: davemc500hats
-  id: 857396256
+  created_at: Tue, 15 Jul 2008 12:14:41 +0000
+  from_user: youbundle
+  id: 858924753
   language: en
-  text: "@TechCrunch: \"when you (@TimOReilly) talk about the Internet Operating System, i'm not sure what the hell you're talking about...\""
+  text: "@TechCrunch sounds like somebody bought somebody."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:51:59 +0000
-  from_user: davemc500hats
-  id: 857395725
+  created_at: Tue, 15 Jul 2008 11:58:21 +0000
+  from_user: cre8tn
+  id: 858914250
   language: en
-  text: "@TechCrunch: \"Most of the money on the Internet is coming from commerce-related transactions (thru Search)\""
+  text: "@TechCrunch why not release it real time."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:46:32 +0000
-  from_user: davemc500hats
-  id: 857392417
+  created_at: Tue, 15 Jul 2008 11:49:38 +0000
+  from_user: ebusta
+  id: 858908901
   language: en
-  text: "@TechCrunch & @TimOReilly both agreeing that GPS is really important service that has big potential"
+  text: "@TechCrunch Give us a hint. Cupertino or Mountain View?"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:43:47 +0000
-  from_user: davemc500hats
-  id: 857391047
+  created_at: Tue, 15 Jul 2008 11:36:14 +0000
+  from_user: gkaindl
+  id: 858901220
   language: en
-  text: "@TechCrunch: \"however, Microsoft isn't that animal anymore... they're a CAGED TIGER\"."
+  text: "@techcrunch http://bit.ly/2dhO9M so much about MobileMe being fully up! please consider writing about it to let Apple know that people care."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:43:25 +0000
-  from_user: davemc500hats
-  id: 857390831
+  created_at: Tue, 15 Jul 2008 07:58:58 +0000
+  from_user: agfhome
+  id: 858793863
   language: en
-  text: "@TechCrunch reminiscing about being an attorney for Netscape, negotiating against Microsoft... how he hated them viscerally, however..."
+  text: "@TechCrunch I'm surprised it took you this long after the NYT article to bring it up."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:40:54 +0000
-  from_user: davemc500hats
-  id: 857389518
+  created_at: Tue, 15 Jul 2008 07:55:12 +0000
+  from_user: vinodhn
+  id: 858792130
   language: en
-  text: "@TechCrunch: \"Even if you're right, i'm still right\""
+  text: "@techcrunch this is interesting stuff... waiting to see comments.. :)"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:36:00 +0000
-  from_user: davemc500hats
-  id: 857386789
+  created_at: Tue, 15 Jul 2008 07:35:57 +0000
+  from_user: Jimconnolly
+  id: 858782797
   language: en
-  text: "@TechCrunch: \"has large concern that because of Google's dominant (monopoly?) position in search, no competitive M&A deals happening...\""
+  text: "@TechCrunch That Tweet to @Scobleizer was brutal!"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:35:21 +0000
-  from_user: davemc500hats
-  id: 857386398
+  created_at: Tue, 15 Jul 2008 07:27:56 +0000
+  from_user: patphelan
+  id: 858778916
   language: en
-  text: "@TechCrunch: \"i would guess 80% of search revenue go through Google... they can always beat any deal due to 3x+ amount of revenue\""
+  text: "@TechCrunch hehehe, another non reader"
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:34:59 +0000
-  from_user: jyri
-  id: 857386164
+  created_at: Tue, 15 Jul 2008 07:04:59 +0000
+  from_user: Scobleizer
+  id: 858768134
   language: en
-  text: "@TechCrunch \"No venture-backed company is able to do to Google today what Google did to everyone else\""
+  text: "@techcrunch where's your iPhone app report? Might wanna watch some of these: http://tinyurl.com/6xa8h9 -- I'd love to help u review apps."
 - !ruby/object:Summize::Tweet 
-  created_at: Sun, 13 Jul 2008 18:34:58 +0000
-  from_user: marshallk
-  id: 857386162
+  created_at: Tue, 15 Jul 2008 05:34:28 +0000
+  from_user: bitcloud
+  id: 858723606
   language: en
-  text: "@techcrunch sez indexing expense so great that startups cant challenge google, but what about yahoo boss?"
+  text: "@TechCrunch how about \"Google/Viacom agree that it's not their data to give\""
 results_per_page: 15
 since_id: 0

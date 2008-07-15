@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.homepage         = "http://github.com/dancroak/ruby-summize"
   s.description      = "A Ruby client for the Summize conversational search engine."
   s.has_rdoc         = true
-  s.authors          = ["Dustin Sallings"]
+  s.authors          = ["Dustin Sallings", "Dan Croak"]
   s.files            = ["README.markdown", "ruby-summize.gemspec", "lib/summize.rb"]
   s.rdoc_options     = ["--main", "README.markdown"]
   s.extra_rdoc_files = ["README.markdown"]

@@ -1,98 +1,98 @@
 --- !ruby/object:Summize::Tweets 
-max_id: 857762701
-next_page: ?page=2&max_id=857762701&q=congratulations
+max_id: 859127178
+next_page: ?page=2&max_id=859127178&q=congratulations
 page: 1
 query: congratulations
 results: 
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:53:47 +0000
-  from_user: cneil
-  id: 857762701
+  created_at: Tue, 15 Jul 2008 16:14:05 +0000
+  from_user: ppmartin
+  id: 859127178
   language: en
-  text: "@davienne Thanks for following! Congratulations on getting your blog in the press."
+  text: "The oldest blogger - RIP: Congratulations and farewell to Ms. Olive Riley, who blogged until the respect.. http://twurl.nl/oukvkn"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:51:24 +0000
-  from_user: deafmom
-  id: 857761639
+  created_at: Tue, 15 Jul 2008 16:12:20 +0000
+  from_user: aliceqfoodie
+  id: 859125461
   language: en
-  text: "@glendawh Congratulations"
+  text: "@jedsundwall congratulations!!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:49:23 +0000
-  from_user: askleo
-  id: 857760666
+  created_at: Tue, 15 Jul 2008 16:11:23 +0000
+  from_user: joshlewis
+  id: 859124544
   language: en
-  text: "@jerroldfoutz Congratulations! Once again, you set an example for the rest of us. :-)"
+  text: "@dankeen I didn't even know you were engaged! Congratulations!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:46:51 +0000
-  from_user: cbowns
-  id: 857759421
+  created_at: Tue, 15 Jul 2008 16:10:57 +0000
+  from_user: dpillie
+  id: 859124126
   language: en
-  text: "@dsandler Congratulations! I'll bet erinmak is happy the little bugger finally decided to pop out."
+  text: "@joshgillespie Congratulations Josh!  What is the due date?"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:32:58 +0000
-  from_user: ShawnLA
-  id: 857752690
+  created_at: Tue, 15 Jul 2008 16:10:43 +0000
+  from_user: dougbecker
+  id: 859123930
   language: en
-  text: "@fonticulus Congratulations!  I have been sending good luck thoughts your way all day, so that is excellent news!"
+  text: "@jack That's fantastic news! I'm a Twitter noob but think this is a great move. Congratulations."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:15:16 +0000
-  from_user: justsomeguy
-  id: 857744045
+  created_at: Tue, 15 Jul 2008 16:09:31 +0000
+  from_user: evantravers
+  id: 859122825
   language: en
-  text: "@dsandler CONGRATULATIONS to you, Erin, and the new addition!!"
+  text: "@ev Congratulations. That's a great move on your part. It's darn fast too. Consider pownce and jaiku trashed."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:10:18 +0000
-  from_user: ritasim
-  id: 857741618
+  created_at: Tue, 15 Jul 2008 16:09:24 +0000
+  from_user: ianmcall
+  id: 859122725
   language: en
-  text: "@ LLy Congratulations. My present would be Mentoring Coupons; Valid When I am there [whenever it would be]."
+  text: "@jack: Congratulations on Summize, sounds like a great fit. Looking forward to new and as-yet-unimagined ways to view Twitter activity."
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:06:14 +0000
-  from_user: rynosoft
-  id: 857739551
+  created_at: Tue, 15 Jul 2008 16:05:14 +0000
+  from_user: whitneymcn
+  id: 859118663
   language: en
-  text: Congratulations to my Synapticats friends! http://tinyurl.com/6sxlgb
+  text: "@aweissman Should we all act surprised? ;) Congratulations to all!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 05:05:28 +0000
-  from_user: Croaky
-  id: 857739171
+  created_at: Tue, 15 Jul 2008 16:05:11 +0000
+  from_user: nelson
+  id: 859118611
   language: en
-  text: "@ezmobius congratulations"
+  text: "Congratulations Twitter and Summize: http://tinyurl.com/56j2zx"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:53:40 +0000
-  from_user: pzriddle
-  id: 857733006
+  created_at: Tue, 15 Jul 2008 16:03:25 +0000
+  from_user: JoshAuerbach
+  id: 859116820
   language: en
-  text: "Congratulations to @dsandler and co-parental unit!  (Re: \"nsandler, born 7/13 @ 13:40 CDT with plenty of drama.\")"
+  text: Congratulations to my friends at Summize and Twitter on a great partnership -- http://tinyurl.com/56j2zx
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:44:15 +0000
-  from_user: williamsmith
-  id: 857727867
+  created_at: Tue, 15 Jul 2008 16:02:34 +0000
+  from_user: mmmalexandria
+  id: 859116017
   language: en
-  text: "@randomlywired Congratulations on your mac ;)"
+  text: "@albatrocity congratulations on your journey"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:37:15 +0000
-  from_user: kevinycp
-  id: 857724270
+  created_at: Tue, 15 Jul 2008 16:00:24 +0000
+  from_user: marc_dierens
+  id: 859114002
   language: en
-  text: "@super_flatfish congratulations then! What's all the sadness about?"
+  text: "@peterreiser Congratulations Peter, I'm very much looking forward to being a part of SunSpace, looks so interesting!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:21:39 +0000
-  from_user: Juuliev
-  id: 857715766
+  created_at: Tue, 15 Jul 2008 15:58:31 +0000
+  from_user: xtrahmxwohld
+  id: 859112273
   language: en
-  text: "@busteed You are amazing!  Congratulations!"
+  text: "@bhrome congratulations on your new home"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:11:17 +0000
-  from_user: Missmerlyn
-  id: 857709888
+  created_at: Tue, 15 Jul 2008 15:56:14 +0000
+  from_user: phatmunkay
+  id: 859110189
   language: en
-  text: "@shamahyder Congratulations new faculty member!"
+  text: "@bwaldron I'm with Scott Congratulations on Pollinate Media!  I'm sure it will be successful with you two at the helm!"
 - !ruby/object:Summize::Tweet 
-  created_at: Mon, 14 Jul 2008 04:07:46 +0000
-  from_user: antrover
-  id: 857708013
+  created_at: Tue, 15 Jul 2008 15:54:29 +0000
+  from_user: hafwit
+  id: 859108562
   language: en
-  text: "@warmyellowlight congratulations on diggin men again! :)"
+  text: "@rwaters73 7 minutes to go. Have a great time in St Louis! BTW Congratulations!"
 results_per_page: 15
-since_id: 851728586
+since_id: 852930295
