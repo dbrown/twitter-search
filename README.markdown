@@ -27,9 +27,8 @@ The String form uses the default Twitter Search behavior, which in this example 
 Use Twitter Search's query operators with the :q key to access the following behavior:
 
 <table>
-    <tr>
-        <th>Operator</th><th>Finds tweets...</th>
-    </tr>
+    <tr><th>Operator</th><th>Finds tweets...</th></tr>
+
     <tr>
         <td><a href="http://search.twitter.com/search?q=twitter+search">:q => 'twitter search'</a></td>
         <td>containing both "twitter" and "search". This is the default operator.</td>
