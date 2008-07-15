@@ -1,0 +1,9 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: -1
+next_page: 
+page: 1
+query: near:NYC within:15mi
+results: []
+
+results_per_page: 15
+since_id: 0

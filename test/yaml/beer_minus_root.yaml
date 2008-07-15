@@ -1,0 +1,98 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859137763
+next_page: ?page=2&max_id=859137763&q=beer+-root
+page: 1
+query: beer -root
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:24:30 +0000
+  from_user: McCainNewsLadr
+  id: 859137763
+  language: en
+  text: McCain's Campaign Being Funded by- Beer? [tweetburner error]
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:18 +0000
+  from_user: dweekly
+  id: 859136544
+  language: en
+  text: "En route to airport: a thousand little taquerias, sombreros, juice stands, and beer. Superb hospitality from my host Manuel. How to repay??"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:00 +0000
+  from_user: AngelaWilson
+  id: 859136234
+  language: en
+  text: "@LostinSweden So go out for burgers and fries and beer. Oh, onion rings are calling me today."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:22:33 +0000
+  from_user: pditoto
+  id: 859135804
+  language: en
+  text: Drinking beer on the beach illegaly. Makes it taste even better!
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:19:21 +0000
+  from_user: Fergal
+  id: 859132716
+  language: en
+  text: What's with all these blogs called "-slut"? Bookslut, Musicslut etc. Reminds me of that T-shirt "I'm A Chocoholic, But For Beer"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:18:32 +0000
+  from_user: elyl
+  id: 859131817
+  language: it
+  text: "luned\xC3\xAC sera ci sono anch'io alla kublai beer :)) http://tinyurl.com/5r5k3m"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:18:04 +0000
+  from_user: Tehsisiudai
+  id: 859131348
+  language: en
+  text: ": thinks he wants a mini fridge to store some beer."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:17:40 +0000
+  from_user: agillette
+  id: 859130920
+  language: fr
+  text: beer and bicycles and burritos ... not entirely advisable
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:17:30 +0000
+  from_user: Moer
+  id: 859130749
+  language: en
+  text: "[Videos] http://tinyurl.com/6r8e6l Anheuser-Busch is sold to beer giant in Belgium"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:17:00 +0000
+  from_user: jalex
+  id: 859130244
+  language: en
+  text: I'm in to mood for Frisbee and beer.  I no particular order.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:16:20 +0000
+  from_user: chriscroz
+  id: 859129560
+  language: en
+  text: too bad souf is sipping lattes in Paris or i'd buy him a beer at the irish pub around the corner after work
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:16:19 +0000
+  from_user: blacktar
+  id: 859129548
+  language: en
+  text: "@viskar Let me know the next time you're here and we'll have a K\xC3\xB6lsch (nice local CGN beer)."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:15:59 +0000
+  from_user: bact
+  id: 859129170
+  language: nl
+  text: http://twitpic.com/46ff - buddy beer
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:15:45 +0000
+  from_user: WebA
+  id: 859128902
+  language: en
+  text: "[Photos] http://tinyurl.com/6es8ag Anheuser-Busch is sold to beer giant in Belgium"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:14:42 +0000
+  from_user: GSSP
+  id: 859127808
+  language: en
+  text: "[News] http://tinyurl.com/5l78zn Anheuser-Busch is sold to beer giant in Belgium"
+results_per_page: 15
+since_id: 0

@@ -1,0 +1,98 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859132913
+next_page: ?page=2&max_id=859132913&q=flight+%3A%28
+page: 1
+query: flight :(
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:19:33 +0000
+  from_user: jeherv
+  id: 859132913
+  language: en
+  text: tracking megan's flight and annoyed at delta for making her an hour late :-(
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 11:30:48 +0000
+  from_user: sanfranmash
+  id: 858898056
+  language: en
+  text: "via @marcusnelson: On tram in MSP headed for gate, flight arrived early & sat on Tarmac for 20 minutes :("
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 11:30:33 +0000
+  from_user: marcusnelson
+  id: 858897917
+  language: en
+  text: On tram in MSP headed for gate, flight arrived early & sat on Tarmac for 20 minutes :(
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 09:09:39 +0000
+  from_user: ananyah
+  id: 858827652
+  language: en
+  text: "@CivilLizard hahaha by the time you book a flight and get there, I will be at home :P"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 06:58:22 +0000
+  from_user: evilasad
+  id: 858764843
+  language: en
+  text: almost home, just 24 hrs before I am on the flight again can't wait for the 15 hr flight :(
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 06:17:51 +0000
+  from_user: crossthebreeze
+  id: 858745227
+  language: en
+  text: 9 hour flight with Delta coming up :(
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 03:59:49 +0000
+  from_user: sean_mccarthy
+  id: 858661637
+  language: en
+  text: Missed my flight back to beautiful Colorado :-( Stuck at MCI for a while.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 00:22:51 +0000
+  from_user: robinyang
+  id: 858517712
+  language: en
+  text: "@nickchester whoo! safe flight! let us know when you're in, maybe we'll come crash your staff meeting :P"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 23:26:02 +0000
+  from_user: apriljayres
+  id: 858481792
+  language: en
+  text: Got here early only to find our flight delayed. Will miss our connection in los angeles. :-(
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 22:12:00 +0000
+  from_user: sean_mccarthy
+  id: 858431914
+  language: en
+  text: Missed my flight back to beautiful Colorado :-( Stuck at KCI airport for a while.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 20:06:17 +0000
+  from_user: robxmoran
+  id: 858338811
+  language: en
+  text: there are like 5 crying babies on my flight to Florida :-(
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 18:46:35 +0000
+  from_user: johntwimpg
+  id: 858274618
+  language: en
+  text: toronto - delayed flight, long day before I even arrived - :-(
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 15:09:37 +0000
+  from_user: pacotacomike
+  id: 858084258
+  language: en
+  text: Another flight delay ? Im not leaving for another two hours :( this sucks
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 14:50:07 +0000
+  from_user: SKANLEZ
+  id: 858066835
+  language: en
+  text: Flight back to San Francisco leaves in 4 hours. Leaving Miami :( had so much fun.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Mon, 14 Jul 2008 14:00:38 +0000
+  from_user: BalanceGirl
+  id: 858023584
+  language: en
+  text: "@SuburbanTurmoil I'm excited, but so not ready yet! So much to do, so little time! Not looking forward to my cross county flight though. :("
+results_per_page: 15
+since_id: 0

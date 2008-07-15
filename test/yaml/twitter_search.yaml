@@ -1,0 +1,98 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859140360
+next_page: ?page=2&max_id=859140360&q=twitter+search
+page: 1
+query: twitter search
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:27:00 +0000
+  from_user: phisite
+  id: 859140360
+  language: en
+  text: "#summize is now exclusive #twitter search. How can I search other microblogging services now?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:57 +0000
+  from_user: bridgetztalk
+  id: 859140298
+  language: en
+  text: "@randyjensen wow! you beat @techcrunch. Summize SE will be cool on Twitter.  Now, what about Brightkite?? http://search.twitter.com/"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:38 +0000
+  from_user: mazucon
+  id: 859139970
+  language: ja
+  text: "http://search.twitter.com/ \xE8\xB2\xB7\xE5\x8F\x8E\xE3\x81\x97\xE3\x81\x9F\xE3\x81\xAE\xE3\x81\xAD"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:31 +0000
+  from_user: JoeTheDough
+  id: 859139835
+  language: en
+  text: "getting in early on the backlash: search.twitter.com is piss-poor and a tool for robbers, rapists and rogues. So there."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:30 +0000
+  from_user: acton
+  id: 859139817
+  language: en
+  text: Summize + Twitter = big win.  http://search.twitter.com   the results page would look lovely with lots of contextual ads
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:29 +0000
+  from_user: shylie743
+  id: 859139787
+  language: en
+  text: "@moto62 I did a twitter search for whore. Neither of us are on the list! What is wrong with us, whore?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:27 +0000
+  from_user: briancors
+  id: 859139755
+  language: en
+  text: http://search.twitter.com | It may be time to start protecting entries.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:21 +0000
+  from_user: leerayl
+  id: 859139638
+  language: en
+  text: "Retweeting @TechCrunch: Confirmed: Twitter Acquires Summize Search Engine http://tinyurl.com/594su6"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:11 +0000
+  from_user: badthing
+  id: 859139465
+  language: en
+  text: Oooh love this new twitter search toy the good people at twitter have given us! http://search.twitter.com/
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:10 +0000
+  from_user: indiekid
+  id: 859139440
+  language: en
+  text: loving http://search.twitter.com !!! congrats to Twitter/Summize!
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:58 +0000
+  from_user: UTweet
+  id: 859139263
+  language: en
+  text: Twitter acquires Summize, your search dreams come true - http://search.twitter.com/
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:56 +0000
+  from_user: fuba
+  id: 859139238
+  language: ja
+  text: "twitter\xE3\x81\xAE\xE5\x85\xAC\xE5\xBC\x8F\xE6\xA4\x9C\xE7\xB4\xA2\xE3\x81\x99\xE3\x81\xB0\xE3\x82\x89\xE3\x81\x97\xE3\x81\x99\xE3\x81\x8E http://search.twitter.com/"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:53 +0000
+  from_user: mashable
+  id: 859139177
+  language: en
+  text: Twitter Acquires Summize; Launches Official Twitter Search ( http://tinyurl.com/6apprl )
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:51 +0000
+  from_user: garethvjones
+  id: 859139149
+  language: 
+  text: http://search.twitter.com/
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:48 +0000
+  from_user: Orli
+  id: 859139098
+  language: en
+  text: "\"We will be adding search and its related features to the core offering of Twitter in the very near future.\" YAY!"
+results_per_page: 15
+since_id: 0

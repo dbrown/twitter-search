@@ -1,0 +1,98 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859139242
+next_page: ?page=2&max_id=859139242&q=traffic+%3F
+page: 1
+query: traffic ?
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:57 +0000
+  from_user: vincesamios
+  id: 859139242
+  language: en
+  text: Heard of any Traffic Secrets 2.0 Bonuses? Already got most of them, so interested in any and all.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:19:28 +0000
+  from_user: dynobuoy
+  id: 859132830
+  language: en
+  text: "@Rajinder But Twitter traffic is more attractive than Jaiku, I think goog had something else before they bought blogger?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:17:59 +0000
+  from_user: DavidMaleney
+  id: 859131245
+  language: en
+  text: 912 people have reminded me Traffic Secrets is here. do i have the memory of a goldfish?
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:12:32 +0000
+  from_user: tortenboden
+  id: 859125670
+  language: en
+  text: getting angry. yiphone release was a fake ? the counter now in the minus and currently i can't get on the page (probably the traffic)
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:02:20 +0000
+  from_user: geechee_girl
+  id: 859115810
+  language: en
+  text: Navigon 5100 with real traffic or Dash GPS? Thoughts? Recommendations?
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:26:17 +0000
+  from_user: bitpakkit
+  id: 859081577
+  language: en
+  text: "@guykawasaki Thats awesome!  Congratulations!  Would you share or do you know how much traffic you generated outbound?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:25:13 +0000
+  from_user: nikki_d
+  id: 859080543
+  language: en
+  text: Why is traffic bumper to bumper???
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:18:50 +0000
+  from_user: jhigginbotham
+  id: 859074195
+  language: en
+  text: Anyone know of a mirror site for Dr. Horrible? It seems to be down due to too much traffic
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:11:24 +0000
+  from_user: bstumpel
+  id: 859067462
+  language: nl
+  text: Zou 't domheid zijn, slordigheid, of inhaligheid? Kpnvandaag is t.o.v. Planet al 2/3e (180.000 bezoekers per dag) van z'n traffic kwijt.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:10:04 +0000
+  from_user: ianinthetubes
+  id: 859066150
+  language: en
+  text: http://twitpic.com/4676 - good to be behind in a traffic jam? (ps follow me)
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:10:03 +0000
+  from_user: preneur
+  id: 859066109
+  language: en
+  text: John Reese is just about to open the doors on his Traffic Secrets 2.0 - Will he do more then $1mil this time ? http://twurl.nl/6g8aqf
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:09:28 +0000
+  from_user: gbirkner
+  id: 859065548
+  language: en
+  text: Everyone is emailing me today to buy Traffic Secrets 2.0 from their affiliate link. Not sure who to buy from to get the best bonus?
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:05:16 +0000
+  from_user: ccnetworks
+  id: 859061500
+  language: en
+  text: Wondering how much John Reese will make today on the launch of Traffic Secrets 2.0? Will he beat the 1st day launch of TS1?
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 14:56:33 +0000
+  from_user: scottcolby
+  id: 859053002
+  language: en
+  text: Anyone here buying Traffic Secrets 2.0 in an hour?
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 14:53:35 +0000
+  from_user: andrewraff
+  id: 859049902
+  language: en
+  text: Do traffic cops realize that they usually make traffic worse by directing traffic and ignoring the flow of the traffic lights?
+results_per_page: 15
+since_id: 0

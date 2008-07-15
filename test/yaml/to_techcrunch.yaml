@@ -1,0 +1,98 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859082556
+next_page: ?page=2&max_id=859082556&q=to%3Atechcrunch
+page: 1
+query: to:techcrunch
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 15:27:21 +0000
+  from_user: mterenzio
+  id: 859082556
+  language: en
+  text: "@techcrunch there is a bug on crunchbase - when filtering on the status of companies, I only get companies starting with the letter A"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 12:39:11 +0000
+  from_user: robdiana
+  id: 858941762
+  language: en
+  text: "@TechCrunch I believe journalists call this the tease."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 12:36:04 +0000
+  from_user: chipro
+  id: 858939302
+  language: en
+  text: "@TechCrunch Any hint?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 12:34:20 +0000
+  from_user: ShannonPalmer
+  id: 858938035
+  language: en
+  text: "@TechCrunch - Well that's just a tease!"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 12:18:17 +0000
+  from_user: rajivdingra
+  id: 858927086
+  language: en
+  text: "@TechCrunch are you selling out to AOL for 30 million??"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 12:14:41 +0000
+  from_user: youbundle
+  id: 858924753
+  language: en
+  text: "@TechCrunch sounds like somebody bought somebody."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 11:58:21 +0000
+  from_user: cre8tn
+  id: 858914250
+  language: en
+  text: "@TechCrunch why not release it real time."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 11:49:38 +0000
+  from_user: ebusta
+  id: 858908901
+  language: en
+  text: "@TechCrunch Give us a hint. Cupertino or Mountain View?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 11:36:14 +0000
+  from_user: gkaindl
+  id: 858901220
+  language: en
+  text: "@techcrunch http://bit.ly/2dhO9M so much about MobileMe being fully up! please consider writing about it to let Apple know that people care."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 07:58:58 +0000
+  from_user: agfhome
+  id: 858793863
+  language: en
+  text: "@TechCrunch I'm surprised it took you this long after the NYT article to bring it up."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 07:55:12 +0000
+  from_user: vinodhn
+  id: 858792130
+  language: en
+  text: "@techcrunch this is interesting stuff... waiting to see comments.. :)"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 07:35:57 +0000
+  from_user: Jimconnolly
+  id: 858782797
+  language: en
+  text: "@TechCrunch That Tweet to @Scobleizer was brutal!"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 07:27:56 +0000
+  from_user: patphelan
+  id: 858778916
+  language: en
+  text: "@TechCrunch hehehe, another non reader"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 07:04:59 +0000
+  from_user: Scobleizer
+  id: 858768134
+  language: en
+  text: "@techcrunch where's your iPhone app report? Might wanna watch some of these: http://tinyurl.com/6xa8h9 -- I'd love to help u review apps."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 05:34:28 +0000
+  from_user: bitcloud
+  id: 858723606
+  language: en
+  text: "@TechCrunch how about \"Google/Viacom agree that it's not their data to give\""
+results_per_page: 15
+since_id: 0

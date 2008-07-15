@@ -1,0 +1,98 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859139945
+next_page: ?page=2&max_id=859139945&q=Obama
+page: 1
+query: Obama
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:37 +0000
+  from_user: WSMV
+  id: 859139945
+  language: en
+  text: "From WSMV-TV: Obama: Iraq Distracts From Other Threats: Sen. Barack Obama says the United State.. http://tinyurl.com/68bhua"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:26 +0000
+  from_user: politifact
+  id: 859139723
+  language: en
+  text: "John McCain: Says Obama flip-flopped on warrantless wiretapping. http://tinyurl.com/5mpqem"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:19 +0000
+  from_user: theobamanews
+  id: 859139603
+  language: en
+  text: "Obama: Ia4ll Take the Fight to al-Qaeda | Politicususa: In a speech this morning at the Internationa.. http://tinyurl.com/5nt9yf"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:17 +0000
+  from_user: theobamanews
+  id: 859139554
+  language: en
+  text: "xpostfactoid: New kind of politics: Obama names his price: Ryan Lizza's reality-principled Obama bio.. http://tinyurl.com/5hnxt8"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:14 +0000
+  from_user: thehill
+  id: 859139514
+  language: en
+  text: "The Hill | Bush: Obama should listen to Crocker, Petraeus: President Bush on Tuesday had some a.. http://tinyurl.com/5e5ac4"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:26:04 +0000
+  from_user: NetworkPolitics
+  id: 859139341
+  language: en
+  text: "Republicans Want Report on Obama's Trip Abroad: ABC's Z. Byron Wolf Reports from Capitol Hill: Re.. http://tinyurl.com/5ejtql"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:59 +0000
+  from_user: magneda2
+  id: 859139272
+  language: en
+  text: "Reuters: U.S. should use all tools to pressure Iran: Obama: WASHINGTON (Reuters) - Democratic U... http://tinyurl.com/6o76w7"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:52 +0000
+  from_user: kepford
+  id: 859139155
+  language: en
+  text: Please explain to me why we "have" to win in Afghanistan but not in Iraq Mr. Obama. I must be confused.  http://urlenco.de/zhbym
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:25:03 +0000
+  from_user: topaffiliate1
+  id: 859138343
+  language: en
+  text: "Obama: Iraq distracting from every other threat - The Associated Press.. www.borrowvalley.info"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:24:38 +0000
+  from_user: Herne
+  id: 859137914
+  language: en
+  text: "From BBC News: Obama vows to end US role in Iraq ... http://tinyurl.com/6dppfu ... And take the war to Afghanistan? War is still war..."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:24:20 +0000
+  from_user: csuper163
+  id: 859137597
+  language: pl
+  text: "Obama speech on Iraq: http://news.bbc.co.uk/2/hi/americas/7507929.stm"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:27 +0000
+  from_user: badthing
+  id: 859136688
+  language: en
+  text: Hi Twittering Ones :) Obama will b interviewed by Larry King 2night. Check your local listings. I am looking forward to this.
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:20 +0000
+  from_user: freenews
+  id: 859136587
+  language: en
+  text: "BBC: Obama vows to end US role in Iraq: Senator Barack Obama pledges to end the Iraq war as it was d.. http://tinyurl.com/5v777p"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:20 +0000
+  from_user: chicagotribune
+  id: 859136574
+  language: en
+  text: "Obama says he will end the Iraq war: http://tinyurl.com/6y59tx"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:12 +0000
+  from_user: picsarch
+  id: 859136459
+  language: en
+  text: "BBC: Obama vows to end US role in Iraq: Senator Barack Obama pledges to end the Iraq war as it was distracting the US from fa.."
+results_per_page: 15
+since_id: 0

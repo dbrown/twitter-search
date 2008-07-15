@@ -1,0 +1,98 @@
+--- !ruby/object:TwitterSearch::Tweets 
+max_id: 859136658
+next_page: ?page=2&max_id=859136658&q=congratulations
+page: 1
+query: congratulations
+results: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:23:25 +0000
+  from_user: paulwalk
+  id: 859136658
+  language: en
+  text: "@suzicatherine congratulations! I still haven't done the practical test yet...."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:21:44 +0000
+  from_user: miguelrodriguez
+  id: 859135051
+  language: en
+  text: "@biz congratulations! good move"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:20:09 +0000
+  from_user: pixelrn
+  id: 859133496
+  language: en
+  text: "@jayvirdy Congratulations and thank you for making me google the word \"cacographic\" ( ;"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:18:10 +0000
+  from_user: DHogan
+  id: 859131442
+  language: en
+  text: Congratulations Summize!
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:17:56 +0000
+  from_user: MyronRosmarin
+  id: 859131197
+  language: en
+  text: "@summize woohoo! Congratulations!!"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:17:41 +0000
+  from_user: GI_Josh
+  id: 859130929
+  language: en
+  text: "@WilHarris Congratulations on the E-peen Wil  http://tinyurl.com/bc3k3    :-)"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:16:56 +0000
+  from_user: mashraqi
+  id: 859130172
+  language: en
+  text: "@Johnborthwick: congratulations on Summize acquisition by Twitter http://bit.ly/3RKU2d"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:16:43 +0000
+  from_user: NextInstinct
+  id: 859129949
+  language: en
+  text: "@biz Congratulations. Brilliant in so many ways."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:15:43 +0000
+  from_user: rpasay
+  id: 859128853
+  language: en
+  text: Congratulations to @twitter's acquisition of @summize. I can't wait to see where this goes. http://snurl.com/2z0fn
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:14:05 +0000
+  from_user: ppmartin
+  id: 859127178
+  language: en
+  text: "The oldest blogger - RIP: Congratulations and farewell to Ms. Olive Riley, who blogged until the respect.. http://twurl.nl/oukvkn"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:12:20 +0000
+  from_user: aliceqfoodie
+  id: 859125461
+  language: en
+  text: "@jedsundwall congratulations!!"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:11:23 +0000
+  from_user: joshlewis
+  id: 859124544
+  language: en
+  text: "@dankeen I didn't even know you were engaged! Congratulations!"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:10:57 +0000
+  from_user: dpillie
+  id: 859124126
+  language: en
+  text: "@joshgillespie Congratulations Josh!  What is the due date?"
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:10:43 +0000
+  from_user: dougbecker
+  id: 859123930
+  language: en
+  text: "@jack That's fantastic news! I'm a Twitter noob but think this is a great move. Congratulations."
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Tue, 15 Jul 2008 16:09:31 +0000
+  from_user: evantravers
+  id: 859122825
+  language: en
+  text: "@ev Congratulations. That's a great move on your part. It's darn fast too. Consider pownce and jaiku trashed."
+results_per_page: 15
+since_id: 852930295
