@@ -259,6 +259,18 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     should_return_tweets_in_sets_of 30
   end
 
+  context 'since_id' do
+    setup do
+      @tweets = read_yaml :file => 'english'
+    end
+    
+    should_have_default_search_behaviors
+    
+    should 'be zero for page one' do
+      assert_equal 0, @tweets.since_id
+    end
+  end
+
   protected
   
     def convert_date(date)
