@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name             = "twitter-search"
-  s.version          = "0.4"
-  s.date             = "2008-07-15"
+  s.version          = "0.5"
+  s.date             = "2008-08-04"
   s.summary          = "Ruby client for Twitter Search."
   s.email            = "dcroak@thoughtbot.com"
   s.homepage         = "http://github.com/dancroak/twitter-search"
