@@ -34,6 +34,10 @@ module TwitterSearch
     def size
       @results.size
     end
+    
+    def [](index)
+      @results[index]
+    end
   end
 
   class Client

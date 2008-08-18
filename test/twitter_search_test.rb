@@ -259,15 +259,17 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     should_return_tweets_in_sets_of 30
   end
 
-  context 'since_id' do
+  # HELPERS
+  
+  context "@tweets[2]" do
     setup do
-      @tweets = read_yaml :file => 'english'
+      @tweets = read_yaml :file => 'reference_mashable'
     end
     
     should_have_default_search_behaviors
     
-    should 'be zero for page one' do
-      assert_equal 0, @tweets.since_id
+    should 'return the third tweet' do
+      assert_equal 859152168, @tweets[2].id
     end
   end
 
