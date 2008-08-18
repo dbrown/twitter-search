@@ -10,7 +10,7 @@ Install the gem.
 
 Require the gem.
 
-    require 'twitter-search'
+    require 'twitter_search'
 
 Set up a TwitterSearch::Client. Name your client (a.k.a. 'user agent') to something meaningful, such as your app's name. This helps Twitter Search answer any questions about your use of the API.
 
