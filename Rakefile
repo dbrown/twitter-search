@@ -1,17 +1,35 @@
-# coding: utf-8
-# Dan Croak, July 2008
 require 'rake'
 require 'rake/testtask'
-
+require 'date'
+ 
 test_files_pattern = 'test/rails_root/test/{unit,functional,other}/**/*_test.rb'
 Rake::TestTask.new do |t|
   t.libs << 'lib'
   t.pattern = test_files_pattern
   t.verbose = false
 end
-
+ 
 desc "Run the test suite"
 task :default => :test
+ 
+spec = Gem::Specification.new do |s|
+  s.name = "twitter-search"
+  s.summary = "Ruby client for Twitter Search."
+  s.email = "dcroak@thoughtbot.com"
+  s.homepage = "http://github.com/dancroak/twitter-search"
+  s.description = "Ruby client for Twitter Search."
+  s.authors = ["Dustin Sallings", "Dan Croak"]
+  s.files = FileList["[A-Z]*", "{lib,test}/**/*"]
+  s.add_dependency('json', '>= 1.1.2')
+end
+ 
+begin
+  require 'rubygems'
+  require 'jeweler'
+  Jeweler.gemspec = spec
+rescue LoadError 
+  puts "Jeweler not available. sudo gem install technicalpickles-jeweler --source=http://gems.github.com"
+end
 
 require File.expand_path('lib/twitter_search', File.dirname(__FILE__))
 require 'rubygems'
