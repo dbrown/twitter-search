@@ -6,7 +6,7 @@ require 'cgi'
 module TwitterSearch
 
   class Tweet
-    VARS = [:text, :from_user, :created_at, :id]
+    VARS = [:text, :from_user, :to_user, :to_user_id, :id, :iso_language_code, :from_user_id, :created_at, :profile_image_url ]
     attr_reader *VARS
     attr_reader :language
     
